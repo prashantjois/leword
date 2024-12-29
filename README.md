@@ -2,4 +2,4 @@
 
 Yep, completely different.
 
-leword.jung.cx
+https://leword.jung.cx
