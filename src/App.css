@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.App-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wide-key {
+  flex: 1 1 auto;
+  padding: 5px 20px;
+}
+
+.tile {
+  width: 40px;
+  height: 40px;
+  margin: 2px;
+  background-color: lightgray;
+  border: 2px solid transparent;
+  text-align: center;
+  line-height: 40px;
+  font-weight: bold;
+  color: black;
+}
+
+.tile.has-letter {
+  border-color: black;
+  background-color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.yellow {
+  background-color: #b59f3b;
+  color: white;
+}
+
+.gray {
+  background-color: lightgray;
+  color: white;
+}
+
+.keyboard {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.keyboard-row {
+  margin-bottom: 5px;
+}
+
+.key {
+  margin: 3px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #dddddd;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.key:active {
+  background-color: #bbbbbb;
+}
+
+.confetti {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.banner {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  opacity: 0.95;
+  color: black;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  text-align: center;
+}
