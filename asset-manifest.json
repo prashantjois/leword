@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leword/static/css/main.711dfc7d.css",
+    "main.js": "/leword/static/js/main.89798867.js",
+    "static/js/488.07b54bb2.chunk.js": "/leword/static/js/488.07b54bb2.chunk.js",
+    "index.html": "/leword/index.html",
+    "main.711dfc7d.css.map": "/leword/static/css/main.711dfc7d.css.map",
+    "main.89798867.js.map": "/leword/static/js/main.89798867.js.map",
+    "488.07b54bb2.chunk.js.map": "/leword/static/js/488.07b54bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711dfc7d.css",
+    "static/js/main.89798867.js"
+  ]
+}
