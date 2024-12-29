@@ -2,7 +2,7 @@
   "name": "leword",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prashantjois.github.io/leword",
+  "homepage": "https://leword.jung.cx",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
