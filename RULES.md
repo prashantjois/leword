@@ -9,5 +9,9 @@
 - Answers are generally common five-letter nouns, verbs, and adjectives.
 - Common plural words may appear, such as `trees` or `books`.
 - Rare, technical, proper, or heavily inflected words are generally avoided.
+- Nationalities and demonyms are allowed, even when normally capitalized.
+- Recognizable historical words and titles are allowed; age alone does not exclude a word.
+- Medical terms, including conditions, clinical anatomy, and treatments, are allowed.
+- Sexual medical terms, genital/reproductive anatomy, and sexual fluids are excluded.
 - Contractions and hyphenated words do not count.
 - The goal is to solve the word using as few guesses as possible.

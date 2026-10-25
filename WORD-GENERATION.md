@@ -54,3 +54,14 @@ Useful options:
 The final list is:
 
 `data/candidate-words.txt`
+
+## Dictionary type audit and pruning
+
+See `data/candidate-word-types.md` for dictionary classification and the explicit
+word-by-word decisions in `data/candidate-word-review.json`. Parts of speech and
+frequency do not determine eligibility. After rebuilding candidates, review any
+new words, regenerate their type mapping
+and run `scripts/prune_candidate_words.py`. New removals are added to
+`data/excluded-candidate-words.txt`, with reasons preserved in
+`data/candidate-word-pruning.json`. The active type mapping always covers the
+remaining candidates exactly.

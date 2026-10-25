@@ -1,0 +1,6412 @@
+{
+  "abaft": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "abbes": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "abram": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "abuja": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "acrux": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "acuff": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "adana": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "addie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "adela": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "adele": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "adler": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "admix": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "afaik": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "agana": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aggie": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aggro": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "agnew": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ahmad": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ahmed": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aiken": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "aimee": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aires": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "verb"
+    ]
+  },
+  "aisha": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "akbar": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "akita": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "akiva": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "akkad": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alack": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alana": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alcoa": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aldan": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "algal": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "alger": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "algol": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "aline": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "verb"
+    ]
+  },
+  "alisa": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alkyd": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "allie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alsop": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "altai": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alton": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "alyce": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "amado": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "amaru": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "amati": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "amgen": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "amide": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "amine": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "amoco": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "amway": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "anent": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "angie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "anhui": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "anion": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "anita": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "annam": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "anted": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "antis": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "anton": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "anzac": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "anzus": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "apses": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "apter": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "aquas": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "araby": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "arden": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "areal": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "arius": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "arneb": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "arras": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "artie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aruba": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "arums": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "aryan": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "adjective",
+      "proper noun"
+    ]
+  },
+  "asama": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "asoka": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "assad": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "assam": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "assoc": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aston": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "aswan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "atilt": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "atman": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "attar": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "auden": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "audra": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "auxin": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "avery": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "avila": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "avior": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "awacs": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "awing": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "ayahs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ayala": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ayers": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "azana": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "baaed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "baath": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "baccy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "baden": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bahia": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bahts": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "baird": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bairn": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "balds": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "bambi": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "basel": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "basho": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "basie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "basra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "basso": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bauer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bawds": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bayer": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bayes": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "verb"
+    ]
+  },
+  "bbses": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "beaut": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "becky": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bedim": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "beebe": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "begum": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "behan": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "belau": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "belem": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bella": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "benet": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "benin": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bents": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "beria": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "berks": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "berle": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "berra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "berta": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "besom": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "besot": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "betel": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bethe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "betsy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bette": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "beyer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "biddy": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "biden": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "biffs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "bight": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "bilbo": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bioko": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bjork": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "blags": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "blats": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "blatz": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "blear": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "bligh": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bloch": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "blued": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "bluet": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bobbi": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bodge": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "boffo": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "bogon": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bolls": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bonce": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "boole": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "boone": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "borgs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "boris": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "botha": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bowen": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "boxen": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "boyer": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "boyle": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bract": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "brady": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bragg": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "brahe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "breve": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "brice": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "brill": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "britt": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bruit": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "bruno": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "bryce": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "buber": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "buffy": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "bumph": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "bunin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "burch": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "burgs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "burks": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "busch": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "busty": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "adjective"
+    ]
+  },
+  "byers": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "byres": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "cadge": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "cadiz": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "caffs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "caleb": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "calif": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "calks": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "caner": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cantu": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "capek": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "capet": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "capra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "capri": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "carla": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "carly": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "casas": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "casey": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ceder": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "celia": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cetus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "chars": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "cheri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "chert": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "chimu": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "chivy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "cindy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cirri": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "clair": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clara": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clews": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "cline": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "clvii": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clxii": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clxiv": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clxix": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clxvi": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "clyde": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "cocos": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "cohan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "cohos": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "colby": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "coley": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "comdr": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "compo": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "comte": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "conan": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "contd": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cooke": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "coons": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "corey": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "corfu": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "corms": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "corot": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "cosby": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "coyle": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "coypu": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "cozen": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "crays": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "crecy": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "creon": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "croce": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cruft": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cruse": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "cuber": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "curer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "cuzco": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "cyril": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "daces": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dagos": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dakar": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "daley": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dangs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "daren": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "darer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "darin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dario": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "darla": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "darth": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "daryl": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "davao": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "davit": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dawes": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dayan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "deana": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "deann": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "debra": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "decca": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "deena": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "deere": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "defoe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "delia": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "demob": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "deneb": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "denis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "denny": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "derek": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "devin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dewar": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dewey": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dhaka": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dhows": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "diann": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dicta": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "diffs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dijon": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "diked": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "dinah": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dipso": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dirac": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "direr": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "dixon": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dobro": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dogie": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dolby": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dolor": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "donas": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "donne": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "doper": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "doric": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "adjective",
+      "proper noun"
+    ]
+  },
+  "doter": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "douay": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "douro": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dower": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "doyle": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "draco": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "drear": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "droid": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "drupe": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "duane": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dubai": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dubhe": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "duded": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "duffs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dumbo": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dumbs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dungs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "duple": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "duran": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "durer": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "duroc": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dvina": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "dyads": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "dylan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "dyson": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "earle": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "eaton": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ebert": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "eclat": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "edams": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "edsel": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "educe": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "effed": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "effie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "efren": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "eland": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "eldon": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elena": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elgar": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "elias": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "eliot": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "elisa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "elise": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "eliza": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ellie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ellis": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "elroy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elsie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elton": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elver": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "elvia": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elvin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "elway": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "emile": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "emmys": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "endue": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "enron": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "epcot": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "equiv": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "erato": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "ergot": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "erich": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "erick": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "erika": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ernst": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "errol": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "eruct": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "ervin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "erwin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "essen": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "essex": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "essie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "estes": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ethyl": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "eulas": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "euler": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "evert": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "proper noun",
+      "verb"
+    ]
+  },
+  "evian": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "evita": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "exurb": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "faddy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "farad": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "fargo": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "farsi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "fatah": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "fermi": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "fichu": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "finis": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "fiona": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "firer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "fitch": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "fitly": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "flatt": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "flory": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "floyd": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "flynn": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "foley": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "fonda": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "fores": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "fosse": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "freda": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "frodo": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "fromm": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "frosh": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "fugal": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "fuggy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "fulls": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "fundy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "furze": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "fusee": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "gallo": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gamay": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gamin": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "gamow": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "ganja": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "garry": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "garza": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gatun": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gauss": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "gayle": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gelid": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "gerry": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "getty": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ghent": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "gibbs": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "gibed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "gilda": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gimps": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "gimpy": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "giros": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "girts": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gites": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "glace": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "glads": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "glans": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "glenn": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "gluon": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "glute": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "godel": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "godot": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "goers": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "golda": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "golgi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "gonad": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "gonks": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "goode": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "goren": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gorey": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gorky": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "gorps": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gould": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "grady": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "greer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gregg": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "greps": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "grieg": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "groin": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun",
+      "verb"
+    ]
+  },
+  "groks": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "grosz": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "grues": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "guido": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gungy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gyved": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "gyves": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "haber": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hadar": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hafiz": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "haler": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective",
+      "regular noun"
+    ]
+  },
+  "hales": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "proper noun",
+      "verb"
+    ]
+  },
+  "haley": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "halon": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "haney": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "haply": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "hared": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "harte": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hayek": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hbase": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hdqrs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hebei": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hegel": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "heine": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "helga": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "helve": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "hemet": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "henan": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "henri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "herod": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "herzl": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hesse": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hided": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "hilda": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hindi": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "adjective",
+      "proper noun"
+    ]
+  },
+  "hines": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hings": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hiram": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hobbs": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hodge": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hoers": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hoffa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hogan": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "hoick": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hoked": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hokes": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "holst": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "honer": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hooke": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "horas": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "horne": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "horus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "houma": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "huang": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "huber": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "huron": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "hurst": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "hymen": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "hypos": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "iambs": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "iblis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "icbms": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "ilene": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "iliad": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "illus": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "imago": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "imper": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "indio": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "indra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "indus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "infix": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "infra": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "inonu": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "instr": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "invar": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "irvin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "irwin": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "ishim": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "isuzu": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "izaak": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jabot": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "jacky": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jamar": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jamel": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "janie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "janis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "janna": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "japed": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jatos": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jawed": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "jayne": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jemmy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "jerri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jewry": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "jibed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "jidda": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "jinni": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "jinny": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jived": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "joann": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jodie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jonas": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "joyed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "jubal": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "jujus": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "jules": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "junes": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "jurua": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kappa": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "karol": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "karyn": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kasai": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "kasey": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kayla": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kayos": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "kelli": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "keogh": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kepis": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "kerri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "keven": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "khufu": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "kirov": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "kited": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "kluge": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "knapp": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "knopf": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "knurl": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "koans": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "kolas": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "kraal": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "kraut": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "krebs": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "kusch": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "laban": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "labia": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "laded": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "lades": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "lagos": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "laius": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lamed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "lamer": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "adjective"
+    ]
+  },
+  "lames": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "lanny": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lapin": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "largo": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "adjective",
+      "adverb",
+      "regular noun"
+    ]
+  },
+  "lased": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lases": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lassa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lauri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "laval": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "laved": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "laves": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "leary": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "leger": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "lemma": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "leola": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lepke": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lepta": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lepus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "letha": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lethe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "levis": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "lexer": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "libby": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "libra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lidar": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lidia": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lilia": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lille": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "limey": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lindy": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lings": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lippi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lizzy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "llano": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "locke": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "locos": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "locum": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "loewe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "loewi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "loews": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "loges": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "loins": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "loire": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "loren": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lorie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lorna": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lorre": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lough": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "lours": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "luann": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lucks": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "luffs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "luger": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "lully": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "lurgy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "luria": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lusts": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "lusty": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "adjective"
+    ]
+  },
+  "lxvii": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "lyell": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lyman": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lynda": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lynne": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "lyons": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "mable": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "magog": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "magoo": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "mahdi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "mamet": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "mamma": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "marat": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "marci": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "marcy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "marne": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "marva": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "masai": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "masas": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "maser": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mater": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective",
+      "regular noun"
+    ]
+  },
+  "mbini": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "mcjob": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "medan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "melba": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "menes": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "mensa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "merak": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "merck": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "merle": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "meson": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mezzo": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mfume": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "micks": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "midas": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "middy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "midis": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "milne": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "milts": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mingy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "minim": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "minot": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "misdo": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "misos": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mitty": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "mizar": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "modus": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "moils": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "moire": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective",
+      "regular noun"
+    ]
+  },
+  "molls": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "monad": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "monte": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "morin": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "motet": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "moues": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "mulct": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "munis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "murks": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "muzzy": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "nahum": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "naiad": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "nampa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "nanak": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "narco": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "narky": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "neaps": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "newel": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "nexis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "niffy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "nimbi": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "niobe": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "nisei": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "niter": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "noddy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "nodoz": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "noemi": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "nohow": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "nonce": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "nooky": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "noris": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "noyce": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "noyes": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "nuder": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "nunki": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "nyasa": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "oates": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "ocker": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "octal": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "odets": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "onega": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "oriel": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "orris": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "osier": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ouija": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "outre": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "ovary": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "ovate": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "ovule": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "pabst": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "palmy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "parcs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "parky": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "patti": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pauli": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "payed": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "payne": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "peale": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pecos": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "peens": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pelee": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pends": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "penis": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "penna": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "perls": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pewee": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pewit": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "picot": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "piked": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "piker": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pined": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "pinko": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "plash": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "plats": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "platy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "playa": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "plebe": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "plumy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "pming": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pocks": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "polly": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "polys": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pommy": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "poncy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pones": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pongs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pooed": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "poofs": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "poohs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "poole": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "porgy": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "poxes": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "prang": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "prole": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "prosy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "pseud": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pubic": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "adjective",
+      "medical term"
+    ]
+  },
+  "pubis": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "pukka": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "puled": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "pules": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "pupae": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "pupal": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "adjective"
+    ]
+  },
+  "purim": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "purus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "pusey": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "pwned": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "pygmy": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "pyxes": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "quaky": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "quant": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "quark": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "qubit": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "quine": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "quins": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "quirt": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "quito": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "quoin": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "quoit": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ramie": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "randy": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "adjective"
+    ]
+  },
+  "ranee": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "raper": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "rared": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rares": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rasta": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "recto": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "regor": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rewed": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rheum": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "rhine": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "rhone": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "rials": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ricin": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ricks": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "ridgy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rifer": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "rimed": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "rimes": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "rived": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "rives": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "riyal": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "roche": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "roget": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "roods": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "roper": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "rosie": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "roues": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "rowel": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "rsfsr": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "rutty": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "sabik": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "sabot": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sabra": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sacco": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sachs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "saiph": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "samoa": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sanka": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "sarin": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sarto": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "scarp": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "schmo": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "schwa": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "scrag": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "scrod": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "scrog": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "scuds": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "seato": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "sedgy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "segre": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "semen": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "serge": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "serra": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "seton": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "setts": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sexed": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "adjective",
+      "verb"
+    ]
+  },
+  "shads": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "shags": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "shays": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sheol": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "shewn": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "shews": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "shirr": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "shoat": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sikhs": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sivan": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "skoal": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "slags": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "slued": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "slues": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "smogs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "smurf": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "snead": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "snell": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "snick": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "soddy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "sodom": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "solis": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "somme": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sooth": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sorer": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "soses": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sough": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "speer": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sperm": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "spica": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "spics": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "spinx": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "spiro": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "spiry": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "spivs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sprog": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "spumy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "squaw": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "stael": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "stagy": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "adjective"
+    ]
+  },
+  "stets": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "stoup": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "stria": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "sucre": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "sudra": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "suety": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "sufis": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "sulla": {
+    "reason": "primarily a name, demonym, or name-derived term in familiar usage",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "sunni": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "suppl": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "supra": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "adverb"
+    ]
+  },
+  "sward": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "switz": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "swizz": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "synge": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "tabor": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "taine": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tarim": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tasha": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "taxer": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "taxon": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "teats": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "tench": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "terra": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "terri": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tessa": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tevet": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "therm": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "theta": {
+    "reason": "specialist scientific, medical, musical, or technical vocabulary",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "thews": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "thole": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "thule": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "tided": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "timor": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "tings": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "titch": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "toffs": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "tokay": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "toked": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "topee": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "trews": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "trier": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "trows": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "trugs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tubal": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "adjective",
+      "medical term"
+    ]
+  },
+  "tumid": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "tunny": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "tuple": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "turds": {
+    "reason": "anatomically explicit, sexual, or drug-related answer",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "turfy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "turps": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "tutti": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "tyros": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "ukase": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "umbel": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "umiak": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "umped": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "unary": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "unbid": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "urals": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "uteri": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "vasts": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vaxes": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vedas": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "velar": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "adjective",
+      "regular noun"
+    ]
+  },
+  "velds": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "verde": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "verso": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "viand": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "viced": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "virgo": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "vised": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vitae": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vitim": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vitus": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "volta": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "voxel": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "unknown"
+    ]
+  },
+  "vulva": {
+    "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
+    "types": [
+      "medical term",
+      "regular noun"
+    ]
+  },
+  "wacks": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "wadge": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "wains": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "waled": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "warez": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "waugh": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "wazoo": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "weals": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "weber": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "weens": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "weest": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "weill": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "weiss": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "welch": {
+    "reason": "derogatory label or offensive usage",
+    "types": [
+      "verb"
+    ]
+  },
+  "wesak": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "whelm": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "verb"
+    ]
+  },
+  "whens": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "whops": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "interjection",
+      "verb"
+    ]
+  },
+  "whups": {
+    "reason": "uncommon, specialized, or nonstandard expression; individually reviewed",
+    "types": [
+      "interjection"
+    ]
+  },
+  "wicca": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "wiled": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "wined": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "wises": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "withe": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "wived": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "verb"
+    ]
+  },
+  "wodge": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "wolds": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "regular noun"
+    ]
+  },
+  "wolfs": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun",
+      "verb"
+    ]
+  },
+  "wrack": {
+    "reason": "obscure spelling or unusual standalone usage; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "wryer": {
+    "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
+    "types": [
+      "adjective"
+    ]
+  },
+  "wussy": {
+    "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "xenia": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "yalow": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "yanks": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "verb"
+    ]
+  },
+  "yawls": {
+    "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
+    "types": [
+      "regular noun",
+      "verb"
+    ]
+  },
+  "yeahs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "yeggs": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "yukky": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "yules": {
+    "reason": "proper name or demonym; individually reviewed",
+    "types": [
+      "proper noun"
+    ]
+  },
+  "zaire": {
+    "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ]
+  },
+  "zappy": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "zorch": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  },
+  "zosma": {
+    "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
+    "types": [
+      "unknown"
+    ]
+  }
+}
