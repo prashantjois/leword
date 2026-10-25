@@ -144,6 +144,7 @@ function App() {
   const [guesses, setGuesses] = useState(initialGame.guesses)
   const [current, setCurrent] = useState(initialGame.current)
   const [message, setMessage] = useState('')
+  const [warning, setWarning] = useState('')
   const [stats, setStats] = useState(loadStats)
   const [showHelp, setShowHelp] = useState(false)
 
@@ -178,6 +179,12 @@ function App() {
     return () => window.removeEventListener('keydown', handleKeyDown)
   })
 
+  useEffect(() => {
+    if (!warning) return undefined
+    const timeout = window.setTimeout(() => setWarning(''), 1800)
+    return () => window.clearTimeout(timeout)
+  }, [warning])
+
   function addLetter(letter) {
     if (gameOver) return
     setMessage('')
@@ -188,6 +195,10 @@ function App() {
     if (gameOver) return
     if (current.length !== WORD_LENGTH) {
       setMessage('Five letters, please.')
+      return
+    }
+    if (!WORDS.includes(current)) {
+      setWarning('That word is not in the word list.')
       return
     }
     const nextGuesses = [...guesses, current]
@@ -224,6 +235,7 @@ function App() {
   return (
     <main className="app-shell">
       {won && <Fireworks />}
+      {warning && <div className="warning-toast" role="alert">{warning}</div>}
       <header className="topbar">
         <div className="brand-lockup">
           <img className="brand-mark" src={`${import.meta.env.BASE_URL}le-word-logo.png`} alt="Le Word logo" />
