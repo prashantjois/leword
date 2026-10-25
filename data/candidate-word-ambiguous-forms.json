@@ -1,0 +1,6396 @@
+{
+  "aches": {
+    "singular_forms": [
+      "ache"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "aides": {
+    "singular_forms": [
+      "aide"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "antes": {
+    "singular_forms": [
+      "ante"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ashes": {
+    "singular_forms": [
+      "ash"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "backs": {
+    "singular_forms": [
+      "back"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bails": {
+    "singular_forms": [
+      "bail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "baits": {
+    "singular_forms": [
+      "bait"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bakes": {
+    "singular_forms": [
+      "bake"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bales": {
+    "singular_forms": [
+      "bale"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "balks": {
+    "singular_forms": [
+      "balk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "balls": {
+    "singular_forms": [
+      "ball"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bands": {
+    "singular_forms": [
+      "band"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "banes": {
+    "singular_forms": [
+      "bane"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bangs": {
+    "singular_forms": [
+      "bang"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "banks": {
+    "singular_forms": [
+      "bank"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "barbs": {
+    "singular_forms": [
+      "barb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bards": {
+    "singular_forms": [
+      "bard"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "barfs": {
+    "singular_forms": [
+      "barf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "barks": {
+    "singular_forms": [
+      "bark"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bases": {
+    "singular_forms": [
+      "base",
+      "basis"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "baths": {
+    "singular_forms": [
+      "bath"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beads": {
+    "singular_forms": [
+      "bead"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beaks": {
+    "singular_forms": [
+      "beak"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beams": {
+    "singular_forms": [
+      "beam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beans": {
+    "singular_forms": [
+      "bean"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bears": {
+    "singular_forms": [
+      "bear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beats": {
+    "singular_forms": [
+      "beat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beefs": {
+    "singular_forms": [
+      "beef"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "beeps": {
+    "singular_forms": [
+      "beep"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bells": {
+    "singular_forms": [
+      "bell"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "belts": {
+    "singular_forms": [
+      "belt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bends": {
+    "singular_forms": [
+      "bend"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bests": {
+    "singular_forms": [
+      "best"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bikes": {
+    "singular_forms": [
+      "bike"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bills": {
+    "singular_forms": [
+      "bill"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "binds": {
+    "singular_forms": [
+      "bind"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "birds": {
+    "singular_forms": [
+      "bird"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bites": {
+    "singular_forms": [
+      "bite"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blobs": {
+    "singular_forms": [
+      "blob"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blogs": {
+    "singular_forms": [
+      "blog"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blots": {
+    "singular_forms": [
+      "blot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blows": {
+    "singular_forms": [
+      "blow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blues": {
+    "singular_forms": [
+      "blue"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "blurs": {
+    "singular_forms": [
+      "blur"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "boats": {
+    "singular_forms": [
+      "boat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "boils": {
+    "singular_forms": [
+      "boil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bolts": {
+    "singular_forms": [
+      "bolt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bombs": {
+    "singular_forms": [
+      "bomb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bonds": {
+    "singular_forms": [
+      "bond"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bones": {
+    "singular_forms": [
+      "bone"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bongs": {
+    "singular_forms": [
+      "bong"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "books": {
+    "singular_forms": [
+      "book"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "booms": {
+    "singular_forms": [
+      "boom"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "boots": {
+    "singular_forms": [
+      "boot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bores": {
+    "singular_forms": [
+      "bore"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bowls": {
+    "singular_forms": [
+      "bowl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "boxes": {
+    "singular_forms": [
+      "box"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "brads": {
+    "singular_forms": [
+      "brad"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "brags": {
+    "singular_forms": [
+      "brag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "brays": {
+    "singular_forms": [
+      "bray"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "brews": {
+    "singular_forms": [
+      "brew"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "brims": {
+    "singular_forms": [
+      "brim"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bucks": {
+    "singular_forms": [
+      "buck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "buffs": {
+    "singular_forms": [
+      "buff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bulks": {
+    "singular_forms": [
+      "bulk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bulls": {
+    "singular_forms": [
+      "bull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bumps": {
+    "singular_forms": [
+      "bump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bungs": {
+    "singular_forms": [
+      "bung"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bunks": {
+    "singular_forms": [
+      "bunk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "bunts": {
+    "singular_forms": [
+      "bunt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "buoys": {
+    "singular_forms": [
+      "buoy"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "burls": {
+    "singular_forms": [
+      "burl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "burns": {
+    "singular_forms": [
+      "burn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "burps": {
+    "singular_forms": [
+      "burp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "burrs": {
+    "singular_forms": [
+      "burr"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "buses": {
+    "singular_forms": [
+      "bus"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "busts": {
+    "singular_forms": [
+      "bust"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cages": {
+    "singular_forms": [
+      "cage"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cakes": {
+    "singular_forms": [
+      "cake"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "calls": {
+    "singular_forms": [
+      "call"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "calms": {
+    "singular_forms": [
+      "calm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "camps": {
+    "singular_forms": [
+      "camp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "canes": {
+    "singular_forms": [
+      "cane"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cants": {
+    "singular_forms": [
+      "cant"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "capes": {
+    "singular_forms": [
+      "cape"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cards": {
+    "singular_forms": [
+      "card"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cares": {
+    "singular_forms": [
+      "care"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "carps": {
+    "singular_forms": [
+      "carp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "carts": {
+    "singular_forms": [
+      "cart"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cases": {
+    "singular_forms": [
+      "case"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "casts": {
+    "singular_forms": [
+      "cast"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "caves": {
+    "singular_forms": [
+      "cave"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chaps": {
+    "singular_forms": [
+      "chap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chats": {
+    "singular_forms": [
+      "chat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chews": {
+    "singular_forms": [
+      "chew"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chins": {
+    "singular_forms": [
+      "chin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chips": {
+    "singular_forms": [
+      "chip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chops": {
+    "singular_forms": [
+      "chop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "chugs": {
+    "singular_forms": [
+      "chug"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cites": {
+    "singular_forms": [
+      "cite"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clams": {
+    "singular_forms": [
+      "clam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "claps": {
+    "singular_forms": [
+      "clap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "claws": {
+    "singular_forms": [
+      "claw"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clips": {
+    "singular_forms": [
+      "clip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clogs": {
+    "singular_forms": [
+      "clog"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clops": {
+    "singular_forms": [
+      "clop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clots": {
+    "singular_forms": [
+      "clot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clubs": {
+    "singular_forms": [
+      "club"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "clues": {
+    "singular_forms": [
+      "clue"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coals": {
+    "singular_forms": [
+      "coal"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coats": {
+    "singular_forms": [
+      "coat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "codes": {
+    "singular_forms": [
+      "code"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coifs": {
+    "singular_forms": [
+      "coif"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coils": {
+    "singular_forms": [
+      "coil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coins": {
+    "singular_forms": [
+      "coin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cokes": {
+    "singular_forms": [
+      "coke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "combs": {
+    "singular_forms": [
+      "comb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "comes": {
+    "singular_forms": [
+      "come"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cones": {
+    "singular_forms": [
+      "cone"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "conks": {
+    "singular_forms": [
+      "conk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cooks": {
+    "singular_forms": [
+      "cook"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cools": {
+    "singular_forms": [
+      "cool"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "copes": {
+    "singular_forms": [
+      "cope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cords": {
+    "singular_forms": [
+      "cord"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cores": {
+    "singular_forms": [
+      "core"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "corks": {
+    "singular_forms": [
+      "cork"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "corns": {
+    "singular_forms": [
+      "corn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "costs": {
+    "singular_forms": [
+      "cost"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cowls": {
+    "singular_forms": [
+      "cowl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "coxes": {
+    "singular_forms": [
+      "cox"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "crabs": {
+    "singular_forms": [
+      "crab"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "crews": {
+    "singular_forms": [
+      "crew"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cribs": {
+    "singular_forms": [
+      "crib"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cries": {
+    "singular_forms": [
+      "cry"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "crops": {
+    "singular_forms": [
+      "crop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "crows": {
+    "singular_forms": [
+      "crow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cubes": {
+    "singular_forms": [
+      "cube"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cuffs": {
+    "singular_forms": [
+      "cuff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "culls": {
+    "singular_forms": [
+      "cull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "curbs": {
+    "singular_forms": [
+      "curb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "cures": {
+    "singular_forms": [
+      "cure"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "curls": {
+    "singular_forms": [
+      "curl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dames": {
+    "singular_forms": [
+      "dame"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "damps": {
+    "singular_forms": [
+      "damp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dares": {
+    "singular_forms": [
+      "dare"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "darns": {
+    "singular_forms": [
+      "darn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "darts": {
+    "singular_forms": [
+      "dart"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dates": {
+    "singular_forms": [
+      "date"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "daubs": {
+    "singular_forms": [
+      "daub"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dawns": {
+    "singular_forms": [
+      "dawn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dazes": {
+    "singular_forms": [
+      "daze"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "deals": {
+    "singular_forms": [
+      "deal"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "decks": {
+    "singular_forms": [
+      "deck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "demos": {
+    "singular_forms": [
+      "demo"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dents": {
+    "singular_forms": [
+      "dent"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dials": {
+    "singular_forms": [
+      "dial"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dices": {
+    "singular_forms": [
+      "dice"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "diets": {
+    "singular_forms": [
+      "diet"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dikes": {
+    "singular_forms": [
+      "dike"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dimes": {
+    "singular_forms": [
+      "dime"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dings": {
+    "singular_forms": [
+      "ding"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "disks": {
+    "singular_forms": [
+      "disk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dives": {
+    "singular_forms": [
+      "dive"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "docks": {
+    "singular_forms": [
+      "dock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "doges": {
+    "singular_forms": [
+      "doge"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dooms": {
+    "singular_forms": [
+      "doom"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dopes": {
+    "singular_forms": [
+      "dope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "doses": {
+    "singular_forms": [
+      "dos",
+      "dose"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "downs": {
+    "singular_forms": [
+      "down"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dozes": {
+    "singular_forms": [
+      "doze"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "drags": {
+    "singular_forms": [
+      "drag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "draws": {
+    "singular_forms": [
+      "draw"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dries": {
+    "singular_forms": [
+      "dry"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "drips": {
+    "singular_forms": [
+      "drip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "drops": {
+    "singular_forms": [
+      "drop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "drugs": {
+    "singular_forms": [
+      "drug"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "drums": {
+    "singular_forms": [
+      "drum"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ducks": {
+    "singular_forms": [
+      "duck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "duels": {
+    "singular_forms": [
+      "duel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dumps": {
+    "singular_forms": [
+      "dump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dunes": {
+    "singular_forms": [
+      "dune"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dunks": {
+    "singular_forms": [
+      "dunk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dupes": {
+    "singular_forms": [
+      "dupe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "dusts": {
+    "singular_forms": [
+      "dust"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "eases": {
+    "singular_forms": [
+      "eas",
+      "ease"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "edges": {
+    "singular_forms": [
+      "edge"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "evens": {
+    "singular_forms": [
+      "even"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "exits": {
+    "singular_forms": [
+      "exit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "faces": {
+    "singular_forms": [
+      "face"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fades": {
+    "singular_forms": [
+      "fade"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "faffs": {
+    "singular_forms": [
+      "faff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fairs": {
+    "singular_forms": [
+      "fair"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fakes": {
+    "singular_forms": [
+      "fake"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "falls": {
+    "singular_forms": [
+      "fall"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fares": {
+    "singular_forms": [
+      "fare"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "farms": {
+    "singular_forms": [
+      "farm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fasts": {
+    "singular_forms": [
+      "fast"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fates": {
+    "singular_forms": [
+      "fate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fawns": {
+    "singular_forms": [
+      "fawn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "faxes": {
+    "singular_forms": [
+      "fax"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fears": {
+    "singular_forms": [
+      "fear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "feeds": {
+    "singular_forms": [
+      "feed"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "feels": {
+    "singular_forms": [
+      "feel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fells": {
+    "singular_forms": [
+      "fell"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "felts": {
+    "singular_forms": [
+      "felt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fetes": {
+    "singular_forms": [
+      "fete"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "feuds": {
+    "singular_forms": [
+      "feud"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "files": {
+    "singular_forms": [
+      "file"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fills": {
+    "singular_forms": [
+      "fill"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "films": {
+    "singular_forms": [
+      "film"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "finds": {
+    "singular_forms": [
+      "find"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fines": {
+    "singular_forms": [
+      "fine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "finks": {
+    "singular_forms": [
+      "fink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fires": {
+    "singular_forms": [
+      "fire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "firms": {
+    "singular_forms": [
+      "firm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fives": {
+    "singular_forms": [
+      "five"
+    ],
+    "nonplural_uses": [
+      "singular noun (the ball game)"
+    ]
+  },
+  "fixes": {
+    "singular_forms": [
+      "fix"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flags": {
+    "singular_forms": [
+      "flag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flaps": {
+    "singular_forms": [
+      "flap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flaws": {
+    "singular_forms": [
+      "flaw"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flies": {
+    "singular_forms": [
+      "fly"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flips": {
+    "singular_forms": [
+      "flip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flits": {
+    "singular_forms": [
+      "flit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flops": {
+    "singular_forms": [
+      "flop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flows": {
+    "singular_forms": [
+      "flow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "flubs": {
+    "singular_forms": [
+      "flub"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "foals": {
+    "singular_forms": [
+      "foal"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "foams": {
+    "singular_forms": [
+      "foam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "foils": {
+    "singular_forms": [
+      "foil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "folds": {
+    "singular_forms": [
+      "fold"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fools": {
+    "singular_forms": [
+      "fool"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "foots": {
+    "singular_forms": [
+      "foot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fords": {
+    "singular_forms": [
+      "ford"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "forks": {
+    "singular_forms": [
+      "fork"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "forms": {
+    "singular_forms": [
+      "form"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "forts": {
+    "singular_forms": [
+      "fort"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fouls": {
+    "singular_forms": [
+      "foul"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fowls": {
+    "singular_forms": [
+      "fowl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "foxes": {
+    "singular_forms": [
+      "fox"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "frags": {
+    "singular_forms": [
+      "frag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "frays": {
+    "singular_forms": [
+      "fray"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "frees": {
+    "singular_forms": [
+      "free"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "frets": {
+    "singular_forms": [
+      "fret"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fries": {
+    "singular_forms": [
+      "fry"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "frogs": {
+    "singular_forms": [
+      "frog"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fuels": {
+    "singular_forms": [
+      "fuel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fumes": {
+    "singular_forms": [
+      "fume"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "funds": {
+    "singular_forms": [
+      "fund"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "funks": {
+    "singular_forms": [
+      "funk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "fuses": {
+    "singular_forms": [
+      "fuse"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gains": {
+    "singular_forms": [
+      "gain"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "galls": {
+    "singular_forms": [
+      "gall"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "games": {
+    "singular_forms": [
+      "game"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gangs": {
+    "singular_forms": [
+      "gang"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gapes": {
+    "singular_forms": [
+      "gape"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "garbs": {
+    "singular_forms": [
+      "garb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gases": {
+    "singular_forms": [
+      "gas"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gasps": {
+    "singular_forms": [
+      "gasp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gates": {
+    "singular_forms": [
+      "gate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gawks": {
+    "singular_forms": [
+      "gawk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gazes": {
+    "singular_forms": [
+      "gaze"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gears": {
+    "singular_forms": [
+      "gear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gents": {
+    "singular_forms": [
+      "gent"
+    ],
+    "nonplural_uses": [
+      "singular noun (a public restroom)"
+    ]
+  },
+  "gibes": {
+    "singular_forms": [
+      "gibe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gifts": {
+    "singular_forms": [
+      "gift"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gilds": {
+    "singular_forms": [
+      "gild"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gives": {
+    "singular_forms": [
+      "give"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "glows": {
+    "singular_forms": [
+      "glow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "glues": {
+    "singular_forms": [
+      "glue"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gluts": {
+    "singular_forms": [
+      "glut"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "goads": {
+    "singular_forms": [
+      "goad"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "golfs": {
+    "singular_forms": [
+      "golf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gongs": {
+    "singular_forms": [
+      "gong"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "goofs": {
+    "singular_forms": [
+      "goof"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gores": {
+    "singular_forms": [
+      "gore"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gowns": {
+    "singular_forms": [
+      "gown"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grabs": {
+    "singular_forms": [
+      "grab"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grays": {
+    "singular_forms": [
+      "gray"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grins": {
+    "singular_forms": [
+      "grin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grips": {
+    "singular_forms": [
+      "grip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grits": {
+    "singular_forms": [
+      "grit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "grubs": {
+    "singular_forms": [
+      "grub"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gulls": {
+    "singular_forms": [
+      "gull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "gulps": {
+    "singular_forms": [
+      "gulp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hacks": {
+    "singular_forms": [
+      "hack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hails": {
+    "singular_forms": [
+      "hail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "halts": {
+    "singular_forms": [
+      "halt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hands": {
+    "singular_forms": [
+      "hand"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hangs": {
+    "singular_forms": [
+      "hang"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hares": {
+    "singular_forms": [
+      "hare"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "harms": {
+    "singular_forms": [
+      "harm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "harps": {
+    "singular_forms": [
+      "harp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hasps": {
+    "singular_forms": [
+      "hasp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hates": {
+    "singular_forms": [
+      "hate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hauls": {
+    "singular_forms": [
+      "haul"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "haves": {
+    "singular_forms": [
+      "have"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hawks": {
+    "singular_forms": [
+      "hawk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hazes": {
+    "singular_forms": [
+      "haze"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "heads": {
+    "singular_forms": [
+      "head"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "heaps": {
+    "singular_forms": [
+      "heap"
+    ],
+    "nonplural_uses": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "heats": {
+    "singular_forms": [
+      "heat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "heeds": {
+    "singular_forms": [
+      "heed"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "heels": {
+    "singular_forms": [
+      "heel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hefts": {
+    "singular_forms": [
+      "heft"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "helms": {
+    "singular_forms": [
+      "helm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "helps": {
+    "singular_forms": [
+      "help"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "herds": {
+    "singular_forms": [
+      "herd"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hexes": {
+    "singular_forms": [
+      "hex"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hides": {
+    "singular_forms": [
+      "hide"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hikes": {
+    "singular_forms": [
+      "hike"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hills": {
+    "singular_forms": [
+      "hill"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hints": {
+    "singular_forms": [
+      "hint"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hires": {
+    "singular_forms": [
+      "hire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hives": {
+    "singular_forms": [
+      "hive"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hocks": {
+    "singular_forms": [
+      "hock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "holds": {
+    "singular_forms": [
+      "hold"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "holes": {
+    "singular_forms": [
+      "hole"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "homes": {
+    "singular_forms": [
+      "home"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hones": {
+    "singular_forms": [
+      "hone"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "honks": {
+    "singular_forms": [
+      "honk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hoods": {
+    "singular_forms": [
+      "hood"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hoofs": {
+    "singular_forms": [
+      "hoof"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hooks": {
+    "singular_forms": [
+      "hook"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hoops": {
+    "singular_forms": [
+      "hoop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hoots": {
+    "singular_forms": [
+      "hoot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hopes": {
+    "singular_forms": [
+      "hope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "horns": {
+    "singular_forms": [
+      "horn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hoses": {
+    "singular_forms": [
+      "hose"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hosts": {
+    "singular_forms": [
+      "host"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "howls": {
+    "singular_forms": [
+      "howl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "huffs": {
+    "singular_forms": [
+      "huff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hulks": {
+    "singular_forms": [
+      "hulk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hulls": {
+    "singular_forms": [
+      "hull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "humps": {
+    "singular_forms": [
+      "hump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hunts": {
+    "singular_forms": [
+      "hunt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hurls": {
+    "singular_forms": [
+      "hurl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hurts": {
+    "singular_forms": [
+      "hurt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "husks": {
+    "singular_forms": [
+      "husk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hymns": {
+    "singular_forms": [
+      "hymn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "hypes": {
+    "singular_forms": [
+      "hype"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "idles": {
+    "singular_forms": [
+      "idle"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "irons": {
+    "singular_forms": [
+      "iron"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jacks": {
+    "singular_forms": [
+      "jack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jades": {
+    "singular_forms": [
+      "jade"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jails": {
+    "singular_forms": [
+      "jail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jeers": {
+    "singular_forms": [
+      "jeer"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jerks": {
+    "singular_forms": [
+      "jerk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jests": {
+    "singular_forms": [
+      "jest"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jibes": {
+    "singular_forms": [
+      "jibe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jilts": {
+    "singular_forms": [
+      "jilt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jives": {
+    "singular_forms": [
+      "jive"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "joins": {
+    "singular_forms": [
+      "join"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jokes": {
+    "singular_forms": [
+      "joke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jolts": {
+    "singular_forms": [
+      "jolt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "jumps": {
+    "singular_forms": [
+      "jump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "junks": {
+    "singular_forms": [
+      "junk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "keels": {
+    "singular_forms": [
+      "keel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "keens": {
+    "singular_forms": [
+      "keen"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "keeps": {
+    "singular_forms": [
+      "keep"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "kicks": {
+    "singular_forms": [
+      "kick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "kills": {
+    "singular_forms": [
+      "kill"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "kinks": {
+    "singular_forms": [
+      "kink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "kites": {
+    "singular_forms": [
+      "kite"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "knits": {
+    "singular_forms": [
+      "knit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "knots": {
+    "singular_forms": [
+      "knot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "knows": {
+    "singular_forms": [
+      "know"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "laces": {
+    "singular_forms": [
+      "lace"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lacks": {
+    "singular_forms": [
+      "lack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lambs": {
+    "singular_forms": [
+      "lamb"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lands": {
+    "singular_forms": [
+      "land"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lards": {
+    "singular_forms": [
+      "lard"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "larks": {
+    "singular_forms": [
+      "lark"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lasts": {
+    "singular_forms": [
+      "last"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leads": {
+    "singular_forms": [
+      "lead"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leafs": {
+    "singular_forms": [
+      "leaf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leaks": {
+    "singular_forms": [
+      "leak"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leans": {
+    "singular_forms": [
+      "lean"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leaps": {
+    "singular_forms": [
+      "leap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "leers": {
+    "singular_forms": [
+      "leer"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "licks": {
+    "singular_forms": [
+      "lick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lifts": {
+    "singular_forms": [
+      "lift"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "likes": {
+    "singular_forms": [
+      "like"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lilts": {
+    "singular_forms": [
+      "lilt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "limes": {
+    "singular_forms": [
+      "lime"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "limps": {
+    "singular_forms": [
+      "limp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lines": {
+    "singular_forms": [
+      "line"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "links": {
+    "singular_forms": [
+      "link"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lisps": {
+    "singular_forms": [
+      "lisp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lists": {
+    "singular_forms": [
+      "list"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lives": {
+    "singular_forms": [
+      "life"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loads": {
+    "singular_forms": [
+      "load"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loafs": {
+    "singular_forms": [
+      "loaf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loans": {
+    "singular_forms": [
+      "loan"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lobes": {
+    "singular_forms": [
+      "lobe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "locks": {
+    "singular_forms": [
+      "lock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lofts": {
+    "singular_forms": [
+      "loft"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "looks": {
+    "singular_forms": [
+      "look"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "looms": {
+    "singular_forms": [
+      "loom"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loops": {
+    "singular_forms": [
+      "loop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loots": {
+    "singular_forms": [
+      "loot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lopes": {
+    "singular_forms": [
+      "lope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lords": {
+    "singular_forms": [
+      "lord"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "loves": {
+    "singular_forms": [
+      "love"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lubes": {
+    "singular_forms": [
+      "lube"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "luges": {
+    "singular_forms": [
+      "luge"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lulls": {
+    "singular_forms": [
+      "lull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lumps": {
+    "singular_forms": [
+      "lump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "lures": {
+    "singular_forms": [
+      "lure"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mails": {
+    "singular_forms": [
+      "mail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "makes": {
+    "singular_forms": [
+      "make"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "malts": {
+    "singular_forms": [
+      "malt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "manes": {
+    "singular_forms": [
+      "mane"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mares": {
+    "singular_forms": [
+      "mare"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "marks": {
+    "singular_forms": [
+      "mark"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "masks": {
+    "singular_forms": [
+      "mask"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mates": {
+    "singular_forms": [
+      "mate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mauls": {
+    "singular_forms": [
+      "maul"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "maxes": {
+    "singular_forms": [
+      "max"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "means": {
+    "singular_forms": [
+      "mean"
+    ],
+    "nonplural_uses": [
+      "singular noun (a means to an end)",
+      "verb"
+    ]
+  },
+  "media": {
+    "singular_forms": [
+      "medium"
+    ],
+    "nonplural_uses": [
+      "collective/mass noun (communication media)"
+    ]
+  },
+  "meets": {
+    "singular_forms": [
+      "meet"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "melds": {
+    "singular_forms": [
+      "meld"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "melts": {
+    "singular_forms": [
+      "melt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "memes": {
+    "singular_forms": [
+      "meme"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mends": {
+    "singular_forms": [
+      "mend"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "meows": {
+    "singular_forms": [
+      "meow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "miffs": {
+    "singular_forms": [
+      "miff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "milks": {
+    "singular_forms": [
+      "milk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mills": {
+    "singular_forms": [
+      "mill"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mimes": {
+    "singular_forms": [
+      "mime"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "minds": {
+    "singular_forms": [
+      "mind"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mines": {
+    "singular_forms": [
+      "mine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mints": {
+    "singular_forms": [
+      "mint"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mires": {
+    "singular_forms": [
+      "mire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mists": {
+    "singular_forms": [
+      "mist"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mixes": {
+    "singular_forms": [
+      "mix"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "moans": {
+    "singular_forms": [
+      "moan"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mocks": {
+    "singular_forms": [
+      "mock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "molds": {
+    "singular_forms": [
+      "mold"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "molts": {
+    "singular_forms": [
+      "molt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "moons": {
+    "singular_forms": [
+      "moon"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "moors": {
+    "singular_forms": [
+      "moor"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "moots": {
+    "singular_forms": [
+      "moot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mopes": {
+    "singular_forms": [
+      "mope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "moves": {
+    "singular_forms": [
+      "move"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mucks": {
+    "singular_forms": [
+      "muck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "muffs": {
+    "singular_forms": [
+      "muff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mulls": {
+    "singular_forms": [
+      "mull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "muses": {
+    "singular_forms": [
+      "mus",
+      "muse"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "mutes": {
+    "singular_forms": [
+      "mute"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "nails": {
+    "singular_forms": [
+      "nail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "names": {
+    "singular_forms": [
+      "name"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "napes": {
+    "singular_forms": [
+      "nape"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "necks": {
+    "singular_forms": [
+      "neck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "needs": {
+    "singular_forms": [
+      "need"
+    ],
+    "nonplural_uses": [
+      "adverb",
+      "verb"
+    ]
+  },
+  "nests": {
+    "singular_forms": [
+      "nest"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "nicks": {
+    "singular_forms": [
+      "nick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "nixes": {
+    "singular_forms": [
+      "nix"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "nodes": {
+    "singular_forms": [
+      "node"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "noses": {
+    "singular_forms": [
+      "nose"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "notes": {
+    "singular_forms": [
+      "note"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "nukes": {
+    "singular_forms": [
+      "nuke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "oinks": {
+    "singular_forms": [
+      "oink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "okays": {
+    "singular_forms": [
+      "okay"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "omens": {
+    "singular_forms": [
+      "omen"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "oozes": {
+    "singular_forms": [
+      "ooze"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "opens": {
+    "singular_forms": [
+      "open"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "paces": {
+    "singular_forms": [
+      "pace"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "packs": {
+    "singular_forms": [
+      "pack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pages": {
+    "singular_forms": [
+      "page"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pains": {
+    "singular_forms": [
+      "pain"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pairs": {
+    "singular_forms": [
+      "pair"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pales": {
+    "singular_forms": [
+      "pale"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "palls": {
+    "singular_forms": [
+      "pall"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "palms": {
+    "singular_forms": [
+      "palm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "panes": {
+    "singular_forms": [
+      "pane"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pants": {
+    "singular_forms": [
+      "pant"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "parks": {
+    "singular_forms": [
+      "park"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "parts": {
+    "singular_forms": [
+      "part"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pates": {
+    "singular_forms": [
+      "pate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "paves": {
+    "singular_forms": [
+      "pave"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pawns": {
+    "singular_forms": [
+      "pawn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peaks": {
+    "singular_forms": [
+      "peak"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peals": {
+    "singular_forms": [
+      "peal"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pecks": {
+    "singular_forms": [
+      "peck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peeks": {
+    "singular_forms": [
+      "peek"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peels": {
+    "singular_forms": [
+      "peel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peeps": {
+    "singular_forms": [
+      "peep"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "peers": {
+    "singular_forms": [
+      "peer"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pelts": {
+    "singular_forms": [
+      "pelt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "perks": {
+    "singular_forms": [
+      "perk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "perms": {
+    "singular_forms": [
+      "perm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "picks": {
+    "singular_forms": [
+      "pick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "piles": {
+    "singular_forms": [
+      "pile"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pines": {
+    "singular_forms": [
+      "pine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pings": {
+    "singular_forms": [
+      "ping"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pinks": {
+    "singular_forms": [
+      "pink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pipes": {
+    "singular_forms": [
+      "pipe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plans": {
+    "singular_forms": [
+      "plan"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plays": {
+    "singular_forms": [
+      "play"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plies": {
+    "singular_forms": [
+      "ply"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plods": {
+    "singular_forms": [
+      "plod"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plops": {
+    "singular_forms": [
+      "plop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plots": {
+    "singular_forms": [
+      "plot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plows": {
+    "singular_forms": [
+      "plow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "plugs": {
+    "singular_forms": [
+      "plug"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pokes": {
+    "singular_forms": [
+      "poke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "poles": {
+    "singular_forms": [
+      "pole"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "polls": {
+    "singular_forms": [
+      "poll"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pools": {
+    "singular_forms": [
+      "pool"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "popes": {
+    "singular_forms": [
+      "pope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pores": {
+    "singular_forms": [
+      "pore"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ports": {
+    "singular_forms": [
+      "port"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "poses": {
+    "singular_forms": [
+      "pose"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "posts": {
+    "singular_forms": [
+      "post"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pouts": {
+    "singular_forms": [
+      "pout"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "preys": {
+    "singular_forms": [
+      "prey"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pries": {
+    "singular_forms": [
+      "pry"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "prods": {
+    "singular_forms": [
+      "prod"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "props": {
+    "singular_forms": [
+      "prop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "puffs": {
+    "singular_forms": [
+      "puff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pukes": {
+    "singular_forms": [
+      "puke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pulls": {
+    "singular_forms": [
+      "pull"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pulps": {
+    "singular_forms": [
+      "pulp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "pumps": {
+    "singular_forms": [
+      "pump"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "punts": {
+    "singular_forms": [
+      "punt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "purls": {
+    "singular_forms": [
+      "purl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "purrs": {
+    "singular_forms": [
+      "purr"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "putts": {
+    "singular_forms": [
+      "putt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "quips": {
+    "singular_forms": [
+      "quip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "races": {
+    "singular_forms": [
+      "race"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "racks": {
+    "singular_forms": [
+      "rack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rafts": {
+    "singular_forms": [
+      "raft"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rages": {
+    "singular_forms": [
+      "rage"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "raids": {
+    "singular_forms": [
+      "raid"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rails": {
+    "singular_forms": [
+      "rail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rains": {
+    "singular_forms": [
+      "rain"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rakes": {
+    "singular_forms": [
+      "rake"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ramps": {
+    "singular_forms": [
+      "ramp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ranks": {
+    "singular_forms": [
+      "rank"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rants": {
+    "singular_forms": [
+      "rant"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rasps": {
+    "singular_forms": [
+      "rasp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rates": {
+    "singular_forms": [
+      "rate"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "raves": {
+    "singular_forms": [
+      "raf",
+      "rave"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reads": {
+    "singular_forms": [
+      "read"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reams": {
+    "singular_forms": [
+      "ream"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rears": {
+    "singular_forms": [
+      "rear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reefs": {
+    "singular_forms": [
+      "reef"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reeks": {
+    "singular_forms": [
+      "reek"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reels": {
+    "singular_forms": [
+      "reel"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "reins": {
+    "singular_forms": [
+      "rein"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rents": {
+    "singular_forms": [
+      "rent"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rests": {
+    "singular_forms": [
+      "rest"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rices": {
+    "singular_forms": [
+      "rice"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rides": {
+    "singular_forms": [
+      "ride"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "riffs": {
+    "singular_forms": [
+      "riff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rings": {
+    "singular_forms": [
+      "ring"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "riots": {
+    "singular_forms": [
+      "riot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rises": {
+    "singular_forms": [
+      "rise"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "risks": {
+    "singular_forms": [
+      "risk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "roars": {
+    "singular_forms": [
+      "roar"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "robes": {
+    "singular_forms": [
+      "robe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rocks": {
+    "singular_forms": [
+      "rock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rolls": {
+    "singular_forms": [
+      "roll"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "romps": {
+    "singular_forms": [
+      "romp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "roofs": {
+    "singular_forms": [
+      "roof"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rooks": {
+    "singular_forms": [
+      "rook"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rooms": {
+    "singular_forms": [
+      "room"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "roots": {
+    "singular_forms": [
+      "root"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ropes": {
+    "singular_forms": [
+      "rope"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "routs": {
+    "singular_forms": [
+      "rout"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rubes": {
+    "singular_forms": [
+      "rube"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rucks": {
+    "singular_forms": [
+      "ruck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ruffs": {
+    "singular_forms": [
+      "ruff"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ruins": {
+    "singular_forms": [
+      "ruin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rules": {
+    "singular_forms": [
+      "rule"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "runes": {
+    "singular_forms": [
+      "rune"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "rusts": {
+    "singular_forms": [
+      "rust"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sacks": {
+    "singular_forms": [
+      "sack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sages": {
+    "singular_forms": [
+      "sage"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sails": {
+    "singular_forms": [
+      "sail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "salts": {
+    "singular_forms": [
+      "salt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sands": {
+    "singular_forms": [
+      "sand"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "saves": {
+    "singular_forms": [
+      "save"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scabs": {
+    "singular_forms": [
+      "scab"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scams": {
+    "singular_forms": [
+      "scam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scans": {
+    "singular_forms": [
+      "scan"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scars": {
+    "singular_forms": [
+      "scar"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scats": {
+    "singular_forms": [
+      "scat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "scots": {
+    "singular_forms": [
+      "scot"
+    ],
+    "nonplural_uses": [
+      "adjective"
+    ]
+  },
+  "scums": {
+    "singular_forms": [
+      "scum"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "seals": {
+    "singular_forms": [
+      "seal"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "seams": {
+    "singular_forms": [
+      "seam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "seats": {
+    "singular_forms": [
+      "seat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "seeds": {
+    "singular_forms": [
+      "seed"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "seeks": {
+    "singular_forms": [
+      "seek"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sells": {
+    "singular_forms": [
+      "sell"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sexes": {
+    "singular_forms": [
+      "sex"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shams": {
+    "singular_forms": [
+      "sham"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sheds": {
+    "singular_forms": [
+      "shed"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shies": {
+    "singular_forms": [
+      "shy"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shims": {
+    "singular_forms": [
+      "shim"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shins": {
+    "singular_forms": [
+      "shin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ships": {
+    "singular_forms": [
+      "ship"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shoes": {
+    "singular_forms": [
+      "shoe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shops": {
+    "singular_forms": [
+      "shop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "shows": {
+    "singular_forms": [
+      "show"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sicks": {
+    "singular_forms": [
+      "sick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sides": {
+    "singular_forms": [
+      "side"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sighs": {
+    "singular_forms": [
+      "sigh"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "signs": {
+    "singular_forms": [
+      "sign"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "silts": {
+    "singular_forms": [
+      "silt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sines": {
+    "singular_forms": [
+      "sine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sinks": {
+    "singular_forms": [
+      "sink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sires": {
+    "singular_forms": [
+      "sire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sites": {
+    "singular_forms": [
+      "site"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sizes": {
+    "singular_forms": [
+      "size"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "skids": {
+    "singular_forms": [
+      "skid"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "skies": {
+    "singular_forms": [
+      "sky"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "skims": {
+    "singular_forms": [
+      "skim"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "skins": {
+    "singular_forms": [
+      "skin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "skips": {
+    "singular_forms": [
+      "skip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slams": {
+    "singular_forms": [
+      "slam"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slaps": {
+    "singular_forms": [
+      "slap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slats": {
+    "singular_forms": [
+      "slat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sleds": {
+    "singular_forms": [
+      "sled"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slews": {
+    "singular_forms": [
+      "slew"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slips": {
+    "singular_forms": [
+      "slip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slits": {
+    "singular_forms": [
+      "slit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slogs": {
+    "singular_forms": [
+      "slog"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slops": {
+    "singular_forms": [
+      "slop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slots": {
+    "singular_forms": [
+      "slot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slugs": {
+    "singular_forms": [
+      "slug"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slums": {
+    "singular_forms": [
+      "slum"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "slurs": {
+    "singular_forms": [
+      "slur"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "snags": {
+    "singular_forms": [
+      "snag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "snaps": {
+    "singular_forms": [
+      "snap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "snips": {
+    "singular_forms": [
+      "snip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "snows": {
+    "singular_forms": [
+      "snow"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "snubs": {
+    "singular_forms": [
+      "snub"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soaks": {
+    "singular_forms": [
+      "soak"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soaps": {
+    "singular_forms": [
+      "soap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soars": {
+    "singular_forms": [
+      "soar"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "socks": {
+    "singular_forms": [
+      "sock"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soils": {
+    "singular_forms": [
+      "soil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soles": {
+    "singular_forms": [
+      "sol",
+      "sole"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "solos": {
+    "singular_forms": [
+      "solo"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sorts": {
+    "singular_forms": [
+      "sort"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "soups": {
+    "singular_forms": [
+      "soup"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sours": {
+    "singular_forms": [
+      "sour"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spans": {
+    "singular_forms": [
+      "span"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spars": {
+    "singular_forms": [
+      "spar"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spats": {
+    "singular_forms": [
+      "spat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spies": {
+    "singular_forms": [
+      "spy"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spins": {
+    "singular_forms": [
+      "spin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spits": {
+    "singular_forms": [
+      "spit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spots": {
+    "singular_forms": [
+      "spot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spuds": {
+    "singular_forms": [
+      "spud"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "spurs": {
+    "singular_forms": [
+      "spur"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stabs": {
+    "singular_forms": [
+      "stab"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stags": {
+    "singular_forms": [
+      "stag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stars": {
+    "singular_forms": [
+      "star"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stays": {
+    "singular_forms": [
+      "stay"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stems": {
+    "singular_forms": [
+      "stem"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "steps": {
+    "singular_forms": [
+      "step"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stews": {
+    "singular_forms": [
+      "stew"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stirs": {
+    "singular_forms": [
+      "stir"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stops": {
+    "singular_forms": [
+      "stop"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "stubs": {
+    "singular_forms": [
+      "stub"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "studs": {
+    "singular_forms": [
+      "stud"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sucks": {
+    "singular_forms": [
+      "suck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "suits": {
+    "singular_forms": [
+      "suit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sulks": {
+    "singular_forms": [
+      "sulk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "surfs": {
+    "singular_forms": [
+      "surf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swabs": {
+    "singular_forms": [
+      "swab"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swags": {
+    "singular_forms": [
+      "swag"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swans": {
+    "singular_forms": [
+      "swan"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swaps": {
+    "singular_forms": [
+      "swap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swats": {
+    "singular_forms": [
+      "swat"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "sways": {
+    "singular_forms": [
+      "sway"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swigs": {
+    "singular_forms": [
+      "swig"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swims": {
+    "singular_forms": [
+      "swim"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "swots": {
+    "singular_forms": [
+      "swot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "syncs": {
+    "singular_forms": [
+      "sync"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tacks": {
+    "singular_forms": [
+      "tack"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tails": {
+    "singular_forms": [
+      "tail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "takes": {
+    "singular_forms": [
+      "take"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "talks": {
+    "singular_forms": [
+      "talk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tamps": {
+    "singular_forms": [
+      "tamp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tanks": {
+    "singular_forms": [
+      "tank"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tapes": {
+    "singular_forms": [
+      "tape"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tares": {
+    "singular_forms": [
+      "tare"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tasks": {
+    "singular_forms": [
+      "task"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "taxes": {
+    "singular_forms": [
+      "tax",
+      "taxis"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "taxis": {
+    "singular_forms": [
+      "taxi"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "teams": {
+    "singular_forms": [
+      "team"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tears": {
+    "singular_forms": [
+      "tear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tells": {
+    "singular_forms": [
+      "tell"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tents": {
+    "singular_forms": [
+      "tent"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "terms": {
+    "singular_forms": [
+      "term"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tests": {
+    "singular_forms": [
+      "test"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "texts": {
+    "singular_forms": [
+      "text"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "thaws": {
+    "singular_forms": [
+      "thaw"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "thuds": {
+    "singular_forms": [
+      "thud"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "ticks": {
+    "singular_forms": [
+      "tick"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tides": {
+    "singular_forms": [
+      "tide"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tiles": {
+    "singular_forms": [
+      "tile"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tills": {
+    "singular_forms": [
+      "till"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tilts": {
+    "singular_forms": [
+      "tilt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "times": {
+    "singular_forms": [
+      "time"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tines": {
+    "singular_forms": [
+      "tine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tints": {
+    "singular_forms": [
+      "tint"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tires": {
+    "singular_forms": [
+      "tire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "toils": {
+    "singular_forms": [
+      "toil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tolls": {
+    "singular_forms": [
+      "toll"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tones": {
+    "singular_forms": [
+      "tone"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tools": {
+    "singular_forms": [
+      "tool"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "toots": {
+    "singular_forms": [
+      "toot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "totes": {
+    "singular_forms": [
+      "tote"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tours": {
+    "singular_forms": [
+      "tour"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "touts": {
+    "singular_forms": [
+      "tout"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trams": {
+    "singular_forms": [
+      "tram"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "traps": {
+    "singular_forms": [
+      "trap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trees": {
+    "singular_forms": [
+      "tree"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "treks": {
+    "singular_forms": [
+      "trek"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tries": {
+    "singular_forms": [
+      "try"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trims": {
+    "singular_forms": [
+      "trim"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trips": {
+    "singular_forms": [
+      "trip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trots": {
+    "singular_forms": [
+      "trot"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "trues": {
+    "singular_forms": [
+      "true"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tubes": {
+    "singular_forms": [
+      "tube"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tucks": {
+    "singular_forms": [
+      "tuck"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tunes": {
+    "singular_forms": [
+      "tune"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "turfs": {
+    "singular_forms": [
+      "turf"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "turns": {
+    "singular_forms": [
+      "turn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "tusks": {
+    "singular_forms": [
+      "tusk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "twigs": {
+    "singular_forms": [
+      "twig"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "twins": {
+    "singular_forms": [
+      "twin"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "twits": {
+    "singular_forms": [
+      "twit"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "types": {
+    "singular_forms": [
+      "type"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "urges": {
+    "singular_forms": [
+      "urge"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "vamps": {
+    "singular_forms": [
+      "vamp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "vapes": {
+    "singular_forms": [
+      "vape"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "veils": {
+    "singular_forms": [
+      "veil"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "veins": {
+    "singular_forms": [
+      "vein"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "vents": {
+    "singular_forms": [
+      "vent"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "vests": {
+    "singular_forms": [
+      "vest"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "views": {
+    "singular_forms": [
+      "view"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "visas": {
+    "singular_forms": [
+      "visa"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "vlogs": {
+    "singular_forms": [
+      "vlog"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "voids": {
+    "singular_forms": [
+      "void"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "votes": {
+    "singular_forms": [
+      "vote"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wades": {
+    "singular_forms": [
+      "wade"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wafts": {
+    "singular_forms": [
+      "waft"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wages": {
+    "singular_forms": [
+      "wage"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wails": {
+    "singular_forms": [
+      "wail"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "waits": {
+    "singular_forms": [
+      "wait"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wakes": {
+    "singular_forms": [
+      "wake"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "walks": {
+    "singular_forms": [
+      "walk"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "walls": {
+    "singular_forms": [
+      "wall"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wanes": {
+    "singular_forms": [
+      "wane"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wants": {
+    "singular_forms": [
+      "want"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wards": {
+    "singular_forms": [
+      "ward"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wares": {
+    "singular_forms": [
+      "ware"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "warps": {
+    "singular_forms": [
+      "warp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "waves": {
+    "singular_forms": [
+      "wave"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "waxes": {
+    "singular_forms": [
+      "wax"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wears": {
+    "singular_forms": [
+      "wear"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "weeds": {
+    "singular_forms": [
+      "weed"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "welds": {
+    "singular_forms": [
+      "weld"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wells": {
+    "singular_forms": [
+      "well"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "welts": {
+    "singular_forms": [
+      "welt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "whips": {
+    "singular_forms": [
+      "whip"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "whirs": {
+    "singular_forms": [
+      "whir"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wills": {
+    "singular_forms": [
+      "will"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wilts": {
+    "singular_forms": [
+      "wilt"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "winds": {
+    "singular_forms": [
+      "wind"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wines": {
+    "singular_forms": [
+      "wine"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wings": {
+    "singular_forms": [
+      "wing"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "winks": {
+    "singular_forms": [
+      "wink"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wipes": {
+    "singular_forms": [
+      "wipe"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wires": {
+    "singular_forms": [
+      "wire"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wives": {
+    "singular_forms": [
+      "wife"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "words": {
+    "singular_forms": [
+      "word"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "works": {
+    "singular_forms": [
+      "work"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "worms": {
+    "singular_forms": [
+      "worm"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "wraps": {
+    "singular_forms": [
+      "wrap"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yarns": {
+    "singular_forms": [
+      "yarn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yawns": {
+    "singular_forms": [
+      "yawn"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yells": {
+    "singular_forms": [
+      "yell"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yelps": {
+    "singular_forms": [
+      "yelp"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yokes": {
+    "singular_forms": [
+      "yoke"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "yowls": {
+    "singular_forms": [
+      "yowl"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "zeros": {
+    "singular_forms": [
+      "zero"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "zests": {
+    "singular_forms": [
+      "zest"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "zincs": {
+    "singular_forms": [
+      "zinc"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "zones": {
+    "singular_forms": [
+      "zone"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  },
+  "zooms": {
+    "singular_forms": [
+      "zoom"
+    ],
+    "nonplural_uses": [
+      "verb"
+    ]
+  }
+}

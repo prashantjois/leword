@@ -354,19 +354,6 @@
     ],
     "needs_review": false
   },
-  "years": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "year",
-      "years"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "leave": {
     "types": [
       "regular noun",
@@ -1110,31 +1097,6 @@
     ],
     "needs_review": false
   },
-  "hours": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hour",
-      "hours"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "girls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "girl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "least": {
     "types": [
       "adjective",
@@ -1198,18 +1160,6 @@
     "sources": [
       "WordNet 3.0",
       "grammatical supplement"
-    ],
-    "needs_review": false
-  },
-  "women": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "woman"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -1648,18 +1598,6 @@
     ],
     "base_forms": [
       "sense"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "weeks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "week"
     ],
     "sources": [
       "WordNet 3.0"
@@ -2376,18 +2314,6 @@
     ],
     "needs_review": false
   },
-  "miles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mile"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "swear": {
     "types": [
       "verb"
@@ -2634,19 +2560,6 @@
     ],
     "base_forms": [
       "like"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "folks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "folk",
-      "folks"
     ],
     "sources": [
       "WordNet 3.0"
@@ -3017,6 +2930,7 @@
     ],
     "base_forms": [
       "die",
+      "dye",
       "dying"
     ],
     "sources": [
@@ -3978,21 +3892,6 @@
     ],
     "needs_review": false
   },
-  "teeth": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "teeth",
-      "tooth"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
   "coach": {
     "types": [
       "regular noun",
@@ -4505,18 +4404,6 @@
     ],
     "needs_review": false
   },
-  "ideas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "idea"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "spoke": {
     "types": [
       "regular noun",
@@ -4850,18 +4737,6 @@
     ],
     "base_forms": [
       "fancy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "doors": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "door"
     ],
     "sources": [
       "WordNet 3.0"
@@ -5358,20 +5233,6 @@
     ],
     "needs_review": false
   },
-  "woods": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "wood",
-      "woods"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "exist": {
     "types": [
       "verb"
@@ -5418,18 +5279,6 @@
     ],
     "base_forms": [
       "crash"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "shots": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "shot"
     ],
     "sources": [
       "WordNet 3.0"
@@ -5579,18 +5428,6 @@
     ],
     "base_forms": [
       "joint"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "facts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fact"
     ],
     "sources": [
       "WordNet 3.0"
@@ -5905,18 +5742,6 @@
     ],
     "needs_review": false
   },
-  "knees": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "knee"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "stood": {
     "types": [
       "verb"
@@ -6034,18 +5859,6 @@
     ],
     "base_forms": [
       "piano"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pills": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pill"
     ],
     "sources": [
       "WordNet 3.0"
@@ -6565,19 +6378,6 @@
     ],
     "needs_review": false
   },
-  "songs": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "song"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "flesh": {
     "types": [
       "regular noun",
@@ -6598,18 +6398,6 @@
     ],
     "base_forms": [
       "sign"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "kinds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "kind"
     ],
     "sources": [
       "WordNet 3.0"
@@ -6638,18 +6426,6 @@
     ],
     "base_forms": [
       "sweat"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "cents": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cent"
     ],
     "sources": [
       "WordNet 3.0"
@@ -6971,18 +6747,6 @@
     ],
     "base_forms": [
       "booth"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "units": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "unit"
     ],
     "sources": [
       "WordNet 3.0"
@@ -8445,30 +8209,6 @@
     ],
     "needs_review": false
   },
-  "yards": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "yard"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "souls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "soul"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "broad": {
     "types": [
       "adjective",
@@ -8646,18 +8386,6 @@
     ],
     "base_forms": [
       "care"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "roses": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rose"
     ],
     "sources": [
       "WordNet 3.0"
@@ -9280,19 +9008,6 @@
     ],
     "needs_review": false
   },
-  "sales": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sale",
-      "sales"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "lobby": {
     "types": [
       "regular noun",
@@ -9375,18 +9090,6 @@
     ],
     "base_forms": [
       "phase"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "goods": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "good"
     ],
     "sources": [
       "WordNet 3.0"
@@ -9542,20 +9245,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "cells": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "cell"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -10001,18 +9690,6 @@
     ],
     "needs_review": false
   },
-  "beers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "beer"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "drawn": {
     "types": [
       "adjective",
@@ -10047,18 +9724,6 @@
     ],
     "base_forms": [
       "fleet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lungs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lung"
     ],
     "sources": [
       "WordNet 3.0"
@@ -10954,19 +10619,6 @@
     ],
     "needs_review": false
   },
-  "roads": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "road",
-      "roads"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "flame": {
     "types": [
       "regular noun",
@@ -11017,19 +10669,6 @@
     ],
     "needs_review": false
   },
-  "kings": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "king"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "stall": {
     "types": [
       "regular noun",
@@ -11037,18 +10676,6 @@
     ],
     "base_forms": [
       "stall"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "areas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "area"
     ],
     "sources": [
       "WordNet 3.0"
@@ -11397,19 +11024,6 @@
     ],
     "needs_review": false
   },
-  "deeds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "deed",
-      "deeds"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "alpha": {
     "types": [
       "adjective",
@@ -11454,18 +11068,6 @@
     ],
     "base_forms": [
       "ankle"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "meals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "meal"
     ],
     "sources": [
       "WordNet 3.0"
@@ -11798,19 +11400,6 @@
     ],
     "base_forms": [
       "chili"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "grams": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "gram"
     ],
     "sources": [
       "WordNet 3.0"
@@ -12217,18 +11806,6 @@
     ],
     "needs_review": false
   },
-  "tales": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tale"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sting": {
     "types": [
       "regular noun",
@@ -12421,18 +11998,6 @@
     ],
     "needs_review": false
   },
-  "dudes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dude"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "wakes": {
     "types": [
       "proper noun",
@@ -12453,18 +12018,6 @@
     ],
     "base_forms": [
       "theft"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "items": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "item"
     ],
     "sources": [
       "WordNet 3.0"
@@ -12586,18 +12139,6 @@
     "base_forms": [
       "fund",
       "funds"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "jeans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jean"
     ],
     "sources": [
       "WordNet 3.0"
@@ -12872,19 +12413,6 @@
     ],
     "base_forms": [
       "breed"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lions": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "lion"
     ],
     "sources": [
       "WordNet 3.0"
@@ -13173,18 +12701,6 @@
     ],
     "base_forms": [
       "cloth"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "debts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "debt"
     ],
     "sources": [
       "WordNet 3.0"
@@ -13589,19 +13105,6 @@
     ],
     "needs_review": false
   },
-  "towns": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "town"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tails": {
     "types": [
       "regular noun",
@@ -13649,18 +13152,6 @@
     ],
     "base_forms": [
       "crook"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dolls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "doll"
     ],
     "sources": [
       "WordNet 3.0"
@@ -14151,18 +13642,6 @@
     ],
     "needs_review": false
   },
-  "hairs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hair"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "repay": {
     "types": [
       "verb"
@@ -14270,18 +13749,6 @@
     ],
     "base_forms": [
       "valet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "goals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "goal"
     ],
     "sources": [
       "WordNet 3.0"
@@ -14758,18 +14225,6 @@
     ],
     "needs_review": false
   },
-  "poems": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "poem"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "swept": {
     "types": [
       "adjective",
@@ -14993,20 +14448,6 @@
     ],
     "base_forms": [
       "tutor"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "acres": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "acre",
-      "acres"
     ],
     "sources": [
       "WordNet 3.0"
@@ -15247,18 +14688,6 @@
     ],
     "base_forms": [
       "grill"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "hicks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hick"
     ],
     "sources": [
       "WordNet 3.0"
@@ -15787,19 +15216,6 @@
     ],
     "needs_review": false
   },
-  "punks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "punk",
-      "punks"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sonar": {
     "types": [
       "regular noun"
@@ -16009,19 +15425,6 @@
     ],
     "base_forms": [
       "grape"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "halls": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "hall"
     ],
     "sources": [
       "WordNet 3.0"
@@ -16700,18 +16103,6 @@
     ],
     "needs_review": false
   },
-  "liars": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "liar"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bowel": {
     "types": [
       "medical term",
@@ -16882,18 +16273,6 @@
     ],
     "needs_review": false
   },
-  "paths": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "path"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sniff": {
     "types": [
       "regular noun",
@@ -17023,20 +16402,6 @@
     ],
     "needs_review": false
   },
-  "elves": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "elf",
-      "elves"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "genie": {
     "types": [
       "regular noun"
@@ -17056,18 +16421,6 @@
     ],
     "base_forms": [
       "tally"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "babes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "babe"
     ],
     "sources": [
       "WordNet 3.0"
@@ -17936,30 +17289,6 @@
     ],
     "needs_review": false
   },
-  "foods": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "food"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "germs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "germ"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sizes": {
     "types": [
       "regular noun",
@@ -18166,18 +17495,6 @@
     ],
     "needs_review": false
   },
-  "fists": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fist"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "shaky": {
     "types": [
       "adjective"
@@ -18327,18 +17644,6 @@
     ],
     "needs_review": false
   },
-  "roles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "role"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "turbo": {
     "types": [
       "regular noun"
@@ -18356,18 +17661,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "genes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gene"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -18470,18 +17763,6 @@
     ],
     "needs_review": false
   },
-  "exams": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "exam"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "farms": {
     "types": [
       "regular noun",
@@ -18570,18 +17851,6 @@
     ],
     "needs_review": false
   },
-  "poets": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "poet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "dairy": {
     "types": [
       "regular noun"
@@ -18657,18 +17926,6 @@
     ],
     "needs_review": false
   },
-  "herbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "herb"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "hoops": {
     "types": [
       "regular noun",
@@ -18704,18 +17961,6 @@
     ],
     "base_forms": [
       "loan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "maids": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "maid"
     ],
     "sources": [
       "WordNet 3.0"
@@ -19027,19 +18272,6 @@
     ],
     "needs_review": false
   },
-  "monks": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "monk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "skins": {
     "types": [
       "regular noun",
@@ -19060,19 +18292,6 @@
     ],
     "base_forms": [
       "stomp"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "goats": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "goat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -19136,19 +18355,6 @@
     ],
     "base_forms": [
       "adapt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "males": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "male"
     ],
     "sources": [
       "WordNet 3.0"
@@ -19242,18 +18448,6 @@
     ],
     "needs_review": false
   },
-  "fleas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "flea"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "patio": {
     "types": [
       "regular noun"
@@ -19298,18 +18492,6 @@
     "base_forms": [
       "fine",
       "finer"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "limbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "limb"
     ],
     "sources": [
       "WordNet 3.0"
@@ -20145,18 +19327,6 @@
     ],
     "needs_review": false
   },
-  "goons": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "goon"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "moons": {
     "types": [
       "proper noun",
@@ -20165,18 +19335,6 @@
     ],
     "base_forms": [
       "moon"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mules": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mule"
     ],
     "sources": [
       "WordNet 3.0"
@@ -20354,18 +19512,6 @@
     ],
     "base_forms": [
       "flair"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "geeks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "geek"
     ],
     "sources": [
       "WordNet 3.0"
@@ -20757,18 +19903,6 @@
     ],
     "needs_review": false
   },
-  "tacos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "taco"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "flier": {
     "types": [
       "regular noun"
@@ -20815,20 +19949,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "arabs": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "arab"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
     ],
     "needs_review": false
   },
@@ -20889,18 +20009,6 @@
     ],
     "base_forms": [
       "flute"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "moods": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mood"
     ],
     "sources": [
       "WordNet 3.0"
@@ -21100,19 +20208,6 @@
     ],
     "needs_review": false
   },
-  "specs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "spec",
-      "specs"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "trend": {
     "types": [
       "regular noun",
@@ -21139,18 +20234,6 @@
     ],
     "needs_review": false
   },
-  "fours": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "four"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "hoist": {
     "types": [
       "regular noun",
@@ -21158,18 +20241,6 @@
     ],
     "base_forms": [
       "hoist"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lakes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lake"
     ],
     "sources": [
       "WordNet 3.0"
@@ -21270,18 +20341,6 @@
     ],
     "base_forms": [
       "frown"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lamps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lamp"
     ],
     "sources": [
       "WordNet 3.0"
@@ -21415,18 +20474,6 @@
     ],
     "needs_review": false
   },
-  "dukes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "duke"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "snuff": {
     "types": [
       "adjective",
@@ -21435,18 +20482,6 @@
     ],
     "base_forms": [
       "snuff"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "nerds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "nerd"
     ],
     "sources": [
       "WordNet 3.0"
@@ -21504,18 +20539,6 @@
     ],
     "needs_review": false
   },
-  "menus": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "menu"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tones": {
     "types": [
       "regular noun",
@@ -21565,19 +20588,6 @@
     ],
     "needs_review": false
   },
-  "teens": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "teen",
-      "teens"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "thump": {
     "types": [
       "regular noun",
@@ -21610,18 +20620,6 @@
     ],
     "base_forms": [
       "hole"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lanes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lane"
     ],
     "sources": [
       "WordNet 3.0"
@@ -21767,20 +20765,6 @@
     ],
     "needs_review": false
   },
-  "johns": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "john",
-      "johns"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "amour": {
     "types": [
       "regular noun"
@@ -21895,18 +20879,6 @@
     ],
     "needs_review": false
   },
-  "pesos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "peso"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "ports": {
     "types": [
       "regular noun",
@@ -21938,18 +20910,6 @@
     ],
     "base_forms": [
       "rigid"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rites": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rite"
     ],
     "sources": [
       "WordNet 3.0"
@@ -22189,18 +21149,6 @@
     ],
     "needs_review": false
   },
-  "kilos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "kilo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "moist": {
     "types": [
       "adjective"
@@ -22285,19 +21233,6 @@
     "base_forms": [
       "dim",
       "dime"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fangs": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "fang"
     ],
     "sources": [
       "WordNet 3.0"
@@ -22608,18 +21543,6 @@
     ],
     "needs_review": false
   },
-  "atoms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "atom"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bugle": {
     "types": [
       "regular noun",
@@ -22740,18 +21663,6 @@
     ],
     "needs_review": false
   },
-  "bulbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bulb"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "gabby": {
     "types": [
       "adjective"
@@ -22860,19 +21771,6 @@
     "base_forms": [
       "cord",
       "cords"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "flats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "flat",
-      "flats"
     ],
     "sources": [
       "WordNet 3.0"
@@ -23191,20 +22089,6 @@
     ],
     "needs_review": false
   },
-  "danes": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "dane"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "gizmo": {
     "types": [
       "regular noun"
@@ -23490,18 +22374,6 @@
     ],
     "needs_review": false
   },
-  "geese": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "goose"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "grits": {
     "types": [
       "regular noun",
@@ -23578,18 +22450,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "dears": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dear"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -23674,30 +22534,6 @@
     ],
     "base_forms": [
       "tide"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "vines": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vine"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "aunts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "aunt"
     ],
     "sources": [
       "WordNet 3.0"
@@ -23835,20 +22671,6 @@
     ],
     "needs_review": false
   },
-  "turks": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "turk"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "unfit": {
     "types": [
       "adjective",
@@ -23937,18 +22759,6 @@
     ],
     "base_forms": [
       "swoop"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "trays": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tray"
     ],
     "sources": [
       "WordNet 3.0"
@@ -24164,18 +22974,6 @@
     ],
     "base_forms": [
       "wake"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "brats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "brat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -24527,22 +23325,6 @@
     ],
     "needs_review": false
   },
-  "brits": {
-    "types": [
-      "demonym",
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "brit",
-      "brits"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "busts": {
     "types": [
       "regular noun",
@@ -24617,18 +23399,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "evils": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "evil"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -24906,18 +23676,6 @@
     ],
     "base_forms": [
       "havoc"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "malls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mall"
     ],
     "sources": [
       "WordNet 3.0"
@@ -25392,38 +24150,12 @@
     ],
     "needs_review": false
   },
-  "vials": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vial"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "faxed": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "fax"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "hanks": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "hank",
-      "hanks"
     ],
     "sources": [
       "WordNet 3.0"
@@ -25594,18 +24326,6 @@
     ],
     "needs_review": false
   },
-  "pints": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pint"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sahib": {
     "types": [
       "historical term",
@@ -25626,18 +24346,6 @@
     ],
     "base_forms": [
       "valor"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "volts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "volt"
     ],
     "sources": [
       "WordNet 3.0"
@@ -25679,18 +24387,6 @@
     ],
     "needs_review": false
   },
-  "myths": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "myth"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "navel": {
     "types": [
       "medical term",
@@ -25719,38 +24415,12 @@
     ],
     "needs_review": false
   },
-  "users": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "user"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "vinyl": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "vinyl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "watts": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "watt",
-      "watts"
     ],
     "sources": [
       "WordNet 3.0"
@@ -25831,18 +24501,6 @@
     ],
     "needs_review": false
   },
-  "sixes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "six"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "taboo": {
     "types": [
       "adjective",
@@ -25903,18 +24561,6 @@
     ],
     "base_forms": [
       "drag"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gills": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gill"
     ],
     "sources": [
       "WordNet 3.0"
@@ -26162,18 +24808,6 @@
     ],
     "needs_review": false
   },
-  "sores": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sore"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "stoke": {
     "types": [
       "verb"
@@ -26300,18 +24934,6 @@
     ],
     "base_forms": [
       "hover"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "jocks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jock"
     ],
     "sources": [
       "WordNet 3.0"
@@ -26578,18 +25200,6 @@
     ],
     "needs_review": false
   },
-  "lawns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lawn"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "liege": {
     "types": [
       "adjective",
@@ -26637,18 +25247,6 @@
     ],
     "base_forms": [
       "nudge"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tarts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tart"
     ],
     "sources": [
       "WordNet 3.0"
@@ -26798,18 +25396,6 @@
     ],
     "needs_review": false
   },
-  "mitts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mitt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "poise": {
     "types": [
       "regular noun",
@@ -26841,18 +25427,6 @@
     ],
     "base_forms": [
       "talon"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tombs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tomb"
     ],
     "sources": [
       "WordNet 3.0"
@@ -26916,18 +25490,6 @@
     ],
     "base_forms": [
       "bunk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ducts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "duct"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27034,19 +25596,6 @@
     ],
     "needs_review": false
   },
-  "vibes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vibe",
-      "vibes"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "boast": {
     "types": [
       "regular noun",
@@ -27054,28 +25603,6 @@
     ],
     "base_forms": [
       "boast"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "carbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "desks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "desk"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27115,30 +25642,6 @@
     ],
     "base_forms": [
       "lick"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "moths": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "moth"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "nines": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "nine"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27188,18 +25691,6 @@
     ],
     "base_forms": [
       "snowy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sodas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "soda"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27294,30 +25785,6 @@
     ],
     "needs_review": false
   },
-  "knobs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "knob"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "plums": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "plum"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "rails": {
     "types": [
       "regular noun",
@@ -27383,36 +25850,12 @@
     ],
     "needs_review": false
   },
-  "beets": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "beet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "borne": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "bear"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "chefs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "chef"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27654,7 +26097,8 @@
   },
   "taxis": {
     "types": [
-      "regular noun"
+      "regular noun",
+      "verb"
     ],
     "base_forms": [
       "taxi",
@@ -27679,49 +26123,12 @@
     ],
     "needs_review": false
   },
-  "warts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wart"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "whiny": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "whiny"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wiles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wile"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wimps": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "wimp"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27747,19 +26154,6 @@
     ],
     "base_forms": [
       "dive"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "doves": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "dove"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27833,18 +26227,6 @@
     ],
     "base_forms": [
       "topaz"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "bozos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bozo"
     ],
     "sources": [
       "WordNet 3.0"
@@ -27942,18 +26324,6 @@
     ],
     "base_forms": [
       "long"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pears": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pear"
     ],
     "sources": [
       "WordNet 3.0"
@@ -28568,18 +26938,6 @@
     ],
     "base_forms": [
       "proxy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "slobs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "slob"
     ],
     "sources": [
       "WordNet 3.0"
@@ -29344,18 +27702,6 @@
     ],
     "needs_review": false
   },
-  "memos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "memo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "munch": {
     "types": [
       "proper noun",
@@ -29545,18 +27891,6 @@
     ],
     "needs_review": false
   },
-  "acids": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "acid"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "arose": {
     "types": [
       "verb"
@@ -29650,32 +27984,6 @@
     ],
     "base_forms": [
       "khaki"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "meats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "meat"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mores": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "more",
-      "mores"
     ],
     "sources": [
       "WordNet 3.0"
@@ -29858,18 +28166,6 @@
     ],
     "needs_review": false
   },
-  "heirs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "heir"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "kinks": {
     "types": [
       "regular noun",
@@ -29877,18 +28173,6 @@
     ],
     "base_forms": [
       "kink"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "moles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mole"
     ],
     "sources": [
       "WordNet 3.0"
@@ -30134,18 +28418,6 @@
     ],
     "base_forms": [
       "lofty"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mikes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mike"
     ],
     "sources": [
       "WordNet 3.0"
@@ -30490,18 +28762,6 @@
     ],
     "needs_review": false
   },
-  "whims": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "whim"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "wield": {
     "types": [
       "verb"
@@ -30576,30 +28836,6 @@
     ],
     "needs_review": false
   },
-  "clans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "clan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "colds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cold"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "dazed": {
     "types": [
       "adjective",
@@ -30647,18 +28883,6 @@
     ],
     "base_forms": [
       "gummy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "jeeps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jeep"
     ],
     "sources": [
       "WordNet 3.0"
@@ -30817,30 +29041,6 @@
     ],
     "needs_review": false
   },
-  "dorms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dorm"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "euros": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "euro"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "excel": {
     "types": [
       "verb"
@@ -30860,18 +29060,6 @@
     ],
     "base_forms": [
       "gas"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lefts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "left"
     ],
     "sources": [
       "WordNet 3.0"
@@ -31074,31 +29262,6 @@
     ],
     "needs_review": false
   },
-  "limos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "limo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mamas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "mama"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mosey": {
     "types": [
       "verb"
@@ -31282,18 +29445,6 @@
     ],
     "needs_review": false
   },
-  "highs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "high"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "kooky": {
     "types": [
       "adjective"
@@ -31429,18 +29580,6 @@
     ],
     "base_forms": [
       "credo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "discs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "disc"
     ],
     "sources": [
       "WordNet 3.0"
@@ -31698,18 +29837,6 @@
     ],
     "needs_review": false
   },
-  "cults": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cult"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "denim": {
     "types": [
       "regular noun"
@@ -31782,18 +29909,6 @@
     ],
     "needs_review": false
   },
-  "pence": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "penny"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "peppy": {
     "types": [
       "adjective"
@@ -31833,13 +29948,14 @@
   },
   "texts": {
     "types": [
-      "regular noun"
+      "verb"
     ],
     "base_forms": [
       "text"
     ],
     "sources": [
-      "WordNet 3.0"
+      "WordNet 3.0",
+      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -31861,18 +29977,6 @@
     ],
     "base_forms": [
       "vegan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "verbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "verb"
     ],
     "sources": [
       "WordNet 3.0"
@@ -32124,19 +30228,6 @@
     ],
     "needs_review": false
   },
-  "wasps": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "wasp"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "woven": {
     "types": [
       "adjective",
@@ -32183,18 +30274,6 @@
     ],
     "base_forms": [
       "cache"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "chums": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "chum"
     ],
     "sources": [
       "WordNet 3.0"
@@ -32765,18 +30844,6 @@
     ],
     "needs_review": false
   },
-  "toads": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "toad"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tolls": {
     "types": [
       "regular noun",
@@ -32915,18 +30982,6 @@
     ],
     "needs_review": false
   },
-  "grids": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "grid"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "hinge": {
     "types": [
       "regular noun",
@@ -32997,18 +31052,6 @@
     "base_forms": [
       "oil",
       "oiled"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ovens": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oven"
     ],
     "sources": [
       "WordNet 3.0"
@@ -33263,18 +31306,6 @@
     ],
     "needs_review": false
   },
-  "hilts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hilt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "incur": {
     "types": [
       "verb"
@@ -33333,18 +31364,6 @@
     ],
     "base_forms": [
       "off"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ogres": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ogre"
     ],
     "sources": [
       "WordNet 3.0"
@@ -33415,19 +31434,6 @@
     ],
     "needs_review": false
   },
-  "silks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "silk",
-      "silks"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "slush": {
     "types": [
       "regular noun",
@@ -33459,31 +31465,6 @@
     ],
     "base_forms": [
       "tunic"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "vases": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vas",
-      "vase"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "vices": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vice"
     ],
     "sources": [
       "WordNet 3.0"
@@ -33819,18 +31800,6 @@
     ],
     "needs_review": false
   },
-  "techs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tech"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tepee": {
     "types": [
       "regular noun"
@@ -33893,18 +31862,6 @@
     ],
     "needs_review": false
   },
-  "bouts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bout"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bulky": {
     "types": [
       "adjective"
@@ -33943,19 +31900,6 @@
     ],
     "needs_review": false
   },
-  "colts": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "colt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "creak": {
     "types": [
       "regular noun",
@@ -33976,31 +31920,6 @@
     ],
     "base_forms": [
       "dent"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dorks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dork"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dregs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dreg",
-      "dregs"
     ],
     "sources": [
       "WordNet 3.0"
@@ -34125,18 +32044,6 @@
     ],
     "needs_review": false
   },
-  "mutts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mutt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "outdo": {
     "types": [
       "verb"
@@ -34196,18 +32103,6 @@
     ],
     "base_forms": [
       "segue"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "snobs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "snob"
     ],
     "sources": [
       "WordNet 3.0"
@@ -34598,18 +32493,6 @@
     ],
     "needs_review": false
   },
-  "rinds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rind"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "scone": {
     "types": [
       "regular noun"
@@ -34699,18 +32582,6 @@
     ],
     "needs_review": false
   },
-  "wicks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wick"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "aglow": {
     "types": [
       "adjective"
@@ -34741,18 +32612,6 @@
     ],
     "base_forms": [
       "cling"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "feats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "feat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -34812,18 +32671,6 @@
     ],
     "base_forms": [
       "haiku"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "idols": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "idol"
     ],
     "sources": [
       "WordNet 3.0"
@@ -35390,18 +33237,6 @@
     ],
     "needs_review": false
   },
-  "tiers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tier"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "algae": {
     "types": [
       "regular noun"
@@ -35656,18 +33491,6 @@
     ],
     "needs_review": false
   },
-  "kooks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "kook"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "lanky": {
     "types": [
       "adjective"
@@ -35767,18 +33590,6 @@
     ],
     "needs_review": false
   },
-  "safes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "safe"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "slurp": {
     "types": [
       "verb"
@@ -35816,36 +33627,12 @@
     ],
     "needs_review": false
   },
-  "winos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wino"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "yucky": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "yucky"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "barns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "barn"
     ],
     "sources": [
       "WordNet 3.0"
@@ -36001,19 +33788,6 @@
     ],
     "needs_review": false
   },
-  "harts": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "hart"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "junta": {
     "types": [
       "regular noun"
@@ -36072,18 +33846,6 @@
     ],
     "base_forms": [
       "opt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ponds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pond"
     ],
     "sources": [
       "WordNet 3.0"
@@ -36475,18 +34237,6 @@
     ],
     "needs_review": false
   },
-  "pleas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "plea"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "pokes": {
     "types": [
       "regular noun",
@@ -36794,18 +34544,6 @@
     ],
     "needs_review": false
   },
-  "mites": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mite"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "molds": {
     "types": [
       "regular noun",
@@ -36813,18 +34551,6 @@
     ],
     "base_forms": [
       "mold"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "oaths": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oath"
     ],
     "sources": [
       "WordNet 3.0"
@@ -36938,18 +34664,6 @@
     ],
     "base_forms": [
       "squab"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "temps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "temp"
     ],
     "sources": [
       "WordNet 3.0"
@@ -37228,18 +34942,6 @@
     ],
     "needs_review": false
   },
-  "hunks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hunk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "inert": {
     "types": [
       "adjective"
@@ -37388,18 +35090,6 @@
     ],
     "needs_review": false
   },
-  "wands": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wand"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "whirs": {
     "types": [
       "regular noun",
@@ -37484,34 +35174,12 @@
     ],
     "needs_review": false
   },
-  "burbs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "burly": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "burly"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "bytes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "byte"
     ],
     "sources": [
       "WordNet 3.0"
@@ -37663,32 +35331,6 @@
     ],
     "needs_review": false
   },
-  "logos": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "logo",
-      "logos"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "loons": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "loon"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "malay": {
     "types": [
       "adjective",
@@ -37716,72 +35358,12 @@
     ],
     "needs_review": false
   },
-  "odors": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "odor"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pangs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pang"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pests": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pest"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "piers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pier"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "poach": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "poach"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "poops": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "poop"
     ],
     "sources": [
       "WordNet 3.0"
@@ -38050,18 +35632,6 @@
     ],
     "needs_review": false
   },
-  "cafes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cafe"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "capes": {
     "types": [
       "regular noun",
@@ -38086,30 +35656,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "coeds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "comas": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "coma"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -38246,18 +35792,6 @@
     ],
     "needs_review": false
   },
-  "jowls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jowl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "knish": {
     "types": [
       "regular noun"
@@ -38289,30 +35823,6 @@
     ],
     "base_forms": [
       "mime"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "modes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mode"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "norms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "norm"
     ],
     "sources": [
       "WordNet 3.0"
@@ -38356,19 +35866,6 @@
     ],
     "needs_review": false
   },
-  "reeds": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "reed"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "remix": {
     "types": [
       "regular noun"
@@ -38406,48 +35903,12 @@
     ],
     "needs_review": false
   },
-  "serfs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "serf"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "silos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "silo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "slung": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "sling"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sofas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sofa"
     ],
     "sources": [
       "WordNet 3.0"
@@ -38474,18 +35935,6 @@
     ],
     "base_forms": [
       "tusk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wilds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wild"
     ],
     "sources": [
       "WordNet 3.0"
@@ -38805,22 +36254,12 @@
   "popes": {
     "types": [
       "proper noun",
-      "regular noun"
+      "regular noun",
+      "verb"
     ],
     "base_forms": [
+      "pop",
       "pope"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "proms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "prom"
     ],
     "sources": [
       "WordNet 3.0"
@@ -38896,18 +36335,6 @@
     ],
     "base_forms": [
       "skulk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "slabs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "slab"
     ],
     "sources": [
       "WordNet 3.0"
@@ -39085,18 +36512,6 @@
     ],
     "needs_review": false
   },
-  "ferns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fern"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "foamy": {
     "types": [
       "adjective"
@@ -39115,18 +36530,6 @@
     ],
     "base_forms": [
       "gawky"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gnats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gnat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -39178,18 +36581,6 @@
     ],
     "base_forms": [
       "hiker"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "icons": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "icon"
     ],
     "sources": [
       "WordNet 3.0"
@@ -39435,19 +36826,6 @@
     ],
     "needs_review": false
   },
-  "tykes": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "tyke"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "umber": {
     "types": [
       "adjective",
@@ -39528,18 +36906,6 @@
     ],
     "base_forms": [
       "beak"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "becks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "beck"
     ],
     "sources": [
       "WordNet 3.0"
@@ -39832,18 +37198,6 @@
     ],
     "needs_review": false
   },
-  "nouns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "noun"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "pacer": {
     "types": [
       "regular noun"
@@ -39921,30 +37275,6 @@
     ],
     "needs_review": false
   },
-  "quads": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "quad"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "reals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "real"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "reeve": {
     "types": [
       "regular noun",
@@ -39966,30 +37296,6 @@
     "base_forms": [
       "rub",
       "rube"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sects": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sect"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "seers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "seer"
     ],
     "sources": [
       "WordNet 3.0"
@@ -40147,30 +37453,6 @@
     ],
     "needs_review": false
   },
-  "boars": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "boar"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "brows": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "brow"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "caber": {
     "types": [
       "regular noun"
@@ -40231,18 +37513,6 @@
     ],
     "needs_review": false
   },
-  "domes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dome"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "dowdy": {
     "types": [
       "adjective",
@@ -40263,30 +37533,6 @@
     ],
     "base_forms": [
       "duvet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "earls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "earl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "globs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "glob"
     ],
     "sources": [
       "WordNet 3.0"
@@ -40366,28 +37612,6 @@
     ],
     "needs_review": false
   },
-  "mages": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "mains": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "main"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "natty": {
     "types": [
       "adjective"
@@ -40419,18 +37643,6 @@
     ],
     "base_forms": [
       "out"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pikes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pike"
     ],
     "sources": [
       "WordNet 3.0"
@@ -40485,19 +37697,6 @@
     "base_forms": [
       "sag",
       "sage"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "scads": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "scad",
-      "scads"
     ],
     "sources": [
       "WordNet 3.0"
@@ -40668,19 +37867,6 @@
     ],
     "needs_review": false
   },
-  "tutus": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "tutu"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "verve": {
     "types": [
       "regular noun"
@@ -40745,18 +37931,6 @@
     ],
     "needs_review": false
   },
-  "auras": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "aura"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bails": {
     "types": [
       "regular noun",
@@ -40764,18 +37938,6 @@
     ],
     "base_forms": [
       "bail"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "beaus": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "beau"
     ],
     "sources": [
       "WordNet 3.0"
@@ -40881,19 +38043,6 @@
     ],
     "needs_review": false
   },
-  "colas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "cola"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "corks": {
     "types": [
       "proper noun",
@@ -40981,18 +38130,6 @@
     ],
     "needs_review": false
   },
-  "gusts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gust"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "henna": {
     "types": [
       "regular noun",
@@ -41000,18 +38137,6 @@
     ],
     "base_forms": [
       "henna"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "hobos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hobo"
     ],
     "sources": [
       "WordNet 3.0"
@@ -41086,18 +38211,6 @@
     "base_forms": [
       "pal",
       "pale"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pasts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "past"
     ],
     "sources": [
       "WordNet 3.0"
@@ -41481,20 +38594,6 @@
     ],
     "needs_review": false
   },
-  "goths": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "goth"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "grays": {
     "types": [
       "proper noun",
@@ -41503,45 +38602,6 @@
     ],
     "base_forms": [
       "gray"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gurus": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "guru"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "isles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "isle"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "lamas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "lama"
     ],
     "sources": [
       "WordNet 3.0"
@@ -41580,18 +38640,6 @@
     ],
     "needs_review": false
   },
-  "nooks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "nook"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "oozes": {
     "types": [
       "regular noun",
@@ -41623,18 +38671,6 @@
     ],
     "base_forms": [
       "paw"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "peons": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "peon"
     ],
     "sources": [
       "WordNet 3.0"
@@ -41731,36 +38767,12 @@
     ],
     "needs_review": false
   },
-  "runts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "runt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "saner": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "sane"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "semis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "semi"
     ],
     "sources": [
       "WordNet 3.0"
@@ -42094,18 +39106,6 @@
     ],
     "needs_review": false
   },
-  "dales": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dale"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "dater": {
     "types": [
       "regular noun"
@@ -42147,18 +39147,6 @@
     ],
     "base_forms": [
       "dishy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "duets": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "duet"
     ],
     "sources": [
       "WordNet 3.0"
@@ -42221,32 +39209,6 @@
     ],
     "base_forms": [
       "flail"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fungi": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "fungi",
-      "fungus"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gales": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gale"
     ],
     "sources": [
       "WordNet 3.0"
@@ -42415,18 +39377,6 @@
     ],
     "needs_review": false
   },
-  "pacts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pact"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "peeve": {
     "types": [
       "regular noun",
@@ -42484,20 +39434,6 @@
     ],
     "base_forms": [
       "shale"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sills": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "sill",
-      "sills"
     ],
     "sources": [
       "WordNet 3.0"
@@ -42665,18 +39601,6 @@
     ],
     "needs_review": false
   },
-  "arias": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "aria"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "assay": {
     "types": [
       "regular noun",
@@ -42740,18 +39664,6 @@
     ],
     "needs_review": false
   },
-  "casks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cask"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "clomp": {
     "types": [
       "verb"
@@ -42795,18 +39707,6 @@
     ],
     "base_forms": [
       "domed"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "drabs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "drab"
     ],
     "sources": [
       "WordNet 3.0"
@@ -42930,18 +39830,6 @@
     ],
     "base_forms": [
       "gaunt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "glens": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "glen"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43113,36 +40001,12 @@
     ],
     "needs_review": false
   },
-  "masts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mast"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mealy": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "mealy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "minks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mink"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43185,18 +40049,6 @@
     ],
     "needs_review": false
   },
-  "papas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "papa"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "payer": {
     "types": [
       "regular noun"
@@ -43229,19 +40081,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "pucks": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "puck"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -43431,18 +40270,6 @@
     ],
     "needs_review": false
   },
-  "tufts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tuft"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "twang": {
     "types": [
       "regular noun",
@@ -43450,18 +40277,6 @@
     ],
     "base_forms": [
       "twang"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "typos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "typo"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43506,18 +40321,6 @@
     ],
     "needs_review": false
   },
-  "yolks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "yolk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "zesty": {
     "types": [
       "adjective"
@@ -43536,18 +40339,6 @@
     ],
     "base_forms": [
       "abeam"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "altos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "alto"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43584,18 +40375,6 @@
     ],
     "base_forms": [
       "axiom"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "banns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "banns"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43682,57 +40461,6 @@
     ],
     "base_forms": [
       "cap"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "chows": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "chow"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "clods": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "clod"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "cysts": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "cyst"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "dells": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dell"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43872,18 +40600,6 @@
     ],
     "needs_review": false
   },
-  "golds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gold"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "goofs": {
     "types": [
       "regular noun",
@@ -43897,36 +40613,12 @@
     ],
     "needs_review": false
   },
-  "grads": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "grad"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "gushy": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "gushy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gyros": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gyro"
     ],
     "sources": [
       "WordNet 3.0"
@@ -43970,19 +40662,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
-  "kiwis": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "kiwi"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -44270,18 +40949,6 @@
     ],
     "needs_review": false
   },
-  "tarps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tarp"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tines": {
     "types": [
       "regular noun",
@@ -44290,18 +40957,6 @@
     "base_forms": [
       "tin",
       "tine"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "togas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "toga"
     ],
     "sources": [
       "WordNet 3.0"
@@ -44445,18 +41100,6 @@
     ],
     "needs_review": false
   },
-  "boors": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "boor"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "burgh": {
     "types": [
       "historical term",
@@ -44496,20 +41139,6 @@
     ],
     "needs_review": false
   },
-  "celts": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "celt"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "cheep": {
     "types": [
       "regular noun",
@@ -44517,18 +41146,6 @@
     ],
     "base_forms": [
       "cheep"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "chits": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "chit"
     ],
     "sources": [
       "WordNet 3.0"
@@ -44601,30 +41218,6 @@
     ],
     "base_forms": [
       "divan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "doers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "doer"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dolts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dolt"
     ],
     "sources": [
       "WordNet 3.0"
@@ -44835,18 +41428,6 @@
     ],
     "needs_review": false
   },
-  "maxis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "maxi"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mends": {
     "types": [
       "regular noun",
@@ -44866,30 +41447,6 @@
     ],
     "base_forms": [
       "opine"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "overs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "over"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pails": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pail"
     ],
     "sources": [
       "WordNet 3.0"
@@ -44977,18 +41534,6 @@
     ],
     "base_forms": [
       "reuse"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rungs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rung"
     ],
     "sources": [
       "WordNet 3.0"
@@ -45279,18 +41824,6 @@
     ],
     "needs_review": false
   },
-  "wisps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wisp"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "wrest": {
     "types": [
       "verb"
@@ -45387,18 +41920,6 @@
     ],
     "needs_review": false
   },
-  "blips": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "blip"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "boggy": {
     "types": [
       "adjective"
@@ -45430,18 +41951,6 @@
     ],
     "base_forms": [
       "borax"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "braes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "brae"
     ],
     "sources": [
       "WordNet 3.0"
@@ -45574,30 +42083,6 @@
     ],
     "needs_review": false
   },
-  "eaves": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "eaves"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "floes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "floe"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "foams": {
     "types": [
       "regular noun",
@@ -45678,18 +42163,6 @@
     ],
     "base_forms": [
       "gusty"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "halos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "halo"
     ],
     "sources": [
       "WordNet 3.0"
@@ -45819,18 +42292,6 @@
     ],
     "needs_review": false
   },
-  "lutes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lute"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "manky": {
     "types": [
       "adjective"
@@ -45849,18 +42310,6 @@
     ],
     "base_forms": [
       "maven"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mazes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "maze"
     ],
     "sources": [
       "WordNet 3.0"
@@ -45912,30 +42361,6 @@
     ],
     "base_forms": [
       "ogle"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "opals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "opal"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "orcas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "orca"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46017,18 +42442,6 @@
     ],
     "needs_review": false
   },
-  "rumps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rump"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "sated": {
     "types": [
       "verb"
@@ -46072,30 +42485,6 @@
     ],
     "base_forms": [
       "skein"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "skits": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "skit"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "snots": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "snot"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46158,31 +42547,6 @@
     ],
     "base_forms": [
       "swash"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tangs": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "tang"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tapas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tapa"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46260,18 +42624,6 @@
     ],
     "needs_review": false
   },
-  "vanes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vane"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "vexes": {
     "types": [
       "verb"
@@ -46297,51 +42649,12 @@
     ],
     "needs_review": false
   },
-  "whigs": {
-    "types": [
-      "historical term",
-      "proper noun"
-    ],
-    "base_forms": [
-      "whig"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed historical vocabulary"
-    ],
-    "needs_review": false
-  },
   "wispy": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "wispy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "woofs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "woof"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "yogis": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "yogi"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46360,48 +42673,12 @@
     ],
     "needs_review": false
   },
-  "zines": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "zulus": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "zulu"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "acing": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "ace"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "alums": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "alum"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46434,20 +42711,6 @@
     ],
     "needs_review": false
   },
-  "atria": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "atrium"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
   "aural": {
     "types": [
       "adjective",
@@ -46459,18 +42722,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "autos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "auto"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -46551,44 +42802,6 @@
     ],
     "needs_review": false
   },
-  "boers": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "boer"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
-  "bolas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bola"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "cacti": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cactus"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "capon": {
     "types": [
       "regular noun"
@@ -46608,19 +42821,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "chads": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "chad"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -46649,36 +42849,12 @@
     ],
     "needs_review": false
   },
-  "coups": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "coup"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "creel": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "creel"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "curds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "curd"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46695,48 +42871,12 @@
     ],
     "needs_review": false
   },
-  "czars": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "czar"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "dacha": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "dacha"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "delis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "deli"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "divas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "diva"
     ],
     "sources": [
       "WordNet 3.0"
@@ -46902,20 +43042,6 @@
     ],
     "needs_review": false
   },
-  "finns": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "finn"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "folio": {
     "types": [
       "regular noun"
@@ -46934,18 +43060,6 @@
     ],
     "base_forms": [
       "fount"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "grans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gran"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47026,30 +43140,6 @@
     ],
     "needs_review": false
   },
-  "lairs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lair"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "liens": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lien"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "limps": {
     "types": [
       "regular noun",
@@ -47063,37 +43153,12 @@
     ],
     "needs_review": false
   },
-  "louts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lout"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "lubed": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "lube"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "mesas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "mesa"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47230,18 +43295,6 @@
     ],
     "base_forms": [
       "reap"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rifts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rift"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47405,48 +43458,12 @@
     ],
     "needs_review": false
   },
-  "terns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tern"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tiffs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tiff"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tiler": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "tiler"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tomes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tome"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47620,19 +43637,6 @@
     ],
     "needs_review": false
   },
-  "afros": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "afro"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "amass": {
     "types": [
       "verb"
@@ -47696,18 +43700,6 @@
     ],
     "needs_review": false
   },
-  "axles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "axle"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "baled": {
     "types": [
       "verb"
@@ -47727,19 +43719,6 @@
     "base_forms": [
       "bar",
       "bare"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "betas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "beta"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47835,18 +43814,6 @@
     ],
     "needs_review": false
   },
-  "capos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "capo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "conic": {
     "types": [
       "adjective",
@@ -47894,19 +43861,6 @@
     ],
     "needs_review": false
   },
-  "deans": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "dean"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "ditsy": {
     "types": [
       "adjective"
@@ -47936,18 +43890,6 @@
     ],
     "base_forms": [
       "dowel"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "drams": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dram"
     ],
     "sources": [
       "WordNet 3.0"
@@ -47990,18 +43932,6 @@
     ],
     "needs_review": false
   },
-  "epics": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "epic"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "fasts": {
     "types": [
       "regular noun",
@@ -48012,16 +43942,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fests": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -48157,18 +44077,6 @@
     ],
     "needs_review": false
   },
-  "hinds": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hind"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "homed": {
     "types": [
       "verb"
@@ -48231,28 +44139,6 @@
     ],
     "needs_review": false
   },
-  "karts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "kilts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "kilt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "korma": {
     "types": [
       "regular noun"
@@ -48270,18 +44156,6 @@
     ],
     "base_forms": [
       "leaf"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "leeks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "leek"
     ],
     "sources": [
       "WordNet 3.0"
@@ -48334,39 +44208,16 @@
     ],
     "needs_review": false
   },
-  "marts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mart"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "maxes": {
     "types": [
-      "regular noun"
+      "verb"
     ],
     "base_forms": [
       "max"
     ],
     "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "moats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "moat"
-    ],
-    "sources": [
-      "WordNet 3.0"
+      "WordNet 3.0",
+      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -48525,18 +44376,6 @@
     ],
     "needs_review": false
   },
-  "pumas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "puma"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "punic": {
     "types": [
       "adjective",
@@ -48549,18 +44388,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
-  "quids": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "quid"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -48594,18 +44421,6 @@
     ],
     "base_forms": [
       "ruble"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sagas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "saga"
     ],
     "sources": [
       "WordNet 3.0"
@@ -48786,18 +44601,6 @@
     ],
     "needs_review": false
   },
-  "torts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tort"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "touts": {
     "types": [
       "regular noun",
@@ -48860,36 +44663,12 @@
     ],
     "needs_review": false
   },
-  "vales": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vale"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "vireo": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "vireo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "waifs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "waif"
     ],
     "sources": [
       "WordNet 3.0"
@@ -48915,30 +44694,6 @@
     ],
     "base_forms": [
       "whorl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wombs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "womb"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wonks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wonk"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49067,18 +44822,6 @@
     ],
     "needs_review": false
   },
-  "blocs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bloc"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "blurs": {
     "types": [
       "regular noun",
@@ -49086,19 +44829,6 @@
     ],
     "base_forms": [
       "blur"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "boles": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "bole"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49192,44 +44922,6 @@
     ],
     "needs_review": false
   },
-  "cilia": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "cilium"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "cotes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cote"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "coves": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cove"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "croat": {
     "types": [
       "demonym",
@@ -49288,42 +44980,6 @@
     ],
     "base_forms": [
       "daunt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dills": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dill"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dodos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dodo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "doles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dole"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49427,36 +45083,12 @@
     ],
     "needs_review": false
   },
-  "expos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "expo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "extol": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "extol"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fauns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "faun"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49488,18 +45120,6 @@
     ],
     "needs_review": false
   },
-  "fifes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fife"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "finny": {
     "types": [
       "adjective"
@@ -49507,18 +45127,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "fonts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "font"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -49583,18 +45191,6 @@
     ],
     "needs_review": false
   },
-  "galas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gala"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "genet": {
     "types": [
       "proper noun",
@@ -49602,18 +45198,6 @@
     ],
     "base_forms": [
       "genet"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ghats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ghat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49689,18 +45273,6 @@
     ],
     "base_forms": [
       "hew"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "hulas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hula"
     ],
     "sources": [
       "WordNet 3.0"
@@ -49848,19 +45420,6 @@
     ],
     "needs_review": false
   },
-  "maces": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "mace"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "manes": {
     "types": [
       "proper noun",
@@ -49914,18 +45473,6 @@
     ],
     "needs_review": false
   },
-  "minis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mini"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mossy": {
     "types": [
       "adjective"
@@ -49969,18 +45516,6 @@
     ],
     "base_forms": [
       "oaken"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "oboes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oboe"
     ],
     "sources": [
       "WordNet 3.0"
@@ -50043,19 +45578,6 @@
     ],
     "base_forms": [
       "oxbow"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "paras": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "para"
     ],
     "sources": [
       "WordNet 3.0"
@@ -50170,54 +45692,6 @@
     ],
     "base_forms": [
       "prate"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "preps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "prep"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "prigs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "prig"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "profs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "prof"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pyres": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pyre"
     ],
     "sources": [
       "WordNet 3.0"
@@ -50639,42 +46113,6 @@
     ],
     "needs_review": false
   },
-  "treys": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "trey"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "trios": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "trio"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tubas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tuba"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "voile": {
     "types": [
       "regular noun"
@@ -50749,36 +46187,12 @@
     ],
     "needs_review": false
   },
-  "writs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "writ"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "wryly": {
     "types": [
       "adverb"
     ],
     "base_forms": [
       "wryly"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "yeses": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "yes"
     ],
     "sources": [
       "WordNet 3.0"
@@ -50830,29 +46244,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "aloes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "aloe",
-      "aloes"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ankhs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -50940,18 +46331,6 @@
     ],
     "needs_review": false
   },
-  "balms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "balm"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bards": {
     "types": [
       "regular noun",
@@ -51000,31 +46379,6 @@
     ],
     "needs_review": false
   },
-  "bergs": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "berg"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "berms": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "berm"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bevvy": {
     "types": [
       "regular noun"
@@ -51063,19 +46417,6 @@
     ],
     "base_forms": [
       "bilk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "blahs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "blah",
-      "blahs"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51144,44 +46485,6 @@
     ],
     "needs_review": false
   },
-  "carpi": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "carpus"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "chocs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "choc"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "chubs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "chub"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "churl": {
     "types": [
       "regular noun"
@@ -51191,21 +46494,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "cocci": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "cocci",
-      "coccus"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -51242,30 +46530,6 @@
     ],
     "base_forms": [
       "coo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "coops": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "coop"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "coots": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "coot"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51324,18 +46588,6 @@
     ],
     "needs_review": false
   },
-  "crags": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "crag"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "crape": {
     "types": [
       "regular noun",
@@ -51385,18 +46637,6 @@
     ],
     "needs_review": false
   },
-  "cusps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "cusp"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "darns": {
     "types": [
       "regular noun",
@@ -51404,18 +46644,6 @@
     ],
     "base_forms": [
       "darn"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "deeps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "deep"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51441,18 +46669,6 @@
     ],
     "base_forms": [
       "demur"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dirks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dirk"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51544,16 +46760,6 @@
     ],
     "needs_review": false
   },
-  "faves": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "felts": {
     "types": [
       "regular noun",
@@ -51601,18 +46807,6 @@
     ],
     "needs_review": false
   },
-  "flans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "flan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "foals": {
     "types": [
       "regular noun",
@@ -51620,18 +46814,6 @@
     ],
     "base_forms": [
       "foal"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "frats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "frat"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51656,18 +46838,6 @@
     ],
     "base_forms": [
       "fusty"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gaits": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gait"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51738,30 +46908,6 @@
     ],
     "needs_review": false
   },
-  "genii": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "genius"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gilts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gilt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "gluts": {
     "types": [
       "regular noun",
@@ -51781,18 +46927,6 @@
     ],
     "base_forms": [
       "gouty"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gulfs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gulf"
     ],
     "sources": [
       "WordNet 3.0"
@@ -51901,18 +47035,6 @@
     ],
     "needs_review": false
   },
-  "imams": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "imam"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "inset": {
     "types": [
       "regular noun",
@@ -51938,28 +47060,6 @@
     ],
     "needs_review": false
   },
-  "ivies": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ivy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "joeys": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "joule": {
     "types": [
       "proper noun",
@@ -51979,18 +47079,6 @@
     ],
     "base_forms": [
       "jowly"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "jukes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "juke"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52174,18 +47262,6 @@
     ],
     "needs_review": false
   },
-  "luaus": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "luau"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "lubes": {
     "types": [
       "regular noun",
@@ -52263,36 +47339,12 @@
     ],
     "needs_review": false
   },
-  "motes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mote"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mussy": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "mussy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "musts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "must"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52367,18 +47419,6 @@
     ],
     "base_forms": [
       "ooh"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "orals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oral"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52497,48 +47537,12 @@
     ],
     "needs_review": false
   },
-  "phyla": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "phylum"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "piste": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "piste"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "pitas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pita"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ploys": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ploy"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52577,18 +47581,6 @@
     ],
     "base_forms": [
       "quire"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "radii": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "radius"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52648,30 +47640,6 @@
     ],
     "base_forms": [
       "retie"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rills": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rill"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rinks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rink"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52765,44 +47733,6 @@
     ],
     "needs_review": false
   },
-  "saris": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sari"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "saxes": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "sax",
-      "saxe"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "scows": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "scow"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "scurf": {
     "types": [
       "medical term",
@@ -52835,18 +47765,6 @@
     ],
     "base_forms": [
       "serif"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "shivs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "shiv"
     ],
     "sources": [
       "WordNet 3.0"
@@ -52917,20 +47835,6 @@
     ],
     "needs_review": false
   },
-  "slavs": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "slav"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "slews": {
     "types": [
       "regular noun",
@@ -52963,30 +47867,6 @@
     ],
     "base_forms": [
       "slyly"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "snits": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "snit"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "snugs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "snug"
     ],
     "sources": [
       "WordNet 3.0"
@@ -53077,18 +47957,6 @@
     ],
     "needs_review": false
   },
-  "teals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "teal"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "tithe": {
     "types": [
       "regular noun",
@@ -53096,18 +47964,6 @@
     ],
     "base_forms": [
       "tithe"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tokes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "toke"
     ],
     "sources": [
       "WordNet 3.0"
@@ -53136,32 +47992,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tunas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tuna"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ulnae": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "ulna"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -53257,20 +48087,6 @@
     ],
     "needs_review": false
   },
-  "villi": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "villus"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
   "wader": {
     "types": [
       "regular noun"
@@ -53321,19 +48137,6 @@
     ],
     "needs_review": false
   },
-  "wrens": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "wren"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "yokes": {
     "types": [
       "regular noun",
@@ -53354,18 +48157,6 @@
     ],
     "base_forms": [
       "yowl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "zings": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "zing"
     ],
     "sources": [
       "WordNet 3.0"
@@ -53418,31 +48209,7 @@
     ],
     "needs_review": false
   },
-  "acmes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "acme"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "adman": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "adman"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "admen": {
     "types": [
       "regular noun"
     ],
@@ -53460,19 +48227,6 @@
     ],
     "base_forms": [
       "adobo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "adzes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "adz",
-      "adze"
     ],
     "sources": [
       "WordNet 3.0"
@@ -53549,20 +48303,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "axons": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "axon"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -53648,18 +48388,6 @@
     ],
     "needs_review": false
   },
-  "biers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "bier"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "bindi": {
     "types": [
       "regular noun"
@@ -53706,18 +48434,6 @@
     ],
     "needs_review": false
   },
-  "boons": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "boon"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "brads": {
     "types": [
       "regular noun",
@@ -53750,18 +48466,6 @@
     ],
     "base_forms": [
       "bream"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "brigs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "brig"
     ],
     "sources": [
       "WordNet 3.0"
@@ -53848,18 +48552,6 @@
     ],
     "base_forms": [
       "calyx"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "camos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "camo"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54016,18 +48708,6 @@
     ],
     "needs_review": false
   },
-  "clefs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "clef"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "clonk": {
     "types": [
       "regular noun",
@@ -54058,18 +48738,6 @@
     ],
     "base_forms": [
       "cloy"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "codas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "coda"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54186,18 +48854,6 @@
     ],
     "base_forms": [
       "cram"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "craws": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "craw"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54381,18 +49037,6 @@
     ],
     "needs_review": false
   },
-  "drays": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dray"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "drubs": {
     "types": [
       "verb"
@@ -54423,18 +49067,6 @@
     ],
     "base_forms": [
       "durum"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "dyers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "dyer"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54479,18 +49111,6 @@
     ],
     "needs_review": false
   },
-  "emirs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "emir"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "emoji": {
     "types": [
       "regular noun"
@@ -54498,18 +49118,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "epees": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "epee"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -54525,32 +49133,6 @@
     ],
     "needs_review": false
   },
-  "ewers": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ewer"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "exons": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "exon"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
   "exult": {
     "types": [
       "verb"
@@ -54563,46 +49145,12 @@
     ],
     "needs_review": false
   },
-  "favas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "ferny": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "ferny"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fiats": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fiat"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "fiefs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "fief"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54656,18 +49204,6 @@
     ],
     "needs_review": false
   },
-  "flues": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "flue"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "fluky": {
     "types": [
       "adjective"
@@ -54699,18 +49235,6 @@
     ],
     "base_forms": [
       "furl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "gaffs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "gaff"
     ],
     "sources": [
       "WordNet 3.0"
@@ -54851,18 +49375,6 @@
     ],
     "needs_review": false
   },
-  "hafts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "haft"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "haida": {
     "types": [
       "demonym",
@@ -54874,18 +49386,6 @@
     "sources": [
       "WordNet 3.0",
       "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
-  "hakes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "hake"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -55165,18 +49665,6 @@
     ],
     "needs_review": false
   },
-  "iotas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "iota"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "iowan": {
     "types": [
       "demonym",
@@ -55229,30 +49717,6 @@
     ],
     "needs_review": false
   },
-  "jambs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jamb"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "japes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "jape"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "jells": {
     "types": [
       "verb"
@@ -55262,16 +49726,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "jiffs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -55288,18 +49742,6 @@
     ],
     "needs_review": false
   },
-  "khans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "khan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "kicky": {
     "types": [
       "adjective"
@@ -55307,18 +49749,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "kilns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "kiln"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -55331,20 +49761,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "kurds": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "kurd"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
     ],
     "needs_review": false
   },
@@ -55367,18 +49783,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "laths": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lath"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -55430,49 +49834,12 @@
     ],
     "needs_review": false
   },
-  "lidos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lido"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lilos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lilo"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "limns": {
     "types": [
       "verb"
     ],
     "base_forms": [
       "limn"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lints": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lint"
     ],
     "sources": [
       "WordNet 3.0"
@@ -55505,30 +49872,6 @@
     ],
     "needs_review": false
   },
-  "lochs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "loch"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lodes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lode"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "loped": {
     "types": [
       "verb"
@@ -55548,30 +49891,6 @@
     ],
     "base_forms": [
       "low"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lulus": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lulu"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "lyres": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "lyre"
     ],
     "sources": [
       "WordNet 3.0"
@@ -55627,37 +49946,14 @@
   },
   "memes": {
     "types": [
-      "regular noun"
+      "verb"
     ],
     "base_forms": [
       "meme"
     ],
     "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "meres": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mere"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "metes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mete"
-    ],
-    "sources": [
-      "WordNet 3.0"
+      "WordNet 3.0",
+      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -55667,18 +49963,6 @@
     ],
     "base_forms": [
       "mewl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "miens": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "mien"
     ],
     "sources": [
       "WordNet 3.0"
@@ -55770,18 +50054,6 @@
     ],
     "needs_review": false
   },
-  "morns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "morn"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "mufti": {
     "types": [
       "regular noun"
@@ -55820,48 +50092,12 @@
     ],
     "needs_review": false
   },
-  "mynas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "myna"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "naans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "naan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "nacre": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "nacre"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "naifs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "naif"
     ],
     "sources": [
       "WordNet 3.0"
@@ -55876,18 +50112,6 @@
     "base_forms": [
       "nap",
       "nape"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "naves": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "nave"
     ],
     "sources": [
       "WordNet 3.0"
@@ -55918,18 +50142,6 @@
     ],
     "needs_review": false
   },
-  "newts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "newt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "nixes": {
     "types": [
       "regular noun",
@@ -55943,53 +50155,6 @@
     ],
     "needs_review": false
   },
-  "noels": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "noel"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "noirs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "novas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "nova"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "nulls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "null"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "oared": {
     "types": [
       "adjective"
@@ -55997,18 +50162,6 @@
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "oases": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oasis"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -56085,18 +50238,6 @@
     ],
     "needs_review": false
   },
-  "okras": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "okra"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "ollie": {
     "types": [
       "regular noun"
@@ -56162,30 +50303,6 @@
     ],
     "needs_review": false
   },
-  "ouzos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "ouzo"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ovals": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "oval"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "paleo": {
     "types": [
       "adjective"
@@ -56245,18 +50362,6 @@
     ],
     "needs_review": false
   },
-  "pawls": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pawl"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "payee": {
     "types": [
       "regular noun"
@@ -56282,19 +50387,6 @@
     ],
     "needs_review": false
   },
-  "pekes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "peke"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "penne": {
     "types": [
       "regular noun"
@@ -56304,16 +50396,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "perps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -56389,30 +50471,6 @@
     ],
     "needs_review": false
   },
-  "poufs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pouf"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "prams": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "pram"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "prier": {
     "types": [
       "regular noun"
@@ -56437,18 +50495,6 @@
     ],
     "needs_review": false
   },
-  "prows": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "prow"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "purls": {
     "types": [
       "regular noun",
@@ -56459,28 +50505,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "quays": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "quay"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "ragas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -56656,19 +50680,6 @@
     ],
     "needs_review": false
   },
-  "rheas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "rhea"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "riced": {
     "types": [
       "verb"
@@ -56707,18 +50718,6 @@
     ],
     "needs_review": false
   },
-  "roans": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "roan"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "roils": {
     "types": [
       "verb"
@@ -56744,43 +50743,6 @@
     ],
     "needs_review": false
   },
-  "rotas": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "rota"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rotis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "ruses": {
-    "types": [
-      "proper noun",
-      "regular noun"
-    ],
-    "base_forms": [
-      "rus",
-      "ruse"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "rushy": {
     "types": [
       "adjective"
@@ -56790,32 +50752,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "rusks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "rusk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sacra": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "sacrum"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
     ],
     "needs_review": false
   },
@@ -56887,34 +50823,6 @@
     ],
     "needs_review": false
   },
-  "septa": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "septum"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
-  "serbs": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "serb"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
   "serer": {
     "types": [
       "demonym",
@@ -56929,28 +50837,16 @@
     ],
     "needs_review": false
   },
-  "shahs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "shah"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "shims": {
     "types": [
-      "regular noun"
+      "verb"
     ],
     "base_forms": [
       "shim"
     ],
     "sources": [
-      "WordNet 3.0"
+      "WordNet 3.0",
+      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -57004,36 +50900,12 @@
     ],
     "needs_review": false
   },
-  "skuas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "skua"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "slier": {
     "types": [
       "adjective"
     ],
     "base_forms": [
       "sly"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "sloes": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sloe"
     ],
     "sources": [
       "WordNet 3.0"
@@ -57076,18 +50948,6 @@
     ],
     "needs_review": false
   },
-  "souks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "souk"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "spays": {
     "types": [
       "verb"
@@ -57113,46 +50973,12 @@
     ],
     "needs_review": false
   },
-  "sties": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sty"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "stile": {
     "types": [
       "regular noun"
     ],
     "base_forms": [
       "stile"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "stims": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "sumps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "sump"
     ],
     "sources": [
       "WordNet 3.0"
@@ -57244,44 +51070,6 @@
     ],
     "needs_review": false
   },
-  "tarns": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "tarn"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "taros": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "taro"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "tarsi": {
-    "types": [
-      "medical term",
-      "regular noun"
-    ],
-    "base_forms": [
-      "tarsus"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed medical vocabulary"
-    ],
-    "needs_review": false
-  },
   "tatar": {
     "types": [
       "demonym",
@@ -57289,32 +51077,6 @@
     ],
     "base_forms": [
       "tatar"
-    ],
-    "sources": [
-      "WordNet 3.0",
-      "reviewed nationality/demonym"
-    ],
-    "needs_review": false
-  },
-  "teaks": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "teak"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "thais": {
-    "types": [
-      "demonym",
-      "proper noun"
-    ],
-    "base_forms": [
-      "thai"
     ],
     "sources": [
       "WordNet 3.0",
@@ -57455,16 +51217,6 @@
     ],
     "needs_review": false
   },
-  "updos": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "utahn": {
     "types": [
       "demonym"
@@ -57508,16 +51260,6 @@
     ],
     "needs_review": false
   },
-  "veeps": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
   "vends": {
     "types": [
       "verb"
@@ -57542,73 +51284,14 @@
     ],
     "needs_review": false
   },
-  "viols": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "viol"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "vises": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vise"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "vivas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "viva"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "vlogs": {
     "types": [
-      "regular noun"
+      "regular noun",
+      "verb"
     ],
     "base_forms": [],
     "sources": [
       "reviewed lexical override"
-    ],
-    "needs_review": false
-  },
-  "voles": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "vole"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wadis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "wadi"
-    ],
-    "sources": [
-      "WordNet 3.0"
     ],
     "needs_review": false
   },
@@ -57630,30 +51313,6 @@
     ],
     "base_forms": [
       "wean"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wefts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "weft"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "weirs": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "weir"
     ],
     "sources": [
       "WordNet 3.0"
@@ -57689,28 +51348,6 @@
     ],
     "sources": [
       "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "whits": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "whit"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "wikis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [],
-    "sources": [
-      "reviewed lexical override"
     ],
     "needs_review": false
   },
@@ -57764,18 +51401,6 @@
     ],
     "needs_review": false
   },
-  "yetis": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "yeti"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "yonks": {
     "types": [
       "adverb"
@@ -57786,30 +51411,6 @@
     ],
     "needs_review": false
   },
-  "yurts": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "yurt"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "zebus": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "zebu"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
   "zests": {
     "types": [
       "regular noun",
@@ -57817,18 +51418,6 @@
     ],
     "base_forms": [
       "zest"
-    ],
-    "sources": [
-      "WordNet 3.0"
-    ],
-    "needs_review": false
-  },
-  "zetas": {
-    "types": [
-      "regular noun"
-    ],
-    "base_forms": [
-      "zeta"
     ],
     "sources": [
       "WordNet 3.0"

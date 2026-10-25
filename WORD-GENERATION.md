@@ -65,3 +65,11 @@ and run `scripts/prune_candidate_words.py`. New removals are added to
 `data/excluded-candidate-words.txt`, with reasons preserved in
 `data/candidate-word-pruning.json`. The active type mapping always covers the
 remaining candidates exactly.
+
+Plural-only noun forms are excluded; valid independent uses remain eligible.
+After classifying a rebuilt list, run
+`python3 scripts/remove_candidate_plurals.py --wordnet-zip /tmp/leword-wordnet.zip`
+to identify additional plurals. Singular mappings are preserved in
+`data/candidate-word-plurals.json`, while retained mixed-use forms are recorded
+in `data/candidate-word-ambiguous-forms.json`. The decisions remain in effect
+during subsequent regeneration. See `data/candidate-word-types.md` for details.

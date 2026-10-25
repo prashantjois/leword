@@ -23,6 +23,34 @@
       "proper noun"
     ]
   },
+  "acids": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "acid"
+    ]
+  },
+  "acmes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "acme"
+    ]
+  },
+  "acres": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "acre"
+    ]
+  },
   "acrux": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -65,16 +93,44 @@
       "unknown"
     ]
   },
+  "admen": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "adman"
+    ]
+  },
   "admix": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "verb"
     ]
   },
+  "adzes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "adz",
+      "adze"
+    ]
+  },
   "afaik": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "afros": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "afro"
     ]
   },
   "agana": {
@@ -228,6 +284,15 @@
       "unknown"
     ]
   },
+  "aloes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "aloe"
+    ]
+  },
   "alsop": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -244,6 +309,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "altos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "alto"
+    ]
+  },
+  "alums": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "alum"
     ]
   },
   "alyce": {
@@ -330,6 +413,15 @@
       "unknown"
     ]
   },
+  "ankhs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ankh"
+    ]
+  },
   "annam": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -384,6 +476,16 @@
       "regular noun"
     ]
   },
+  "arabs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "arab"
+    ]
+  },
   "araby": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
@@ -400,6 +502,24 @@
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "areas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "area"
+    ]
+  },
+  "arias": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "aria"
     ]
   },
   "arius": {
@@ -499,6 +619,25 @@
       "unknown"
     ]
   },
+  "atoms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "atom"
+    ]
+  },
+  "atria": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "atrium"
+    ]
+  },
   "attar": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -515,6 +654,33 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "aunts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "aunt"
+    ]
+  },
+  "auras": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "aura"
+    ]
+  },
+  "autos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "auto"
     ]
   },
   "auxin": {
@@ -554,6 +720,25 @@
       "verb"
     ]
   },
+  "axles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "axle"
+    ]
+  },
+  "axons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "axon"
+    ]
+  },
   "ayahs": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -588,6 +773,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "babes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "babe"
     ]
   },
   "baccy": {
@@ -632,10 +826,37 @@
       "verb"
     ]
   },
+  "balms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "balm"
+    ]
+  },
   "bambi": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "banns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bann"
+    ]
+  },
+  "barns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "barn"
     ]
   },
   "basel": {
@@ -699,10 +920,28 @@
       "regular noun"
     ]
   },
+  "beaus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "beau"
+    ]
+  },
   "beaut": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "becks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "beck"
     ]
   },
   "becky": {
@@ -721,6 +960,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "beers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "beer"
+    ]
+  },
+  "beets": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "beet"
     ]
   },
   "begum": {
@@ -771,6 +1028,16 @@
       "regular noun"
     ]
   },
+  "bergs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "berg"
+    ]
+  },
   "beria": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -787,6 +1054,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "berms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "berm"
     ]
   },
   "berra": {
@@ -811,6 +1087,16 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "verb"
+    ]
+  },
+  "betas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "beta"
     ]
   },
   "betel": {
@@ -855,6 +1141,15 @@
       "unknown"
     ]
   },
+  "biers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bier"
+    ]
+  },
   "biffs": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -893,6 +1188,15 @@
       "unknown"
     ]
   },
+  "blahs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "blah"
+    ]
+  },
   "blats": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -918,10 +1222,28 @@
       "proper noun"
     ]
   },
+  "blips": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "blip"
+    ]
+  },
   "bloch": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "blocs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bloc"
     ]
   },
   "blued": {
@@ -936,6 +1258,15 @@
       "unknown"
     ]
   },
+  "boars": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "boar"
+    ]
+  },
   "bobbi": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -948,6 +1279,16 @@
       "verb"
     ]
   },
+  "boers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "boer"
+    ]
+  },
   "boffo": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -958,6 +1299,25 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "bolas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bola"
+    ]
+  },
+  "boles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bole"
     ]
   },
   "bolls": {
@@ -984,6 +1344,24 @@
       "proper noun"
     ]
   },
+  "boons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "boon"
+    ]
+  },
+  "boors": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "boor"
+    ]
+  },
   "borgs": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1000,6 +1378,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "bouts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bout"
     ]
   },
   "bowen": {
@@ -1026,6 +1413,15 @@
       "proper noun"
     ]
   },
+  "bozos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bozo"
+    ]
+  },
   "bract": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -1036,6 +1432,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "braes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "brae"
     ]
   },
   "bragg": {
@@ -1050,6 +1455,15 @@
       "proper noun"
     ]
   },
+  "brats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "brat"
+    ]
+  },
   "breve": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -1062,16 +1476,45 @@
       "unknown"
     ]
   },
+  "brigs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "brig"
+    ]
+  },
   "brill": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
     ]
   },
+  "brits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "brit"
+    ]
+  },
   "britt": {
     "reason": "primarily a name, demonym, or name-derived term in familiar usage",
     "types": [
       "regular noun"
+    ]
+  },
+  "brows": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "brow"
     ]
   },
   "bruit": {
@@ -1104,6 +1547,15 @@
       "unknown"
     ]
   },
+  "bulbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "bulb"
+    ]
+  },
   "bumph": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -1114,6 +1566,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "burbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "burb"
     ]
   },
   "burch": {
@@ -1158,6 +1619,24 @@
       "regular noun"
     ]
   },
+  "bytes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "byte"
+    ]
+  },
+  "cacti": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cactus"
+    ]
+  },
   "cadge": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -1168,6 +1647,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "cafes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cafe"
     ]
   },
   "caffs": {
@@ -1195,6 +1683,15 @@
       "verb"
     ]
   },
+  "camos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "camo"
+    ]
+  },
   "caner": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1219,6 +1716,15 @@
       "proper noun"
     ]
   },
+  "capos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "capo"
+    ]
+  },
   "capra": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -1229,6 +1735,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "carbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "carb"
     ]
   },
   "carla": {
@@ -1243,6 +1758,16 @@
       "unknown"
     ]
   },
+  "carpi": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "carpus"
+    ]
+  },
   "casas": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1253,6 +1778,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "casks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cask"
     ]
   },
   "ceder": {
@@ -1267,10 +1801,49 @@
       "unknown"
     ]
   },
+  "cells": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cell"
+    ]
+  },
+  "celts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "celt"
+    ]
+  },
+  "cents": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cent"
+    ]
+  },
   "cetus": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "chads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chad"
     ]
   },
   "chars": {
@@ -1278,6 +1851,15 @@
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "chefs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chef"
     ]
   },
   "cheri": {
@@ -1298,10 +1880,66 @@
       "unknown"
     ]
   },
+  "chits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chit"
+    ]
+  },
   "chivy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "verb"
+    ]
+  },
+  "chocs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "choc"
+    ]
+  },
+  "chows": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chow"
+    ]
+  },
+  "chubs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chub"
+    ]
+  },
+  "chums": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "chum"
+    ]
+  },
+  "cilia": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cilium"
     ]
   },
   "cindy": {
@@ -1322,10 +1960,28 @@
       "unknown"
     ]
   },
+  "clans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "clan"
+    ]
+  },
   "clara": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "clefs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "clef"
     ]
   },
   "clews": {
@@ -1339,6 +1995,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "clods": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "clod"
     ]
   },
   "clvii": {
@@ -1377,11 +2042,39 @@
       "proper noun"
     ]
   },
+  "cocci": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coccus"
+    ]
+  },
   "cocos": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
       "proper noun",
       "regular noun"
+    ]
+  },
+  "codas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coda"
+    ]
+  },
+  "coeds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coed"
     ]
   },
   "cohan": {
@@ -1396,16 +2089,55 @@
       "regular noun"
     ]
   },
+  "colas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cola"
+    ]
+  },
   "colby": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
     ]
   },
+  "colds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cold"
+    ]
+  },
   "coley": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "colts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "colt"
+    ]
+  },
+  "comas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coma"
     ]
   },
   "comdr": {
@@ -1450,6 +2182,24 @@
       "regular noun"
     ]
   },
+  "coops": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coop"
+    ]
+  },
+  "coots": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coot"
+    ]
+  },
   "corey": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1480,6 +2230,33 @@
       "unknown"
     ]
   },
+  "cotes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cote"
+    ]
+  },
+  "coups": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "coup"
+    ]
+  },
+  "coves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cove"
+    ]
+  },
   "coyle": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1496,6 +2273,24 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "verb"
+    ]
+  },
+  "crags": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "crag"
+    ]
+  },
+  "craws": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "craw"
     ]
   },
   "crays": {
@@ -1540,10 +2335,37 @@
       "unknown"
     ]
   },
+  "cults": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cult"
+    ]
+  },
+  "curds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "curd"
+    ]
+  },
   "curer": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "cusps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cusp"
     ]
   },
   "cuzco": {
@@ -1556,6 +2378,25 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "cysts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "cyst"
+    ]
+  },
+  "czars": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "czar"
     ]
   },
   "daces": {
@@ -1576,10 +2417,29 @@
       "proper noun"
     ]
   },
+  "dales": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dale"
+    ]
+  },
   "daley": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "danes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "dane"
     ]
   },
   "dangs": {
@@ -1666,10 +2526,38 @@
       "unknown"
     ]
   },
+  "deans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dean"
+    ]
+  },
+  "dears": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dear"
+    ]
+  },
   "debra": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "debts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "debt"
     ]
   },
   "decca": {
@@ -1678,10 +2566,28 @@
       "unknown"
     ]
   },
+  "deeds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "deed"
+    ]
+  },
   "deena": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "deeps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "deep"
     ]
   },
   "deere": {
@@ -1700,6 +2606,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "delis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "deli"
+    ]
+  },
+  "dells": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dell"
     ]
   },
   "demob": {
@@ -1730,6 +2654,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "desks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "desk"
     ]
   },
   "devin": {
@@ -1792,6 +2725,15 @@
       "verb"
     ]
   },
+  "dills": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dill"
+    ]
+  },
   "dinah": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1816,6 +2758,33 @@
       "adjective"
     ]
   },
+  "dirks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dirk"
+    ]
+  },
+  "discs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "disc"
+    ]
+  },
+  "divas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "diva"
+    ]
+  },
   "dixon": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1826,6 +2795,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "dodos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dodo"
+    ]
+  },
+  "doers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "doer"
     ]
   },
   "dogie": {
@@ -1840,10 +2827,46 @@
       "proper noun"
     ]
   },
+  "doles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dole"
+    ]
+  },
+  "dolls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "doll"
+    ]
+  },
   "dolor": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "dolts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dolt"
+    ]
+  },
+  "domes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dome"
     ]
   },
   "donas": {
@@ -1858,6 +2881,15 @@
       "proper noun"
     ]
   },
+  "doors": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "door"
+    ]
+  },
   "doper": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -1869,6 +2901,24 @@
     "types": [
       "adjective",
       "proper noun"
+    ]
+  },
+  "dorks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dork"
+    ]
+  },
+  "dorms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dorm"
     ]
   },
   "doter": {
@@ -1889,6 +2939,16 @@
       "unknown"
     ]
   },
+  "doves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dove"
+    ]
+  },
   "dower": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -1902,16 +2962,52 @@
       "unknown"
     ]
   },
+  "drabs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "drab"
+    ]
+  },
   "draco": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
     ]
   },
+  "drams": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dram"
+    ]
+  },
+  "drays": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dray"
+    ]
+  },
   "drear": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "dregs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dreg"
     ]
   },
   "droid": {
@@ -1944,16 +3040,52 @@
       "unknown"
     ]
   },
+  "ducts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "duct"
+    ]
+  },
   "duded": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
     ]
   },
+  "dudes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dude"
+    ]
+  },
+  "duets": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "duet"
+    ]
+  },
   "duffs": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "dukes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "duke"
     ]
   },
   "dumbo": {
@@ -2011,6 +3143,15 @@
       "regular noun"
     ]
   },
+  "dyers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "dyer"
+    ]
+  },
   "dylan": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -2029,10 +3170,28 @@
       "unknown"
     ]
   },
+  "earls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "earl"
+    ]
+  },
   "eaton": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "eaves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "eave"
     ]
   },
   "ebert": {
@@ -2173,6 +3332,16 @@
       "regular noun"
     ]
   },
+  "elves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "elf"
+    ]
+  },
   "elvia": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -2197,6 +3366,15 @@
       "proper noun"
     ]
   },
+  "emirs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "emir"
+    ]
+  },
   "emmys": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -2219,6 +3397,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "epees": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "epee"
+    ]
+  },
+  "epics": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "epic"
     ]
   },
   "equiv": {
@@ -2329,6 +3525,15 @@
       "proper noun"
     ]
   },
+  "euros": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "euro"
+    ]
+  },
   "evert": {
     "reason": "primarily a name, demonym, or name-derived term in familiar usage",
     "types": [
@@ -2342,10 +3547,56 @@
       "unknown"
     ]
   },
+  "evils": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "evil"
+    ]
+  },
   "evita": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "ewers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ewer"
+    ]
+  },
+  "exams": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "exam"
+    ]
+  },
+  "exons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "exon"
+    ]
+  },
+  "expos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "expo"
     ]
   },
   "exurb": {
@@ -2354,10 +3605,29 @@
       "unknown"
     ]
   },
+  "facts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fact"
+    ]
+  },
   "faddy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "fangs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fang"
     ]
   },
   "farad": {
@@ -2384,11 +3654,74 @@
       "proper noun"
     ]
   },
+  "fauns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "faun"
+    ]
+  },
+  "favas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fava"
+    ]
+  },
+  "faves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fave"
+    ]
+  },
+  "feats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "feat"
+    ]
+  },
   "fermi": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "proper noun",
       "regular noun"
+    ]
+  },
+  "ferns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fern"
+    ]
+  },
+  "fests": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fest"
+    ]
+  },
+  "fiats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fiat"
     ]
   },
   "fichu": {
@@ -2397,10 +3730,38 @@
       "regular noun"
     ]
   },
+  "fiefs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fief"
+    ]
+  },
+  "fifes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fife"
+    ]
+  },
   "finis": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "finns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "finn"
     ]
   },
   "fiona": {
@@ -2415,6 +3776,15 @@
       "unknown"
     ]
   },
+  "fists": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fist"
+    ]
+  },
   "fitch": {
     "reason": "primarily a name, demonym, or name-derived term in familiar usage",
     "types": [
@@ -2427,10 +3797,46 @@
       "adverb"
     ]
   },
+  "flans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "flan"
+    ]
+  },
+  "flats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "flat"
+    ]
+  },
   "flatt": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "fleas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "flea"
+    ]
+  },
+  "floes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "floe"
     ]
   },
   "flory": {
@@ -2445,6 +3851,15 @@
       "unknown"
     ]
   },
+  "flues": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "flue"
+    ]
+  },
   "flynn": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -2457,10 +3872,37 @@
       "unknown"
     ]
   },
+  "folks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "folk"
+    ]
+  },
   "fonda": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "fonts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "font"
+    ]
+  },
+  "foods": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "food"
     ]
   },
   "fores": {
@@ -2473,6 +3915,24 @@
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "fours": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "four"
+    ]
+  },
+  "frats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "frat"
     ]
   },
   "freda": {
@@ -2524,6 +3984,16 @@
       "unknown"
     ]
   },
+  "fungi": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "fungus"
+    ]
+  },
   "furze": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -2534,6 +4004,42 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "gaffs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gaff"
+    ]
+  },
+  "gaits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gait"
+    ]
+  },
+  "galas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gala"
+    ]
+  },
+  "gales": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gale"
     ]
   },
   "gallo": {
@@ -2597,10 +4103,55 @@
       "unknown"
     ]
   },
+  "geeks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "geek"
+    ]
+  },
+  "geese": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "goose"
+    ]
+  },
   "gelid": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "genes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gene"
+    ]
+  },
+  "genii": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "genius"
+    ]
+  },
+  "germs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "germ"
     ]
   },
   "gerry": {
@@ -2613,6 +4164,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "ghats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ghat"
     ]
   },
   "ghent": {
@@ -2639,6 +4199,24 @@
       "unknown"
     ]
   },
+  "gills": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gill"
+    ]
+  },
+  "gilts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gilt"
+    ]
+  },
   "gimps": {
     "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
     "types": [
@@ -2650,6 +4228,15 @@
     "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "girls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "girl"
     ]
   },
   "giros": {
@@ -2695,6 +4282,24 @@
       "proper noun"
     ]
   },
+  "glens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "glen"
+    ]
+  },
+  "globs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "glob"
+    ]
+  },
   "gluon": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -2705,6 +4310,34 @@
     "reason": "specialist scientific, medical, musical, or technical vocabulary",
     "types": [
       "regular noun"
+    ]
+  },
+  "gnats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gnat"
+    ]
+  },
+  "goals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "goal"
+    ]
+  },
+  "goats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "goat"
     ]
   },
   "godel": {
@@ -2729,6 +4362,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "golds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gold"
     ]
   },
   "golgi": {
@@ -2756,6 +4398,24 @@
       "unknown"
     ]
   },
+  "goods": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "good"
+    ]
+  },
+  "goons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "goon"
+    ]
+  },
   "goren": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -2780,16 +4440,54 @@
       "unknown"
     ]
   },
+  "goths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "goth"
+    ]
+  },
   "gould": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
     ]
   },
+  "grads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "grad"
+    ]
+  },
   "grady": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "grams": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gram"
+    ]
+  },
+  "grans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gran"
     ]
   },
   "greer": {
@@ -2808,6 +4506,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "grids": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "grid"
     ]
   },
   "grieg": {
@@ -2848,10 +4555,47 @@
       "unknown"
     ]
   },
+  "gulfs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gulf"
+    ]
+  },
   "gungy": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "gurus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "guru"
+    ]
+  },
+  "gusts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gust"
+    ]
+  },
+  "gyros": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "gyro"
     ]
   },
   "gyved": {
@@ -2884,6 +4628,33 @@
       "unknown"
     ]
   },
+  "hafts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "haft"
+    ]
+  },
+  "hairs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hair"
+    ]
+  },
+  "hakes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hake"
+    ]
+  },
   "haler": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -2904,16 +4675,45 @@
       "proper noun"
     ]
   },
+  "halls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hall"
+    ]
+  },
   "halon": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
     ]
   },
+  "halos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "halo"
+    ]
+  },
   "haney": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "hanks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hank"
     ]
   },
   "haply": {
@@ -2932,6 +4732,16 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "harts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hart"
     ]
   },
   "hayek": {
@@ -2970,6 +4780,15 @@
       "unknown"
     ]
   },
+  "heirs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "heir"
+    ]
+  },
   "helga": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3000,6 +4819,15 @@
       "unknown"
     ]
   },
+  "herbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "herb"
+    ]
+  },
   "herod": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -3018,10 +4846,28 @@
       "proper noun"
     ]
   },
+  "hicks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hick"
+    ]
+  },
   "hided": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "verb"
+    ]
+  },
+  "highs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "high"
     ]
   },
   "hilda": {
@@ -3030,11 +4876,29 @@
       "unknown"
     ]
   },
+  "hilts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hilt"
+    ]
+  },
   "hindi": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
       "adjective",
       "proper noun"
+    ]
+  },
+  "hinds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hind"
     ]
   },
   "hines": {
@@ -3059,6 +4923,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "hobos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hobo"
     ]
   },
   "hodge": {
@@ -3146,6 +5019,15 @@
       "unknown"
     ]
   },
+  "hours": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hour"
+    ]
+  },
   "huang": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3156,6 +5038,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "hulas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hula"
+    ]
+  },
+  "hunks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "hunk"
     ]
   },
   "huron": {
@@ -3202,6 +5102,33 @@
       "proper noun"
     ]
   },
+  "icons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "icon"
+    ]
+  },
+  "ideas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "idea"
+    ]
+  },
+  "idols": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "idol"
+    ]
+  },
   "ilene": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3224,6 +5151,15 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "imams": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "imam"
     ]
   },
   "imper": {
@@ -3281,6 +5217,15 @@
       "proper noun"
     ]
   },
+  "iotas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "iota"
+    ]
+  },
   "irvin": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3299,10 +5244,37 @@
       "unknown"
     ]
   },
+  "isles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "isle"
+    ]
+  },
   "isuzu": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "items": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "item"
+    ]
+  },
+  "ivies": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ivy"
     ]
   },
   "izaak": {
@@ -3327,6 +5299,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "jambs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jamb"
     ]
   },
   "jamel": {
@@ -3359,6 +5340,15 @@
       "unknown"
     ]
   },
+  "japes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jape"
+    ]
+  },
   "jatos": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
@@ -3376,6 +5366,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "jeans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jean"
+    ]
+  },
+  "jeeps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jeep"
     ]
   },
   "jemmy": {
@@ -3408,6 +5416,15 @@
       "proper noun"
     ]
   },
+  "jiffs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jiff"
+    ]
+  },
   "jinni": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -3432,16 +5449,53 @@
       "unknown"
     ]
   },
+  "jocks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jock"
+    ]
+  },
   "jodie": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
     ]
   },
+  "joeys": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "joey"
+    ]
+  },
+  "johns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "john"
+    ]
+  },
   "jonas": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "jowls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "jowl"
     ]
   },
   "joyed": {
@@ -3460,6 +5514,15 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "jukes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "juke"
     ]
   },
   "jules": {
@@ -3490,6 +5553,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "karts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kart"
     ]
   },
   "karyn": {
@@ -3553,10 +5625,65 @@
       "unknown"
     ]
   },
+  "khans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "khan"
+    ]
+  },
   "khufu": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "kilns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kiln"
+    ]
+  },
+  "kilos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kilo"
+    ]
+  },
+  "kilts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kilt"
+    ]
+  },
+  "kinds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kind"
+    ]
+  },
+  "kings": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "king"
     ]
   },
   "kirov": {
@@ -3571,6 +5698,16 @@
       "verb"
     ]
   },
+  "kiwis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kiwi"
+    ]
+  },
   "kluge": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3581,6 +5718,24 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "knees": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "knee"
+    ]
+  },
+  "knobs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "knob"
     ]
   },
   "knopf": {
@@ -3608,6 +5763,15 @@
       "regular noun"
     ]
   },
+  "kooks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "kook"
+    ]
+  },
   "kraal": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -3624,6 +5788,16 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "kurds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "kurd"
     ]
   },
   "kusch": {
@@ -3663,10 +5837,38 @@
       "proper noun"
     ]
   },
+  "lairs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lair"
+    ]
+  },
   "laius": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "lakes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lake"
+    ]
+  },
+  "lamas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lama"
     ]
   },
   "lamed": {
@@ -3686,6 +5888,24 @@
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "lamps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lamp"
+    ]
+  },
+  "lanes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lane"
     ]
   },
   "lanny": {
@@ -3726,6 +5946,15 @@
       "proper noun"
     ]
   },
+  "laths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lath"
+    ]
+  },
   "lauri": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3750,10 +5979,37 @@
       "verb"
     ]
   },
+  "lawns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lawn"
+    ]
+  },
   "leary": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "leeks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "leek"
+    ]
+  },
+  "lefts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "left"
     ]
   },
   "leger": {
@@ -3818,6 +6074,15 @@
       "unknown"
     ]
   },
+  "liars": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "liar"
+    ]
+  },
   "libby": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -3842,6 +6107,24 @@
       "unknown"
     ]
   },
+  "lidos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lido"
+    ]
+  },
+  "liens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lien"
+    ]
+  },
   "lilia": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -3854,10 +6137,37 @@
       "proper noun"
     ]
   },
+  "lilos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lilo"
+    ]
+  },
+  "limbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "limb"
+    ]
+  },
   "limey": {
     "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "limos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "limo"
     ]
   },
   "lindy": {
@@ -3870,6 +6180,25 @@
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "lints": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lint"
+    ]
+  },
+  "lions": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lion"
     ]
   },
   "lippi": {
@@ -3890,6 +6219,15 @@
       "regular noun"
     ]
   },
+  "lochs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "loch"
+    ]
+  },
   "locke": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -3906,6 +6244,15 @@
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "lodes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lode"
     ]
   },
   "loewe": {
@@ -3933,6 +6280,16 @@
       "verb"
     ]
   },
+  "logos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "logo"
+    ]
+  },
   "loins": {
     "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
     "types": [
@@ -3944,6 +6301,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "loons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "loon"
     ]
   },
   "loren": {
@@ -3982,10 +6348,28 @@
       "verb"
     ]
   },
+  "louts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lout"
+    ]
+  },
   "luann": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "luaus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "luau"
     ]
   },
   "lucks": {
@@ -4014,6 +6398,24 @@
       "proper noun"
     ]
   },
+  "lulus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lulu"
+    ]
+  },
+  "lungs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lung"
+    ]
+  },
   "lurgy": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4037,6 +6439,15 @@
     "reason": "anatomically explicit, sexual, or drug-related answer",
     "types": [
       "adjective"
+    ]
+  },
+  "lutes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lute"
     ]
   },
   "lxvii": {
@@ -4075,10 +6486,38 @@
       "proper noun"
     ]
   },
+  "lyres": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "lyre"
+    ]
+  },
   "mable": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "maces": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mace"
+    ]
+  },
+  "mages": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mage"
     ]
   },
   "magog": {
@@ -4097,6 +6536,53 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "maids": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "maid"
+    ]
+  },
+  "mains": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "main"
+    ]
+  },
+  "males": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "male"
+    ]
+  },
+  "malls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mall"
+    ]
+  },
+  "mamas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mama"
     ]
   },
   "mamet": {
@@ -4136,6 +6622,15 @@
       "unknown"
     ]
   },
+  "marts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mart"
+    ]
+  },
   "marva": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4160,11 +6655,38 @@
       "regular noun"
     ]
   },
+  "masts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mast"
+    ]
+  },
   "mater": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "adjective",
       "regular noun"
+    ]
+  },
+  "maxis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "maxi"
+    ]
+  },
+  "mazes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "maze"
     ]
   },
   "mbini": {
@@ -4179,6 +6701,24 @@
       "unknown"
     ]
   },
+  "meals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "meal"
+    ]
+  },
+  "meats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "meat"
+    ]
+  },
   "medan": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -4189,6 +6729,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "memos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "memo"
     ]
   },
   "menes": {
@@ -4203,6 +6752,15 @@
       "proper noun"
     ]
   },
+  "menus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "menu"
+    ]
+  },
   "merak": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4215,16 +6773,44 @@
       "unknown"
     ]
   },
+  "meres": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mere"
+    ]
+  },
   "merle": {
     "reason": "primarily a name, demonym, or name-derived term in familiar usage",
     "types": [
       "regular noun"
     ]
   },
+  "mesas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mesa"
+    ]
+  },
   "meson": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "metes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mete"
     ]
   },
   "mezzo": {
@@ -4263,6 +6849,33 @@
       "proper noun"
     ]
   },
+  "miens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mien"
+    ]
+  },
+  "mikes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mike"
+    ]
+  },
+  "miles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mile"
+    ]
+  },
   "milne": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -4287,6 +6900,24 @@
       "regular noun"
     ]
   },
+  "minis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mini"
+    ]
+  },
+  "minks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mink"
+    ]
+  },
   "minot": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
@@ -4305,6 +6936,24 @@
       "regular noun"
     ]
   },
+  "mites": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mite"
+    ]
+  },
+  "mitts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mitt"
+    ]
+  },
   "mitty": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
@@ -4315,6 +6964,24 @@
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "moats": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "moat"
+    ]
+  },
+  "modes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mode"
     ]
   },
   "modus": {
@@ -4336,6 +7003,15 @@
       "regular noun"
     ]
   },
+  "moles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mole"
+    ]
+  },
   "molls": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -4348,10 +7024,39 @@
       "regular noun"
     ]
   },
+  "monks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "monk"
+    ]
+  },
   "monte": {
     "reason": "primarily a name, demonym, or name-derived term in familiar usage",
     "types": [
       "regular noun"
+    ]
+  },
+  "moods": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mood"
+    ]
+  },
+  "mores": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "more"
     ]
   },
   "morin": {
@@ -4360,10 +7065,37 @@
       "unknown"
     ]
   },
+  "morns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "morn"
+    ]
+  },
+  "motes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mote"
+    ]
+  },
   "motet": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "moths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "moth"
     ]
   },
   "moues": {
@@ -4379,6 +7111,15 @@
       "verb"
     ]
   },
+  "mules": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mule"
+    ]
+  },
   "munis": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4392,10 +7133,55 @@
       "verb"
     ]
   },
+  "musts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "must"
+    ]
+  },
+  "mutts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "mutt"
+    ]
+  },
   "muzzy": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "mynas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "myna"
+    ]
+  },
+  "myths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "myth"
+    ]
+  },
+  "naans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "naan"
     ]
   },
   "nahum": {
@@ -4408,6 +7194,15 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "naifs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "naif"
     ]
   },
   "nampa": {
@@ -4434,16 +7229,43 @@
       "unknown"
     ]
   },
+  "naves": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "nave"
+    ]
+  },
   "neaps": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
     ]
   },
+  "nerds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "nerd"
+    ]
+  },
   "newel": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "newts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "newt"
     ]
   },
   "nexis": {
@@ -4462,6 +7284,15 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "nines": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "nine"
     ]
   },
   "niobe": {
@@ -4494,6 +7325,15 @@
       "unknown"
     ]
   },
+  "noels": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "noel"
+    ]
+  },
   "noemi": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -4506,10 +7346,28 @@
       "adverb"
     ]
   },
+  "noirs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "noir"
+    ]
+  },
   "nonce": {
     "reason": "derogatory label or offensive usage",
     "types": [
       "regular noun"
+    ]
+  },
+  "nooks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "nook"
     ]
   },
   "nooky": {
@@ -4522,6 +7380,33 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "norms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "norm"
+    ]
+  },
+  "nouns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "noun"
+    ]
+  },
+  "novas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "nova"
     ]
   },
   "noyce": {
@@ -4542,6 +7427,15 @@
       "adjective"
     ]
   },
+  "nulls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "null"
+    ]
+  },
   "nunki": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4554,10 +7448,37 @@
       "unknown"
     ]
   },
+  "oases": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oasis"
+    ]
+  },
   "oates": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "oaths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oath"
+    ]
+  },
+  "oboes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oboe"
     ]
   },
   "ocker": {
@@ -4578,10 +7499,64 @@
       "proper noun"
     ]
   },
+  "odors": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "odor"
+    ]
+  },
+  "ogres": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ogre"
+    ]
+  },
+  "okras": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "okra"
+    ]
+  },
   "onega": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "opals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "opal"
+    ]
+  },
+  "orals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oral"
+    ]
+  },
+  "orcas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "orca"
     ]
   },
   "oriel": {
@@ -4614,6 +7589,24 @@
       "adjective"
     ]
   },
+  "ouzos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ouzo"
+    ]
+  },
+  "ovals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oval"
+    ]
+  },
   "ovary": {
     "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
     "types": [
@@ -4625,6 +7618,24 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "adjective"
+    ]
+  },
+  "ovens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "oven"
+    ]
+  },
+  "overs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "over"
     ]
   },
   "ovule": {
@@ -4640,10 +7651,56 @@
       "unknown"
     ]
   },
+  "pacts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pact"
+    ]
+  },
+  "pails": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pail"
+    ]
+  },
   "palmy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "pangs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pang"
+    ]
+  },
+  "papas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "papa"
+    ]
+  },
+  "paras": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "para"
     ]
   },
   "parcs": {
@@ -4658,6 +7715,24 @@
       "adjective"
     ]
   },
+  "pasts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "past"
+    ]
+  },
+  "paths": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "path"
+    ]
+  },
   "patti": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -4668,6 +7743,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "pawls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pawl"
     ]
   },
   "payed": {
@@ -4688,6 +7772,15 @@
       "unknown"
     ]
   },
+  "pears": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pear"
+    ]
+  },
   "pecos": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -4700,10 +7793,28 @@
       "regular noun"
     ]
   },
+  "pekes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "peke"
+    ]
+  },
   "pelee": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "pence": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "penny"
     ]
   },
   "pends": {
@@ -4725,10 +7836,46 @@
       "unknown"
     ]
   },
+  "peons": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "peon"
+    ]
+  },
   "perls": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "perps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "perp"
+    ]
+  },
+  "pesos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "peso"
+    ]
+  },
+  "pests": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pest"
     ]
   },
   "pewee": {
@@ -4743,10 +7890,28 @@
       "regular noun"
     ]
   },
+  "phyla": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "phylum"
+    ]
+  },
   "picot": {
     "reason": "specialist scientific, medical, musical, or technical vocabulary",
     "types": [
       "regular noun"
+    ]
+  },
+  "piers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pier"
     ]
   },
   "piked": {
@@ -4761,6 +7926,24 @@
       "unknown"
     ]
   },
+  "pikes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pike"
+    ]
+  },
+  "pills": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pill"
+    ]
+  },
   "pined": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -4771,6 +7954,24 @@
     "reason": "derogatory label or offensive usage",
     "types": [
       "regular noun"
+    ]
+  },
+  "pints": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pint"
+    ]
+  },
+  "pitas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pita"
     ]
   },
   "plash": {
@@ -4799,10 +8000,37 @@
       "unknown"
     ]
   },
+  "pleas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "plea"
+    ]
+  },
   "plebe": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "ploys": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ploy"
+    ]
+  },
+  "plums": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "plum"
     ]
   },
   "plumy": {
@@ -4822,6 +8050,24 @@
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "poems": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "poem"
+    ]
+  },
+  "poets": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "poet"
     ]
   },
   "polly": {
@@ -4846,6 +8092,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "ponds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pond"
     ]
   },
   "pones": {
@@ -4884,16 +8139,43 @@
       "unknown"
     ]
   },
+  "poops": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "poop"
+    ]
+  },
   "porgy": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
     ]
   },
+  "poufs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pouf"
+    ]
+  },
   "poxes": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "prams": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pram"
     ]
   },
   "prang": {
@@ -4903,16 +8185,61 @@
       "verb"
     ]
   },
+  "preps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "prep"
+    ]
+  },
+  "prigs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "prig"
+    ]
+  },
+  "profs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "prof"
+    ]
+  },
   "prole": {
     "reason": "slur, explicit sexual term, or derogatory expression; individually reviewed",
     "types": [
       "regular noun"
     ]
   },
+  "proms": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "prom"
+    ]
+  },
   "prosy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "prows": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "prow"
     ]
   },
   "pseud": {
@@ -4935,6 +8262,16 @@
       "regular noun"
     ]
   },
+  "pucks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "puck"
+    ]
+  },
   "pukka": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -4951,6 +8288,24 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "verb"
+    ]
+  },
+  "pumas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "puma"
+    ]
+  },
+  "punks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "punk"
     ]
   },
   "pupae": {
@@ -4996,10 +8351,28 @@
       "regular noun"
     ]
   },
+  "pyres": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "pyre"
+    ]
+  },
   "pyxes": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "quads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "quad"
     ]
   },
   "quaky": {
@@ -5020,10 +8393,28 @@
       "regular noun"
     ]
   },
+  "quays": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "quay"
+    ]
+  },
   "qubit": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "unknown"
+    ]
+  },
+  "quids": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "quid"
     ]
   },
   "quine": {
@@ -5060,6 +8451,24 @@
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "radii": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "radius"
+    ]
+  },
+  "ragas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "raga"
     ]
   },
   "ramie": {
@@ -5104,10 +8513,29 @@
       "proper noun"
     ]
   },
+  "reals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "real"
+    ]
+  },
   "recto": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "reeds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "reed"
     ]
   },
   "regor": {
@@ -5120,6 +8548,16 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "rheas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rhea"
     ]
   },
   "rheum": {
@@ -5172,6 +8610,24 @@
       "adjective"
     ]
   },
+  "rifts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rift"
+    ]
+  },
+  "rills": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rill"
+    ]
+  },
   "rimed": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -5184,6 +8640,33 @@
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "rinds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rind"
+    ]
+  },
+  "rinks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rink"
+    ]
+  },
+  "rites": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rite"
     ]
   },
   "rived": {
@@ -5204,6 +8687,24 @@
       "regular noun"
     ]
   },
+  "roads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "road"
+    ]
+  },
+  "roans": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "roan"
+    ]
+  },
   "roche": {
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
@@ -5214,6 +8715,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "roles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "role"
     ]
   },
   "roods": {
@@ -5228,10 +8738,38 @@
       "regular noun"
     ]
   },
+  "roses": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rose"
+    ]
+  },
   "rosie": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "rotas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rota"
+    ]
+  },
+  "rotis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "roti"
     ]
   },
   "roues": {
@@ -5250,6 +8788,53 @@
     "reason": "proper name, demonym, brand, or unsupported abbreviation; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "rumps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rump"
+    ]
+  },
+  "rungs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rung"
+    ]
+  },
+  "runts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "runt"
+    ]
+  },
+  "ruses": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rus",
+      "ruse"
+    ]
+  },
+  "rusks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "rusk"
     ]
   },
   "rutty": {
@@ -5288,10 +8873,47 @@
       "unknown"
     ]
   },
+  "sacra": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sacrum"
+    ]
+  },
+  "safes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "safe"
+    ]
+  },
+  "sagas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "saga"
+    ]
+  },
   "saiph": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "sales": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sale"
     ]
   },
   "samoa": {
@@ -5312,10 +8934,39 @@
       "regular noun"
     ]
   },
+  "saris": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sari"
+    ]
+  },
   "sarto": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "saxes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sax",
+      "saxe"
+    ]
+  },
+  "scads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "scad"
     ]
   },
   "scarp": {
@@ -5334,6 +8985,15 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "scows": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "scow"
     ]
   },
   "scrag": {
@@ -5368,10 +9028,28 @@
       "unknown"
     ]
   },
+  "sects": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sect"
+    ]
+  },
   "sedgy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "adjective"
+    ]
+  },
+  "seers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "seer"
     ]
   },
   "segre": {
@@ -5385,6 +9063,44 @@
     "types": [
       "medical term",
       "regular noun"
+    ]
+  },
+  "semis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "semi"
+    ]
+  },
+  "septa": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "septum"
+    ]
+  },
+  "serbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "serb"
+    ]
+  },
+  "serfs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "serf"
     ]
   },
   "serge": {
@@ -5431,6 +9147,15 @@
       "verb"
     ]
   },
+  "shahs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "shah"
+    ]
+  },
   "shays": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -5461,10 +9186,28 @@
       "verb"
     ]
   },
+  "shivs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "shiv"
+    ]
+  },
   "shoat": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "shots": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "shot"
     ]
   },
   "sikhs": {
@@ -5473,10 +9216,56 @@
       "proper noun"
     ]
   },
+  "silks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "silk"
+    ]
+  },
+  "sills": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sill"
+    ]
+  },
+  "silos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "silo"
+    ]
+  },
   "sivan": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "sixes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "six"
+    ]
+  },
+  "skits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "skit"
     ]
   },
   "skoal": {
@@ -5485,11 +9274,57 @@
       "unknown"
     ]
   },
+  "skuas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "skua"
+    ]
+  },
+  "slabs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "slab"
+    ]
+  },
   "slags": {
     "reason": "derogatory label or offensive usage",
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "slavs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "slav"
+    ]
+  },
+  "slobs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "slob"
+    ]
+  },
+  "sloes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sloe"
     ]
   },
   "slued": {
@@ -5535,6 +9370,51 @@
       "verb"
     ]
   },
+  "snits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "snit"
+    ]
+  },
+  "snobs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "snob"
+    ]
+  },
+  "snots": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "snot"
+    ]
+  },
+  "snugs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "snug"
+    ]
+  },
+  "sodas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "soda"
+    ]
+  },
   "soddy": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -5549,6 +9429,15 @@
       "regular noun"
     ]
   },
+  "sofas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sofa"
+    ]
+  },
   "solis": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -5559,6 +9448,16 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "songs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "song"
     ]
   },
   "sooth": {
@@ -5573,6 +9472,15 @@
       "adjective"
     ]
   },
+  "sores": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sore"
+    ]
+  },
   "soses": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -5583,6 +9491,33 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "verb"
+    ]
+  },
+  "souks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "souk"
+    ]
+  },
+  "souls": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "soul"
+    ]
+  },
+  "specs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "spec"
     ]
   },
   "speer": {
@@ -5670,6 +9605,24 @@
       "verb"
     ]
   },
+  "sties": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sty"
+    ]
+  },
+  "stims": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "stim"
+    ]
+  },
   "stoup": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -5713,6 +9666,15 @@
     "types": [
       "proper noun",
       "regular noun"
+    ]
+  },
+  "sumps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "sump"
     ]
   },
   "sunni": {
@@ -5763,16 +9725,99 @@
       "regular noun"
     ]
   },
+  "tacos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "taco"
+    ]
+  },
   "taine": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
     ]
   },
+  "tales": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tale"
+    ]
+  },
+  "tangs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tang"
+    ]
+  },
+  "tapas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tapa"
+    ]
+  },
   "tarim": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "tarns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tarn"
+    ]
+  },
+  "taros": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "taro"
+    ]
+  },
+  "tarps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tarp"
+    ]
+  },
+  "tarsi": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tarsus"
+    ]
+  },
+  "tarts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tart"
     ]
   },
   "tasha": {
@@ -5793,16 +9838,80 @@
       "regular noun"
     ]
   },
+  "teaks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "teak"
+    ]
+  },
+  "teals": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "teal"
+    ]
+  },
   "teats": {
     "reason": "sexual medical vocabulary or genital/reproductive anatomy; excluded by gameplay policy",
     "types": [
       "regular noun"
     ]
   },
+  "techs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tech"
+    ]
+  },
+  "teens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "teen"
+    ]
+  },
+  "teeth": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tooth"
+    ]
+  },
+  "temps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "temp"
+    ]
+  },
   "tench": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "terns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tern"
     ]
   },
   "terra": {
@@ -5827,6 +9936,16 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "thais": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "thai"
     ]
   },
   "therm": {
@@ -5865,6 +9984,24 @@
       "verb"
     ]
   },
+  "tiers": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tier"
+    ]
+  },
+  "tiffs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tiff"
+    ]
+  },
   "timor": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
@@ -5884,10 +10021,28 @@
       "unknown"
     ]
   },
+  "toads": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "toad"
+    ]
+  },
   "toffs": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "togas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "toga"
     ]
   },
   "tokay": {
@@ -5902,10 +10057,65 @@
       "unknown"
     ]
   },
+  "tokes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "toke"
+    ]
+  },
+  "tombs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tomb"
+    ]
+  },
+  "tomes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tome"
+    ]
+  },
   "topee": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "torts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tort"
+    ]
+  },
+  "towns": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "town"
+    ]
+  },
+  "trays": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tray"
     ]
   },
   "trews": {
@@ -5914,10 +10124,28 @@
       "regular noun"
     ]
   },
+  "treys": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "trey"
+    ]
+  },
   "trier": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun"
+    ]
+  },
+  "trios": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "trio"
     ]
   },
   "trows": {
@@ -5939,10 +10167,37 @@
       "medical term"
     ]
   },
+  "tubas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tuba"
+    ]
+  },
+  "tufts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tuft"
+    ]
+  },
   "tumid": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "adjective"
+    ]
+  },
+  "tunas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tuna"
     ]
   },
   "tunny": {
@@ -5969,6 +10224,16 @@
       "unknown"
     ]
   },
+  "turks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "turk"
+    ]
+  },
   "turps": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -5982,6 +10247,35 @@
       "unknown"
     ]
   },
+  "tutus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tutu"
+    ]
+  },
+  "tykes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "tyke"
+    ]
+  },
+  "typos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "typo"
+    ]
+  },
   "tyros": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -5992,6 +10286,16 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "ulnae": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "ulna"
     ]
   },
   "umbel": {
@@ -6024,10 +10328,37 @@
       "unknown"
     ]
   },
+  "units": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "unit"
+    ]
+  },
+  "updos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "updo"
+    ]
+  },
   "urals": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "users": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "user"
     ]
   },
   "uteri": {
@@ -6035,6 +10366,34 @@
     "types": [
       "medical term",
       "regular noun"
+    ]
+  },
+  "vales": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vale"
+    ]
+  },
+  "vanes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vane"
+    ]
+  },
+  "vases": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vas",
+      "vase"
     ]
   },
   "vasts": {
@@ -6055,6 +10414,15 @@
       "proper noun"
     ]
   },
+  "veeps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "veep"
+    ]
+  },
   "velar": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
@@ -6066,6 +10434,15 @@
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
+    ]
+  },
+  "verbs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "verb"
     ]
   },
   "verde": {
@@ -6080,16 +10457,71 @@
       "regular noun"
     ]
   },
+  "vials": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vial"
+    ]
+  },
   "viand": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
       "regular noun"
     ]
   },
+  "vibes": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vibe"
+    ]
+  },
   "viced": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "vices": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vice"
+    ]
+  },
+  "villi": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "medical term",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "villus"
+    ]
+  },
+  "vines": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vine"
+    ]
+  },
+  "viols": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "viol"
     ]
   },
   "virgo": {
@@ -6102,6 +10534,15 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "vises": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vise"
     ]
   },
   "vitae": {
@@ -6122,10 +10563,37 @@
       "proper noun"
     ]
   },
+  "vivas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "viva"
+    ]
+  },
+  "voles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "vole"
+    ]
+  },
   "volta": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "volts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "volt"
     ]
   },
   "voxel": {
@@ -6153,6 +10621,24 @@
       "unknown"
     ]
   },
+  "wadis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wadi"
+    ]
+  },
+  "waifs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "waif"
+    ]
+  },
   "wains": {
     "reason": "unfamiliar specialist expression; individually reviewed for recognizability",
     "types": [
@@ -6166,10 +10652,48 @@
       "unknown"
     ]
   },
+  "wands": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wand"
+    ]
+  },
   "warez": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "warts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wart"
+    ]
+  },
+  "wasps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wasp"
+    ]
+  },
+  "watts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "watt"
     ]
   },
   "waugh": {
@@ -6197,6 +10721,15 @@
       "regular noun"
     ]
   },
+  "weeks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "week"
+    ]
+  },
   "weens": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -6209,10 +10742,28 @@
       "adjective"
     ]
   },
+  "wefts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "weft"
+    ]
+  },
   "weill": {
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "weirs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "weir"
     ]
   },
   "weiss": {
@@ -6245,6 +10796,34 @@
       "unknown"
     ]
   },
+  "whigs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "historical term",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "whig"
+    ]
+  },
+  "whims": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "whim"
+    ]
+  },
+  "whits": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "whit"
+    ]
+  },
   "whops": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -6264,10 +10843,56 @@
       "proper noun"
     ]
   },
+  "wicks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wick"
+    ]
+  },
+  "wikis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wiki"
+    ]
+  },
+  "wilds": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wild"
+    ]
+  },
   "wiled": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "wiles": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wile"
+    ]
+  },
+  "wimps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wimp"
     ]
   },
   "wined": {
@@ -6276,11 +10901,29 @@
       "verb"
     ]
   },
+  "winos": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wino"
+    ]
+  },
   "wises": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
       "proper noun",
       "regular noun"
+    ]
+  },
+  "wisps": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wisp"
     ]
   },
   "withe": {
@@ -6315,11 +10958,76 @@
       "verb"
     ]
   },
+  "wombs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "womb"
+    ]
+  },
+  "women": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "woman"
+    ]
+  },
+  "wonks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wonk"
+    ]
+  },
+  "woods": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wood"
+    ]
+  },
+  "woofs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "woof"
+    ]
+  },
   "wrack": {
     "reason": "obscure spelling or unusual standalone usage; individually reviewed",
     "types": [
       "regular noun",
       "verb"
+    ]
+  },
+  "wrens": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "wren"
+    ]
+  },
+  "writs": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "writ"
     ]
   },
   "wryer": {
@@ -6353,6 +11061,15 @@
       "verb"
     ]
   },
+  "yards": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yard"
+    ]
+  },
   "yawls": {
     "reason": "obscure word, variant spelling, or awkward inflection; individually reviewed",
     "types": [
@@ -6366,10 +11083,56 @@
       "unknown"
     ]
   },
+  "years": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "year"
+    ]
+  },
   "yeggs": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "yeses": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yes"
+    ]
+  },
+  "yetis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yeti"
+    ]
+  },
+  "yogis": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "proper noun",
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yogi"
+    ]
+  },
+  "yolks": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yolk"
     ]
   },
   "yukky": {
@@ -6382,6 +11145,15 @@
     "reason": "proper name or demonym; individually reviewed",
     "types": [
       "proper noun"
+    ]
+  },
+  "yurts": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "yurt"
     ]
   },
   "zaire": {
@@ -6397,6 +11169,42 @@
       "unknown"
     ]
   },
+  "zebus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "zebu"
+    ]
+  },
+  "zetas": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "zeta"
+    ]
+  },
+  "zines": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "zine"
+    ]
+  },
+  "zings": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "regular noun"
+    ],
+    "singular_forms": [
+      "zing"
+    ]
+  },
   "zorch": {
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
@@ -6407,6 +11215,16 @@
     "reason": "name, abbreviation, or obscure/nonstandard expression; individually reviewed",
     "types": [
       "unknown"
+    ]
+  },
+  "zulus": {
+    "reason": "plural noun form with no reviewed independent nonplural use",
+    "types": [
+      "demonym",
+      "proper noun"
+    ],
+    "singular_forms": [
+      "zulu"
     ]
   }
 }

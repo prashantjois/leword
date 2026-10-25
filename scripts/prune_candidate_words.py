@@ -35,6 +35,8 @@ def main():
         if decision['action'] == 'exclude':
             entry = types.get(word, previous.get(word, {}))
             report[word] = {'reason': decision['reason'], 'types': entry.get('types', ['unknown'])}
+            if 'singular_forms' in decision:
+                report[word]['singular_forms'] = decision['singular_forms']
 
     existing = args.exclusions.read_text()
     excluded = {line.split('#', 1)[0].strip() for line in existing.splitlines()}

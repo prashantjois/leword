@@ -71,7 +71,10 @@ def classify(word, entries, exceptions):
         forms = {word}
         if word in exceptions[pos]:
             forms.update(exceptions[pos][word])
-        else:
+        # Verb exceptions may describe only one sense: taxis is also taxis
+        # from taxi. Noun exceptions remain authoritative so genus is not
+        # mistaken for a plural of the anatomical noun genu.
+        if pos == 'verb' or word not in exceptions[pos]:
             for ending, replacement in RULES[pos]:
                 if word.endswith(ending):
                     forms.add(word[:-len(ending)] + replacement)

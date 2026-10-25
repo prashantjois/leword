@@ -1,0 +1,1584 @@
+{
+  "acids": [
+    "acid"
+  ],
+  "acmes": [
+    "acme"
+  ],
+  "acres": [
+    "acre"
+  ],
+  "admen": [
+    "adman"
+  ],
+  "adzes": [
+    "adz",
+    "adze"
+  ],
+  "afros": [
+    "afro"
+  ],
+  "aloes": [
+    "aloe"
+  ],
+  "altos": [
+    "alto"
+  ],
+  "alums": [
+    "alum"
+  ],
+  "ankhs": [
+    "ankh"
+  ],
+  "arabs": [
+    "arab"
+  ],
+  "areas": [
+    "area"
+  ],
+  "arias": [
+    "aria"
+  ],
+  "atoms": [
+    "atom"
+  ],
+  "atria": [
+    "atrium"
+  ],
+  "aunts": [
+    "aunt"
+  ],
+  "auras": [
+    "aura"
+  ],
+  "autos": [
+    "auto"
+  ],
+  "axles": [
+    "axle"
+  ],
+  "axons": [
+    "axon"
+  ],
+  "babes": [
+    "babe"
+  ],
+  "balms": [
+    "balm"
+  ],
+  "banns": [
+    "bann"
+  ],
+  "barns": [
+    "barn"
+  ],
+  "beaus": [
+    "beau"
+  ],
+  "becks": [
+    "beck"
+  ],
+  "beers": [
+    "beer"
+  ],
+  "beets": [
+    "beet"
+  ],
+  "bergs": [
+    "berg"
+  ],
+  "berms": [
+    "berm"
+  ],
+  "betas": [
+    "beta"
+  ],
+  "biers": [
+    "bier"
+  ],
+  "blahs": [
+    "blah"
+  ],
+  "blips": [
+    "blip"
+  ],
+  "blocs": [
+    "bloc"
+  ],
+  "boars": [
+    "boar"
+  ],
+  "boers": [
+    "boer"
+  ],
+  "bolas": [
+    "bola"
+  ],
+  "boles": [
+    "bole"
+  ],
+  "boons": [
+    "boon"
+  ],
+  "boors": [
+    "boor"
+  ],
+  "bouts": [
+    "bout"
+  ],
+  "bozos": [
+    "bozo"
+  ],
+  "braes": [
+    "brae"
+  ],
+  "brats": [
+    "brat"
+  ],
+  "brigs": [
+    "brig"
+  ],
+  "brits": [
+    "brit"
+  ],
+  "brows": [
+    "brow"
+  ],
+  "bulbs": [
+    "bulb"
+  ],
+  "burbs": [
+    "burb"
+  ],
+  "bytes": [
+    "byte"
+  ],
+  "cacti": [
+    "cactus"
+  ],
+  "cafes": [
+    "cafe"
+  ],
+  "camos": [
+    "camo"
+  ],
+  "capos": [
+    "capo"
+  ],
+  "carbs": [
+    "carb"
+  ],
+  "carpi": [
+    "carpus"
+  ],
+  "casks": [
+    "cask"
+  ],
+  "cells": [
+    "cell"
+  ],
+  "celts": [
+    "celt"
+  ],
+  "cents": [
+    "cent"
+  ],
+  "chads": [
+    "chad"
+  ],
+  "chefs": [
+    "chef"
+  ],
+  "chits": [
+    "chit"
+  ],
+  "chocs": [
+    "choc"
+  ],
+  "chows": [
+    "chow"
+  ],
+  "chubs": [
+    "chub"
+  ],
+  "chums": [
+    "chum"
+  ],
+  "cilia": [
+    "cilium"
+  ],
+  "clans": [
+    "clan"
+  ],
+  "clefs": [
+    "clef"
+  ],
+  "clods": [
+    "clod"
+  ],
+  "cocci": [
+    "coccus"
+  ],
+  "codas": [
+    "coda"
+  ],
+  "coeds": [
+    "coed"
+  ],
+  "colas": [
+    "cola"
+  ],
+  "colds": [
+    "cold"
+  ],
+  "colts": [
+    "colt"
+  ],
+  "comas": [
+    "coma"
+  ],
+  "coops": [
+    "coop"
+  ],
+  "coots": [
+    "coot"
+  ],
+  "cotes": [
+    "cote"
+  ],
+  "coups": [
+    "coup"
+  ],
+  "coves": [
+    "cove"
+  ],
+  "crags": [
+    "crag"
+  ],
+  "craws": [
+    "craw"
+  ],
+  "cults": [
+    "cult"
+  ],
+  "curds": [
+    "curd"
+  ],
+  "cusps": [
+    "cusp"
+  ],
+  "cysts": [
+    "cyst"
+  ],
+  "czars": [
+    "czar"
+  ],
+  "dales": [
+    "dale"
+  ],
+  "danes": [
+    "dane"
+  ],
+  "deans": [
+    "dean"
+  ],
+  "dears": [
+    "dear"
+  ],
+  "debts": [
+    "debt"
+  ],
+  "deeds": [
+    "deed"
+  ],
+  "deeps": [
+    "deep"
+  ],
+  "delis": [
+    "deli"
+  ],
+  "dells": [
+    "dell"
+  ],
+  "desks": [
+    "desk"
+  ],
+  "dills": [
+    "dill"
+  ],
+  "dirks": [
+    "dirk"
+  ],
+  "discs": [
+    "disc"
+  ],
+  "divas": [
+    "diva"
+  ],
+  "dodos": [
+    "dodo"
+  ],
+  "doers": [
+    "doer"
+  ],
+  "doles": [
+    "dole"
+  ],
+  "dolls": [
+    "doll"
+  ],
+  "dolts": [
+    "dolt"
+  ],
+  "domes": [
+    "dome"
+  ],
+  "doors": [
+    "door"
+  ],
+  "dorks": [
+    "dork"
+  ],
+  "dorms": [
+    "dorm"
+  ],
+  "doves": [
+    "dove"
+  ],
+  "drabs": [
+    "drab"
+  ],
+  "drams": [
+    "dram"
+  ],
+  "drays": [
+    "dray"
+  ],
+  "dregs": [
+    "dreg"
+  ],
+  "ducts": [
+    "duct"
+  ],
+  "dudes": [
+    "dude"
+  ],
+  "duets": [
+    "duet"
+  ],
+  "dukes": [
+    "duke"
+  ],
+  "dyers": [
+    "dyer"
+  ],
+  "earls": [
+    "earl"
+  ],
+  "eaves": [
+    "eave"
+  ],
+  "elves": [
+    "elf"
+  ],
+  "emirs": [
+    "emir"
+  ],
+  "epees": [
+    "epee"
+  ],
+  "epics": [
+    "epic"
+  ],
+  "euros": [
+    "euro"
+  ],
+  "evils": [
+    "evil"
+  ],
+  "ewers": [
+    "ewer"
+  ],
+  "exams": [
+    "exam"
+  ],
+  "exons": [
+    "exon"
+  ],
+  "expos": [
+    "expo"
+  ],
+  "facts": [
+    "fact"
+  ],
+  "fangs": [
+    "fang"
+  ],
+  "fauns": [
+    "faun"
+  ],
+  "favas": [
+    "fava"
+  ],
+  "faves": [
+    "fave"
+  ],
+  "feats": [
+    "feat"
+  ],
+  "ferns": [
+    "fern"
+  ],
+  "fests": [
+    "fest"
+  ],
+  "fiats": [
+    "fiat"
+  ],
+  "fiefs": [
+    "fief"
+  ],
+  "fifes": [
+    "fife"
+  ],
+  "finns": [
+    "finn"
+  ],
+  "fists": [
+    "fist"
+  ],
+  "flans": [
+    "flan"
+  ],
+  "flats": [
+    "flat"
+  ],
+  "fleas": [
+    "flea"
+  ],
+  "floes": [
+    "floe"
+  ],
+  "flues": [
+    "flue"
+  ],
+  "folks": [
+    "folk"
+  ],
+  "fonts": [
+    "font"
+  ],
+  "foods": [
+    "food"
+  ],
+  "fours": [
+    "four"
+  ],
+  "frats": [
+    "frat"
+  ],
+  "fungi": [
+    "fungus"
+  ],
+  "gaffs": [
+    "gaff"
+  ],
+  "gaits": [
+    "gait"
+  ],
+  "galas": [
+    "gala"
+  ],
+  "gales": [
+    "gale"
+  ],
+  "geeks": [
+    "geek"
+  ],
+  "geese": [
+    "goose"
+  ],
+  "genes": [
+    "gene"
+  ],
+  "genii": [
+    "genius"
+  ],
+  "germs": [
+    "germ"
+  ],
+  "ghats": [
+    "ghat"
+  ],
+  "gills": [
+    "gill"
+  ],
+  "gilts": [
+    "gilt"
+  ],
+  "girls": [
+    "girl"
+  ],
+  "glens": [
+    "glen"
+  ],
+  "globs": [
+    "glob"
+  ],
+  "gnats": [
+    "gnat"
+  ],
+  "goals": [
+    "goal"
+  ],
+  "goats": [
+    "goat"
+  ],
+  "golds": [
+    "gold"
+  ],
+  "goods": [
+    "good"
+  ],
+  "goons": [
+    "goon"
+  ],
+  "goths": [
+    "goth"
+  ],
+  "grads": [
+    "grad"
+  ],
+  "grams": [
+    "gram"
+  ],
+  "grans": [
+    "gran"
+  ],
+  "grids": [
+    "grid"
+  ],
+  "gulfs": [
+    "gulf"
+  ],
+  "gurus": [
+    "guru"
+  ],
+  "gusts": [
+    "gust"
+  ],
+  "gyros": [
+    "gyro"
+  ],
+  "hafts": [
+    "haft"
+  ],
+  "hairs": [
+    "hair"
+  ],
+  "hakes": [
+    "hake"
+  ],
+  "halls": [
+    "hall"
+  ],
+  "halos": [
+    "halo"
+  ],
+  "hanks": [
+    "hank"
+  ],
+  "harts": [
+    "hart"
+  ],
+  "heirs": [
+    "heir"
+  ],
+  "herbs": [
+    "herb"
+  ],
+  "hicks": [
+    "hick"
+  ],
+  "highs": [
+    "high"
+  ],
+  "hilts": [
+    "hilt"
+  ],
+  "hinds": [
+    "hind"
+  ],
+  "hobos": [
+    "hobo"
+  ],
+  "hours": [
+    "hour"
+  ],
+  "hulas": [
+    "hula"
+  ],
+  "hunks": [
+    "hunk"
+  ],
+  "icons": [
+    "icon"
+  ],
+  "ideas": [
+    "idea"
+  ],
+  "idols": [
+    "idol"
+  ],
+  "imams": [
+    "imam"
+  ],
+  "iotas": [
+    "iota"
+  ],
+  "isles": [
+    "isle"
+  ],
+  "items": [
+    "item"
+  ],
+  "ivies": [
+    "ivy"
+  ],
+  "jambs": [
+    "jamb"
+  ],
+  "japes": [
+    "jape"
+  ],
+  "jeans": [
+    "jean"
+  ],
+  "jeeps": [
+    "jeep"
+  ],
+  "jiffs": [
+    "jiff"
+  ],
+  "jocks": [
+    "jock"
+  ],
+  "joeys": [
+    "joey"
+  ],
+  "johns": [
+    "john"
+  ],
+  "jowls": [
+    "jowl"
+  ],
+  "jukes": [
+    "juke"
+  ],
+  "karts": [
+    "kart"
+  ],
+  "khans": [
+    "khan"
+  ],
+  "kilns": [
+    "kiln"
+  ],
+  "kilos": [
+    "kilo"
+  ],
+  "kilts": [
+    "kilt"
+  ],
+  "kinds": [
+    "kind"
+  ],
+  "kings": [
+    "king"
+  ],
+  "kiwis": [
+    "kiwi"
+  ],
+  "knees": [
+    "knee"
+  ],
+  "knobs": [
+    "knob"
+  ],
+  "kooks": [
+    "kook"
+  ],
+  "kurds": [
+    "kurd"
+  ],
+  "lairs": [
+    "lair"
+  ],
+  "lakes": [
+    "lake"
+  ],
+  "lamas": [
+    "lama"
+  ],
+  "lamps": [
+    "lamp"
+  ],
+  "lanes": [
+    "lane"
+  ],
+  "laths": [
+    "lath"
+  ],
+  "lawns": [
+    "lawn"
+  ],
+  "leeks": [
+    "leek"
+  ],
+  "lefts": [
+    "left"
+  ],
+  "liars": [
+    "liar"
+  ],
+  "lidos": [
+    "lido"
+  ],
+  "liens": [
+    "lien"
+  ],
+  "lilos": [
+    "lilo"
+  ],
+  "limbs": [
+    "limb"
+  ],
+  "limos": [
+    "limo"
+  ],
+  "lints": [
+    "lint"
+  ],
+  "lions": [
+    "lion"
+  ],
+  "lochs": [
+    "loch"
+  ],
+  "lodes": [
+    "lode"
+  ],
+  "logos": [
+    "logo"
+  ],
+  "loons": [
+    "loon"
+  ],
+  "louts": [
+    "lout"
+  ],
+  "luaus": [
+    "luau"
+  ],
+  "lulus": [
+    "lulu"
+  ],
+  "lungs": [
+    "lung"
+  ],
+  "lutes": [
+    "lute"
+  ],
+  "lyres": [
+    "lyre"
+  ],
+  "maces": [
+    "mace"
+  ],
+  "mages": [
+    "mage"
+  ],
+  "maids": [
+    "maid"
+  ],
+  "mains": [
+    "main"
+  ],
+  "males": [
+    "male"
+  ],
+  "malls": [
+    "mall"
+  ],
+  "mamas": [
+    "mama"
+  ],
+  "marts": [
+    "mart"
+  ],
+  "masts": [
+    "mast"
+  ],
+  "maxis": [
+    "maxi"
+  ],
+  "mazes": [
+    "maze"
+  ],
+  "meals": [
+    "meal"
+  ],
+  "meats": [
+    "meat"
+  ],
+  "memos": [
+    "memo"
+  ],
+  "menus": [
+    "menu"
+  ],
+  "meres": [
+    "mere"
+  ],
+  "mesas": [
+    "mesa"
+  ],
+  "metes": [
+    "mete"
+  ],
+  "miens": [
+    "mien"
+  ],
+  "mikes": [
+    "mike"
+  ],
+  "miles": [
+    "mile"
+  ],
+  "minis": [
+    "mini"
+  ],
+  "minks": [
+    "mink"
+  ],
+  "mites": [
+    "mite"
+  ],
+  "mitts": [
+    "mitt"
+  ],
+  "moats": [
+    "moat"
+  ],
+  "modes": [
+    "mode"
+  ],
+  "moles": [
+    "mole"
+  ],
+  "monks": [
+    "monk"
+  ],
+  "moods": [
+    "mood"
+  ],
+  "mores": [
+    "more"
+  ],
+  "morns": [
+    "morn"
+  ],
+  "motes": [
+    "mote"
+  ],
+  "moths": [
+    "moth"
+  ],
+  "mules": [
+    "mule"
+  ],
+  "musts": [
+    "must"
+  ],
+  "mutts": [
+    "mutt"
+  ],
+  "mynas": [
+    "myna"
+  ],
+  "myths": [
+    "myth"
+  ],
+  "naans": [
+    "naan"
+  ],
+  "naifs": [
+    "naif"
+  ],
+  "naves": [
+    "nave"
+  ],
+  "nerds": [
+    "nerd"
+  ],
+  "newts": [
+    "newt"
+  ],
+  "nines": [
+    "nine"
+  ],
+  "noels": [
+    "noel"
+  ],
+  "noirs": [
+    "noir"
+  ],
+  "nooks": [
+    "nook"
+  ],
+  "norms": [
+    "norm"
+  ],
+  "nouns": [
+    "noun"
+  ],
+  "novas": [
+    "nova"
+  ],
+  "nulls": [
+    "null"
+  ],
+  "oases": [
+    "oasis"
+  ],
+  "oaths": [
+    "oath"
+  ],
+  "oboes": [
+    "oboe"
+  ],
+  "odors": [
+    "odor"
+  ],
+  "ogres": [
+    "ogre"
+  ],
+  "okras": [
+    "okra"
+  ],
+  "opals": [
+    "opal"
+  ],
+  "orals": [
+    "oral"
+  ],
+  "orcas": [
+    "orca"
+  ],
+  "ouzos": [
+    "ouzo"
+  ],
+  "ovals": [
+    "oval"
+  ],
+  "ovens": [
+    "oven"
+  ],
+  "overs": [
+    "over"
+  ],
+  "pacts": [
+    "pact"
+  ],
+  "pails": [
+    "pail"
+  ],
+  "pangs": [
+    "pang"
+  ],
+  "papas": [
+    "papa"
+  ],
+  "paras": [
+    "para"
+  ],
+  "pasts": [
+    "past"
+  ],
+  "paths": [
+    "path"
+  ],
+  "pawls": [
+    "pawl"
+  ],
+  "pears": [
+    "pear"
+  ],
+  "pekes": [
+    "peke"
+  ],
+  "pence": [
+    "penny"
+  ],
+  "peons": [
+    "peon"
+  ],
+  "perps": [
+    "perp"
+  ],
+  "pesos": [
+    "peso"
+  ],
+  "pests": [
+    "pest"
+  ],
+  "phyla": [
+    "phylum"
+  ],
+  "piers": [
+    "pier"
+  ],
+  "pikes": [
+    "pike"
+  ],
+  "pills": [
+    "pill"
+  ],
+  "pints": [
+    "pint"
+  ],
+  "pitas": [
+    "pita"
+  ],
+  "pleas": [
+    "plea"
+  ],
+  "ploys": [
+    "ploy"
+  ],
+  "plums": [
+    "plum"
+  ],
+  "poems": [
+    "poem"
+  ],
+  "poets": [
+    "poet"
+  ],
+  "ponds": [
+    "pond"
+  ],
+  "poops": [
+    "poop"
+  ],
+  "poufs": [
+    "pouf"
+  ],
+  "prams": [
+    "pram"
+  ],
+  "preps": [
+    "prep"
+  ],
+  "prigs": [
+    "prig"
+  ],
+  "profs": [
+    "prof"
+  ],
+  "proms": [
+    "prom"
+  ],
+  "prows": [
+    "prow"
+  ],
+  "pucks": [
+    "puck"
+  ],
+  "pumas": [
+    "puma"
+  ],
+  "punks": [
+    "punk"
+  ],
+  "pyres": [
+    "pyre"
+  ],
+  "quads": [
+    "quad"
+  ],
+  "quays": [
+    "quay"
+  ],
+  "quids": [
+    "quid"
+  ],
+  "radii": [
+    "radius"
+  ],
+  "ragas": [
+    "raga"
+  ],
+  "reals": [
+    "real"
+  ],
+  "reeds": [
+    "reed"
+  ],
+  "rheas": [
+    "rhea"
+  ],
+  "rifts": [
+    "rift"
+  ],
+  "rills": [
+    "rill"
+  ],
+  "rinds": [
+    "rind"
+  ],
+  "rinks": [
+    "rink"
+  ],
+  "rites": [
+    "rite"
+  ],
+  "roads": [
+    "road"
+  ],
+  "roans": [
+    "roan"
+  ],
+  "roles": [
+    "role"
+  ],
+  "roses": [
+    "rose"
+  ],
+  "rotas": [
+    "rota"
+  ],
+  "rotis": [
+    "roti"
+  ],
+  "rumps": [
+    "rump"
+  ],
+  "rungs": [
+    "rung"
+  ],
+  "runts": [
+    "runt"
+  ],
+  "ruses": [
+    "rus",
+    "ruse"
+  ],
+  "rusks": [
+    "rusk"
+  ],
+  "sacra": [
+    "sacrum"
+  ],
+  "safes": [
+    "safe"
+  ],
+  "sagas": [
+    "saga"
+  ],
+  "sales": [
+    "sale"
+  ],
+  "saris": [
+    "sari"
+  ],
+  "saxes": [
+    "sax",
+    "saxe"
+  ],
+  "scads": [
+    "scad"
+  ],
+  "scows": [
+    "scow"
+  ],
+  "sects": [
+    "sect"
+  ],
+  "seers": [
+    "seer"
+  ],
+  "semis": [
+    "semi"
+  ],
+  "septa": [
+    "septum"
+  ],
+  "serbs": [
+    "serb"
+  ],
+  "serfs": [
+    "serf"
+  ],
+  "shahs": [
+    "shah"
+  ],
+  "shivs": [
+    "shiv"
+  ],
+  "shots": [
+    "shot"
+  ],
+  "silks": [
+    "silk"
+  ],
+  "sills": [
+    "sill"
+  ],
+  "silos": [
+    "silo"
+  ],
+  "sixes": [
+    "six"
+  ],
+  "skits": [
+    "skit"
+  ],
+  "skuas": [
+    "skua"
+  ],
+  "slabs": [
+    "slab"
+  ],
+  "slavs": [
+    "slav"
+  ],
+  "slobs": [
+    "slob"
+  ],
+  "sloes": [
+    "sloe"
+  ],
+  "snits": [
+    "snit"
+  ],
+  "snobs": [
+    "snob"
+  ],
+  "snots": [
+    "snot"
+  ],
+  "snugs": [
+    "snug"
+  ],
+  "sodas": [
+    "soda"
+  ],
+  "sofas": [
+    "sofa"
+  ],
+  "songs": [
+    "song"
+  ],
+  "sores": [
+    "sore"
+  ],
+  "souks": [
+    "souk"
+  ],
+  "souls": [
+    "soul"
+  ],
+  "specs": [
+    "spec"
+  ],
+  "sties": [
+    "sty"
+  ],
+  "stims": [
+    "stim"
+  ],
+  "sumps": [
+    "sump"
+  ],
+  "tacos": [
+    "taco"
+  ],
+  "tales": [
+    "tale"
+  ],
+  "tangs": [
+    "tang"
+  ],
+  "tapas": [
+    "tapa"
+  ],
+  "tarns": [
+    "tarn"
+  ],
+  "taros": [
+    "taro"
+  ],
+  "tarps": [
+    "tarp"
+  ],
+  "tarsi": [
+    "tarsus"
+  ],
+  "tarts": [
+    "tart"
+  ],
+  "teaks": [
+    "teak"
+  ],
+  "teals": [
+    "teal"
+  ],
+  "techs": [
+    "tech"
+  ],
+  "teens": [
+    "teen"
+  ],
+  "teeth": [
+    "tooth"
+  ],
+  "temps": [
+    "temp"
+  ],
+  "terns": [
+    "tern"
+  ],
+  "thais": [
+    "thai"
+  ],
+  "tiers": [
+    "tier"
+  ],
+  "tiffs": [
+    "tiff"
+  ],
+  "toads": [
+    "toad"
+  ],
+  "togas": [
+    "toga"
+  ],
+  "tokes": [
+    "toke"
+  ],
+  "tombs": [
+    "tomb"
+  ],
+  "tomes": [
+    "tome"
+  ],
+  "torts": [
+    "tort"
+  ],
+  "towns": [
+    "town"
+  ],
+  "trays": [
+    "tray"
+  ],
+  "treys": [
+    "trey"
+  ],
+  "trios": [
+    "trio"
+  ],
+  "tubas": [
+    "tuba"
+  ],
+  "tufts": [
+    "tuft"
+  ],
+  "tunas": [
+    "tuna"
+  ],
+  "turks": [
+    "turk"
+  ],
+  "tutus": [
+    "tutu"
+  ],
+  "tykes": [
+    "tyke"
+  ],
+  "typos": [
+    "typo"
+  ],
+  "ulnae": [
+    "ulna"
+  ],
+  "units": [
+    "unit"
+  ],
+  "updos": [
+    "updo"
+  ],
+  "users": [
+    "user"
+  ],
+  "vales": [
+    "vale"
+  ],
+  "vanes": [
+    "vane"
+  ],
+  "vases": [
+    "vas",
+    "vase"
+  ],
+  "veeps": [
+    "veep"
+  ],
+  "verbs": [
+    "verb"
+  ],
+  "vials": [
+    "vial"
+  ],
+  "vibes": [
+    "vibe"
+  ],
+  "vices": [
+    "vice"
+  ],
+  "villi": [
+    "villus"
+  ],
+  "vines": [
+    "vine"
+  ],
+  "viols": [
+    "viol"
+  ],
+  "vises": [
+    "vise"
+  ],
+  "vivas": [
+    "viva"
+  ],
+  "voles": [
+    "vole"
+  ],
+  "volts": [
+    "volt"
+  ],
+  "wadis": [
+    "wadi"
+  ],
+  "waifs": [
+    "waif"
+  ],
+  "wands": [
+    "wand"
+  ],
+  "warts": [
+    "wart"
+  ],
+  "wasps": [
+    "wasp"
+  ],
+  "watts": [
+    "watt"
+  ],
+  "weeks": [
+    "week"
+  ],
+  "wefts": [
+    "weft"
+  ],
+  "weirs": [
+    "weir"
+  ],
+  "whigs": [
+    "whig"
+  ],
+  "whims": [
+    "whim"
+  ],
+  "whits": [
+    "whit"
+  ],
+  "wicks": [
+    "wick"
+  ],
+  "wikis": [
+    "wiki"
+  ],
+  "wilds": [
+    "wild"
+  ],
+  "wiles": [
+    "wile"
+  ],
+  "wimps": [
+    "wimp"
+  ],
+  "winos": [
+    "wino"
+  ],
+  "wisps": [
+    "wisp"
+  ],
+  "wombs": [
+    "womb"
+  ],
+  "women": [
+    "woman"
+  ],
+  "wonks": [
+    "wonk"
+  ],
+  "woods": [
+    "wood"
+  ],
+  "woofs": [
+    "woof"
+  ],
+  "wrens": [
+    "wren"
+  ],
+  "writs": [
+    "writ"
+  ],
+  "yards": [
+    "yard"
+  ],
+  "years": [
+    "year"
+  ],
+  "yeses": [
+    "yes"
+  ],
+  "yetis": [
+    "yeti"
+  ],
+  "yogis": [
+    "yogi"
+  ],
+  "yolks": [
+    "yolk"
+  ],
+  "yurts": [
+    "yurt"
+  ],
+  "zebus": [
+    "zebu"
+  ],
+  "zetas": [
+    "zeta"
+  ],
+  "zines": [
+    "zine"
+  ],
+  "zings": [
+    "zing"
+  ],
+  "zulus": [
+    "zulu"
+  ]
+}

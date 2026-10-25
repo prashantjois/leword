@@ -1,5 +1,9 @@
 """Reviewed lexical types; answer eligibility is in candidate-word-review.json."""
 
+# Plural-only exclusions take precedence over the category allowances below.
+# Valid nonplural uses preserve eligibility even if a plural noun use exists.
+# Category tags describe a word; explicit review decisions determine eligibility.
+
 # Nationalities, regional demonyms, and people/nation names are eligible even
 # when normally capitalized. This does not admit unrelated names or places.
 ALLOWED_DEMONYMS = set('''
@@ -64,6 +68,7 @@ for label, words in {
         roger roust flied kneed meted wised doled eking uncap unset doxed doxes
         faffs frack frags gussy juked maced maxed miked phish rebid redye relit
         remap resat resit resow tromp unfix vaped vapes clonk
+        texts shims maxes vlogs memes
     ''',
     'adverb': 'natch wetly yonks',
     'interjection': 'achoo avast golly humph voila yikes pshaw',

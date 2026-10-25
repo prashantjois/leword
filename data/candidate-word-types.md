@@ -67,6 +67,35 @@ There is no part-of-speech restriction or frequency threshold. Dictionary gaps
 and low frequency never automatically disqualify a word. These are editorial
 decisions and can be amended when a better case for a particular word emerges.
 
+Plural-only noun forms are excluded, including regular plurals (`miles` →
+`mile`) and irregular plurals (`women` → `woman`). A plural noun use does not
+disqualify a word with a valid independent use as a verb, adjective, adverb,
+another grammatical type, or an explicitly reviewed singular or collective noun.
+This preserves `wants`, `knows`, `means`, `times`, `calls`, and `works`.
+It also preserves `books` in "books a room" and `trees` as the verb meaning to
+drive an animal up a tree. Noun-only plurals such as `women`, `teeth`, and `miles`
+remain excluded. Invariant singular forms (`sheep`, `moose`, `corps`) and singular
+words ending in s (`glass`, `virus`, `lupus`, `genus`) remain eligible.
+
+`candidate-word-plurals.json` records excluded plural-only forms and their
+singular noun matches. `candidate-word-ambiguous-forms.json` records eligible
+mixed-use forms, their singular noun matches, and their independent uses.
+`scripts/remove_candidate_plurals.py` uses WordNet morphology and irregular-noun
+exceptions, reviewed noun pairs, grammatical classifications, and reviewed
+singular/collective noun senses. An exact noun dictionary entry alone is not
+evidence of singular usage, since dictionaries also list plural-only nouns.
+Lexical overrides cover newer verbs such as `texts`, `shims`, and `vlogs`.
+The script reconsiders exclusions from the superseded plural policy and restores
+mixed-use forms automatically; unrelated exclusions remain authoritative.
+Both histories are preserved on repeated runs. Review and pruning data preserve
+the reasons and singular forms so ordinary pruning produces the same results.
+
+After adding or rebuilding candidates and regenerating their types, run:
+
+```bash
+python3 scripts/remove_candidate_plurals.py --wordnet-zip /tmp/leword-wordnet.zip
+```
+
 `candidate-word-pruning.json` preserves the excluded entries, their reviewed
 reasons, and their dictionary types. The type mapping is descriptive; it is not
 the authority for eligibility.
