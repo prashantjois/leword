@@ -16,6 +16,8 @@ const COMPLETED_WORDS_KEY = 'leword-completed-words'
 const COMPLETED_WORD_TTL = 1000 * 60 * 60 * 24 * 30 * 6
 const CURRENT_ANSWER_KEY = 'leword-current-answer'
 const CURRENT_GAME_KEY = 'leword-current-game'
+const DIFFICULTY_KEY = 'leword-difficulty'
+const DIFFICULTIES = ['easy', 'medium', 'hard']
 const FIREWORK_COLORS = ['#7a9a46', '#c9a84d', '#d67c62', '#6d9ab8', '#b477a9', '#e29a54']
 
 function scoreGuess(guess, answer) {
@@ -41,11 +43,29 @@ function scoreGuess(guess, answer) {
   return result
 }
 
-function getRandomWord(completedWords = []) {
+function getWordPool(difficulty) {
+  const easyLimit = Math.ceil(WORDS.length / 3)
+  const mediumLimit = Math.ceil((WORDS.length * 2) / 3)
+  if (difficulty === 'easy') return WORDS.slice(0, easyLimit)
+  if (difficulty === 'hard') return WORDS
+  return WORDS.slice(0, mediumLimit)
+}
+
+function getRandomWord(completedWords = [], difficulty = 'medium') {
   const completed = new Set(completedWords.map(({ word }) => word))
-  const availableWords = WORDS.filter((word) => !completed.has(word))
-  const wordPool = availableWords.length ? availableWords : WORDS
+  const eligibleWords = getWordPool(difficulty)
+  const availableWords = eligibleWords.filter((word) => !completed.has(word))
+  const wordPool = availableWords.length ? availableWords : eligibleWords
   return wordPool[Math.floor(Math.random() * wordPool.length)]
+}
+
+function loadDifficulty() {
+  try {
+    const savedDifficulty = localStorage.getItem(DIFFICULTY_KEY)
+    return DIFFICULTIES.includes(savedDifficulty) ? savedDifficulty : 'medium'
+  } catch {
+    return 'medium'
+  }
 }
 
 function loadStats() {
@@ -70,7 +90,7 @@ function loadCompletedWords() {
   }
 }
 
-function loadGameState(completedWords) {
+function loadGameState(completedWords, difficulty) {
   try {
     const savedState = JSON.parse(localStorage.getItem(CURRENT_GAME_KEY))
     const validGuesses = Array.isArray(savedState?.guesses)
@@ -92,7 +112,7 @@ function loadGameState(completedWords) {
   } catch {
     // Fall back to a newly selected word when storage is unavailable.
   }
-  return { answer: getRandomWord(completedWords), guesses: [], current: '' }
+  return { answer: getRandomWord(completedWords, difficulty), guesses: [], current: '' }
 }
 
 function CheatPage() {
@@ -217,7 +237,8 @@ function Fireworks({ onDismiss }) {
 
 function App() {
   const [completedWords, setCompletedWords] = useState(loadCompletedWords)
-  const [initialGame] = useState(() => loadGameState(completedWords))
+  const [difficulty, setDifficulty] = useState(loadDifficulty)
+  const [initialGame] = useState(() => loadGameState(completedWords, difficulty))
   const [answer, setAnswer] = useState(initialGame.answer)
   const [guesses, setGuesses] = useState(initialGame.guesses)
   const [current, setCurrent] = useState(initialGame.current)
@@ -238,6 +259,10 @@ function App() {
     localStorage.setItem(CURRENT_ANSWER_KEY, answer)
     localStorage.setItem(CURRENT_GAME_KEY, JSON.stringify({ answer, guesses, current }))
   }, [answer, guesses, current])
+
+  useEffect(() => {
+    localStorage.setItem(DIFFICULTY_KEY, difficulty)
+  }, [difficulty])
 
   const keyboardState = useMemo(() => {
     const state = {}
@@ -309,7 +334,7 @@ function App() {
   }
 
   function startNewGame() {
-    setAnswer(getRandomWord(completedWords))
+    setAnswer(getRandomWord(completedWords, difficulty))
     setGuesses([])
     setCurrent('')
     setMessage('')
@@ -328,6 +353,14 @@ function App() {
           </div>
         </div>
         <div className="top-actions">
+          <label className="difficulty-picker">
+            <span>Mode</span>
+            <select value={difficulty} onChange={(event) => setDifficulty(event.target.value)} aria-label="Difficulty mode">
+              <option value="easy">Easy</option>
+              <option value="medium">Medium</option>
+              <option value="hard">Hard</option>
+            </select>
+          </label>
           <button className="icon-button" onClick={() => setShowHelp(true)} aria-label="How to play">?</button>
           <button className="new-game-button" onClick={startNewGame}>New word <span>↗</span></button>
         </div>
