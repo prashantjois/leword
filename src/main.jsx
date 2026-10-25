@@ -110,16 +110,67 @@ function CheatPage() {
   )
 }
 
-function Fireworks() {
-  const bursts = [
-    ['12%', '22%'], ['31%', '39%'], ['51%', '16%'], ['72%', '30%'],
-    ['88%', '19%'], ['23%', '68%'], ['68%', '63%'],
-  ]
+function createBurstPosition(index) {
+  return {
+    id: `${Date.now()}-${index}-${Math.random()}`,
+    left: `${8 + Math.random() * 84}%`,
+    top: `${14 + Math.random() * 68}vh`,
+    duration: 1000 + Math.floor(Math.random() * 4001),
+  }
+}
+
+function createBurstPositions() {
+  return Array.from({ length: 7 }, (_, index) => createBurstPosition(index))
+}
+
+function Fireworks({ onDismiss }) {
+  const [bursts, setBursts] = useState(createBurstPositions)
+
+  useEffect(() => {
+    const timers = []
+    const scheduleBurst = (index, delay) => {
+      timers[index] = window.setTimeout(() => {
+        const nextBurst = createBurstPosition(index)
+        setBursts((current) => current.map((burst, burstIndex) => (
+          burstIndex === index ? nextBurst : burst
+        )))
+        scheduleBurst(index, 820 + index * 180 + nextBurst.duration)
+      }, delay)
+    }
+
+    for (let index = 0; index < 7; index += 1) {
+      scheduleBurst(index, 820 + index * 180 + bursts[index].duration)
+    }
+    return () => timers.forEach((timer) => window.clearTimeout(timer))
+  }, [])
+
+  useEffect(() => {
+    const timeout = window.setTimeout(onDismiss, 10000)
+    const handleKeyDown = (event) => {
+      event.preventDefault()
+      onDismiss()
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => {
+      window.clearTimeout(timeout)
+      window.removeEventListener('keydown', handleKeyDown)
+    }
+  }, [onDismiss])
 
   return (
-    <div className="fireworks" aria-hidden="true">
-      {bursts.map(([left, top], burstIndex) => (
-        <div className="firework-burst" key={`${left}-${top}`} style={{ '--burst-left': left, '--burst-top': top }}>
+    <div className="fireworks" aria-hidden="true" onClick={onDismiss}>
+      {bursts.map(({ id, left, top }, burstIndex) => (
+        <div
+          className="firework-burst"
+          key={id}
+          style={{
+            '--burst-left': left,
+            '--burst-top': top,
+            '--burst-color': FIREWORK_COLORS[burstIndex % FIREWORK_COLORS.length],
+            '--spark-delay': `${0.82 + burstIndex * 0.18}s`,
+          }}
+        >
           {Array.from({ length: 16 }).map((_, sparkIndex) => (
             <span
               className="spark"
@@ -127,11 +178,38 @@ function Fireworks() {
               style={{
                 '--spark-angle': `${sparkIndex * 22.5}deg`,
                 '--spark-color': FIREWORK_COLORS[(sparkIndex + burstIndex) % FIREWORK_COLORS.length],
-                '--spark-delay': `${burstIndex * 0.18}s`,
+                '--spark-distance': `${92 + ((sparkIndex + burstIndex) % 4) * 10}px`,
+                '--spark-delay': `${0.82 + burstIndex * 0.18}s`,
               }}
             />
           ))}
+          {Array.from({ length: 16 }).map((_, sparkIndex) => (
+            <span
+              className="spark spark-fine"
+              key={`fine-${sparkIndex}`}
+              style={{
+                '--spark-angle': `${sparkIndex * 22.5 + 11.25}deg`,
+                '--spark-color': FIREWORK_COLORS[(sparkIndex + burstIndex + 2) % FIREWORK_COLORS.length],
+                '--spark-distance': `${58 + ((sparkIndex + burstIndex) % 3) * 10}px`,
+                '--spark-delay': `${0.9 + burstIndex * 0.18}s`,
+              }}
+            />
+          ))}
+          <span className="burst-ring" />
+          <span className="burst-core" />
         </div>
+      ))}
+      {bursts.map(({ id, left, top }, burstIndex) => (
+        <span
+          className="firework-launch"
+          key={`launch-${id}`}
+          style={{
+            '--burst-left': left,
+            '--burst-top': top,
+            '--burst-color': FIREWORK_COLORS[burstIndex % FIREWORK_COLORS.length],
+            '--launch-delay': `${burstIndex * 0.18}s`,
+          }}
+        />
       ))}
     </div>
   )
@@ -147,9 +225,14 @@ function App() {
   const [warning, setWarning] = useState('')
   const [stats, setStats] = useState(loadStats)
   const [showHelp, setShowHelp] = useState(false)
+  const [fireworksActive, setFireworksActive] = useState(false)
 
   const gameOver = guesses.length >= MAX_GUESSES || guesses.some((guess) => guess === answer)
   const won = guesses.at(-1) === answer
+
+  useEffect(() => {
+    setFireworksActive(won)
+  }, [won])
 
   useEffect(() => {
     localStorage.setItem(CURRENT_ANSWER_KEY, answer)
@@ -234,7 +317,7 @@ function App() {
 
   return (
     <main className="app-shell">
-      {won && <Fireworks />}
+      {won && fireworksActive && <Fireworks onDismiss={() => setFireworksActive(false)} />}
       {warning && <div className="warning-toast" role="alert">{warning}</div>}
       <header className="topbar">
         <div className="brand-lockup">
