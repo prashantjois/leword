@@ -9,6 +9,9 @@ them by frequency.
 - A broad English word list, such as an ESDB/SCOWL-derived list
 - `data/inappropriate-words.txt` — excluded profanity and sexual terms
 - `data/proper-names.txt` — excluded common names
+- `data/excluded-candidate-words.txt` — audit exclusions for proper names,
+  places, brands, contractions, abbreviations, non-words, and other
+  incompatible entries
 
 ## Download frequency data
 
@@ -25,6 +28,7 @@ python scripts/build_candidate_words.py \
   --frequency-file data/subtlexus-frequency.txt \
   --exclude-file data/inappropriate-words.txt \
   --exclude-file data/proper-names.txt \
+  --exclude-file data/excluded-candidate-words.txt \
   --output data/candidate-words.txt
 ```
 
