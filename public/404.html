@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Le Word</title>
+  </head>
+  <body>
+    <script>
+      const parts = window.location.pathname.split('/').filter(Boolean)
+      const isProjectPage = parts.length > 1 || (parts[0] && parts[0] !== 'cheat')
+      const base = isProjectPage ? `/${parts[0]}/` : '/'
+      const routeParts = isProjectPage ? parts.slice(1) : parts
+      const route = `/${routeParts.join('/')}`
+      window.location.replace(`${base}?route=${encodeURIComponent(route)}`)
+    </script>
+  </body>
+</html>

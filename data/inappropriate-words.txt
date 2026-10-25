@@ -1,0 +1,12 @@
+# Common profanity and sexual terms excluded from the candidate list.
+bitch
+boobs
+cocks
+craps
+damns
+dicks
+fucks
+penis
+shits
+vulva
+whore
